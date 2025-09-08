@@ -1,5 +1,8 @@
 # Amazon Music Reviews Analysis Project
 
+![amazzzzzzzzon]([image_url_or_path](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Famazon-prime-music-unlimited-faq%2Cnews-25430.html&psig=AOvVaw18ESKa0UCpbHoRoHp4dSvG&ust=1757443388277000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID19PvoyY8DFQAAAAAdAAAAABAE))
+
+
 This project is an implementation for the Database Design course at Sharif University of Technology. It involves setting up a data pipeline to ingest, process, and analyze the Amazon Music Reviews dataset.
 
 The primary technology used is **OpenSearch**, a powerful open-source search and analytics suite. The project includes scripts for data preprocessing, bulk ingestion, querying, and performance benchmarking. The entire environment is containerized using Docker for easy setup and reproducibility.
