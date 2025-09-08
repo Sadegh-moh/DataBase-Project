@@ -108,3 +108,10 @@ python src/bench.py --query-file queries/q1.json --concurrency 4 8 16
 
 The script will output detailed performance metrics, including throughput (QPS) and latency percentiles.
 
+---
+
+## Authors
+- Sadegh Mohammadian (401109477)
+- Ali Najar (401102701)
+- Mazdak Teymourian (401101495)
+- MAryam Shiran (400109446)
