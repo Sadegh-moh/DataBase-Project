@@ -1,0 +1,19 @@
+{
+  "size": 20,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "match": {
+            "summary": "inspiring"
+          }
+        },
+        {
+          "match": {
+            "text": "positive"
+          }
+        }
+      ]
+    }
+  }
+}

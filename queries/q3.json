@@ -1,0 +1,23 @@
+{
+  "size": 20,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "match_phrase": {
+            "text": "catchy tunes"
+          }
+        }
+      ],
+      "filter": [
+        {
+          "range": {
+            "helpfulness_ratio": {
+              "gt": 0.75
+            }
+          }
+        }
+      ]
+    }
+  }
+}

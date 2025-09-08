@@ -1,0 +1,16 @@
+{
+  "size": 0,
+  "query": {
+    "match": {
+      "text": "fun funny fun!"
+    }
+  },
+  "aggs": {
+    "by_user": {
+      "terms": {
+        "field": "profileName",
+        "size": 10
+      }
+    }
+  }
+}

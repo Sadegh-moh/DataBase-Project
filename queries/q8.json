@@ -1,0 +1,21 @@
+{
+  "size": 20,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "match": {
+            "text": "blues"
+          }
+        }
+      ],
+      "must_not": [
+        {
+          "match": {
+            "text": "sad"
+          }
+        }
+      ]
+    }
+  }
+}

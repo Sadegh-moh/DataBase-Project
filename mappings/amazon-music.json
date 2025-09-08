@@ -1,0 +1,64 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "analysis": {
+      "filter": {
+        "my_stop": { "type": "stop", "stopwords": "_english_" },
+        "my_shingle": {
+          "type": "shingle",
+          "min_shingle_size": 2,
+          "max_shingle_size": 3,
+          "output_unigrams": false
+        }
+      },
+      "analyzer": {
+        "text_analyzer": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": ["lowercase", "my_stop"]
+        },
+        "shingle_analyzer": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": ["lowercase", "my_stop", "my_shingle"]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "productId":    { "type": "keyword" },
+      "title":        { "type": "text", "analyzer": "text_analyzer",
+                        "fields": { "raw": { "type": "keyword", "ignore_above": 256 } } },
+      "price":        { "type": "float" },
+      "userId":       { "type": "keyword" },
+      "profileName":  { "type": "keyword" },
+
+      "helpfulness_raw":   { "type": "keyword" },
+      "helpfulness_up":    { "type": "integer" },
+      "helpfulness_down":  { "type": "integer" },
+      "helpfulness_ratio": { "type": "float" },
+
+      "score":        { "type": "float" },
+      "time":         { "type": "date", "format": "epoch_second" },
+
+      "summary": {
+        "type": "text",
+        "analyzer": "text_analyzer",
+        "fields": {
+          "tokens":   { "type": "text", "analyzer": "text_analyzer", "fielddata": true },
+          "shingles": { "type": "text", "analyzer": "shingle_analyzer" }
+        }
+      },
+      "text": {
+        "type": "text",
+        "analyzer": "text_analyzer",
+        "fields": {
+          "tokens":   { "type": "text", "analyzer": "text_analyzer", "fielddata": true },
+          "shingles": { "type": "text", "analyzer": "shingle_analyzer" }
+        }
+      }
+    }
+  }
+}

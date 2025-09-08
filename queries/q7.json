@@ -1,0 +1,18 @@
+{
+  "size": 0,
+  "query": {
+    "range": {
+      "helpfulness_ratio": {
+        "gt": 0.75
+      }
+    }
+  },
+  "aggs": {
+    "top_terms": {
+      "terms": {
+        "field": "text",
+        "size": 10
+      }
+    }
+  }
+}

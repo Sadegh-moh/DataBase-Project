@@ -1,0 +1,16 @@
+{
+  "size": 0,
+  "query": {
+    "match": {
+      "text": "disappointed"
+    }
+  },
+  "aggs": {
+    "top_terms": {
+      "terms": {
+        "field": "text",
+        "size": 10
+      }
+    }
+  }
+}

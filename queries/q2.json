@@ -1,0 +1,16 @@
+{
+  "size": 0,
+  "query": {
+    "term": {
+      "score": 1.0
+    }
+  },
+  "aggs": {
+    "top_terms": {
+      "terms": {
+        "field": "text",
+        "size": 10
+      }
+    }
+  }
+}

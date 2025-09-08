@@ -1,0 +1,11 @@
+{
+  "description": "Compute helpfulness_ratio, normalize fields",
+  "processors": [
+    {
+      "script": {
+        "lang": "painless",
+        "source": "\n      if (ctx.containsKey('helpfulness_raw') && ctx.helpfulness_raw != null) {\n        def m = /\\s*(\\d+)\\s*\\/\\s*(\\d+)\\s*/.matcher(ctx.helpfulness_raw);\n        if (m.find()) {\n          def x = Integer.parseInt(m.group(1)); def y = Integer.parseInt(m.group(2));\n          if (y > 0) { ctx.helpfulness_ratio = x / (double) y; }\n        }\n      }\n      "
+      }
+    }
+  ]
+}

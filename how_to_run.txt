@@ -1,0 +1,41 @@
+docker compose up -d
+curl.exe http://127.0.0.1:9200     # should return cluster info
+
+
+1) Create the index & pipeline
+
+# if the index exists, delete it first (ignore errors if not found)
+curl.exe -X DELETE "http://127.0.0.1:9200/amazon-music-reviews"
+
+# create the index from your file
+curl.exe -X PUT "http://127.0.0.1:9200/amazon-music-reviews" `
+  -H "Content-Type: application/json" `
+  --data-binary "@mappings/amazon-music.json"
+
+
+1B) Ingest pipeline
+curl.exe -X PUT "http://127.0.0.1:9200/_ingest/pipeline/compute_fields" `
+  -H "Content-Type: application/json" `
+  --data-binary "@pipelines/compute_fields.json"
+
+Quick check
+
+curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_mapping?pretty"
+
+
+2) Preprocess the dataset → JSONL
+
+# regenerate JSONL in UTF-8 (PowerShell-safe)
+python .\src\parse_stream.py --input .\Music.txt.gz --require-both | `
+Out-File -Encoding utf8 .\reviews.ndjson
+
+3) Bulk ingest into OpenSearch
+
+python .\src\bulk_ingest.py --index amazon-music-reviews `
+  --jsonl .\reviews.ndjson --pipeline compute_fields
+
+3) Verify ingest worked
+curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_count"
+curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_search?size=1"
+
+

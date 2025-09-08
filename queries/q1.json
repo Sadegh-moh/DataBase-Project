@@ -1,0 +1,28 @@
+{
+  "size": 20,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "match": {
+            "text": "lyrics"
+          }
+        },
+        {
+          "match": {
+            "text": "vocals"
+          }
+        }
+      ],
+      "filter": [
+        {
+          "range": {
+            "score": {
+              "gt": 4
+            }
+          }
+        }
+      ]
+    }
+  }
+}

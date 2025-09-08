@@ -1,0 +1,18 @@
+{
+  "size": 0,
+  "aggs": {
+    "by_user": {
+      "terms": {
+        "field": "profileName",
+        "size": 10
+      },
+      "aggs": {
+        "avg_help": {
+          "avg": {
+            "field": "helpfulness_ratio"
+          }
+        }
+      }
+    }
+  }
+}

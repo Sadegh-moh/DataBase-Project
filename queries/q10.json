@@ -1,0 +1,29 @@
+{
+  "size": 0,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "match": {
+            "text": "emotional"
+          }
+        }
+      ],
+      "filter": [
+        {
+          "term": {
+            "score": 5.0
+          }
+        }
+      ]
+    }
+  },
+  "aggs": {
+    "phrases": {
+      "terms": {
+        "field": "text.shingles",
+        "size": 10
+      }
+    }
+  }
+}
