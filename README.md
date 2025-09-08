@@ -1,6 +1,9 @@
 # Amazon Music Reviews Analysis Project
 
-![amazzzzzzzzon]([image_url_or_path](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Famazon-prime-music-unlimited-faq%2Cnews-25430.html&psig=AOvVaw18ESKa0UCpbHoRoHp4dSvG&ust=1757443388277000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID19PvoyY8DFQAAAAAdAAAAABAE))
+![(https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg)](https://cdn.mos.cms.futurecdn.net/Ahm7PJ4fbUzqdz7B7ANnzb-970-80.jpg.webp)
+
+
+
 
 
 This project is an implementation for the Database Design course at Sharif University of Technology. It involves setting up a data pipeline to ingest, process, and analyze the Amazon Music Reviews dataset.
@@ -113,7 +116,7 @@ The script will output detailed performance metrics, including throughput (QPS) 
 
 
 ## Authors
-- Sadegh Mohammadian (401109477)
 - Ali Najar (401102701)
+- Sadegh Mohammadian (401109477)
 - Mazdak Teymourian (401101495)
 - Maryam Shiran (400109446)
