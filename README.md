@@ -1,5 +1,3 @@
-# DataBase-Project
-
 # Amazon Music Reviews Analysis Project
 
 This project is an implementation for the Database Design course at Sharif University of Technology. It involves setting up a data pipeline to ingest, process, and analyze the Amazon Music Reviews dataset.
@@ -50,4 +48,63 @@ curl http://localhost:9200
 ```
 
 You should receive a JSON response with cluster information.
+
+### Step 2: Create the OpenSearch Index and Pipeline
+First, create the OpenSearch index with the custom mappings and analyzers defined in `mappings/amazon-music.json`
+```bash
+# Delete the index if it already exists (optional)
+curl -X DELETE "http://localhost:9200/amazon-music-reviews"
+
+# Create the index
+curl -X PUT "http://localhost:9200/amazon-music-reviews" \
+     -H "Content-Type: application/json" \
+     --data-binary "@mappings/amazon-music.json"
+```
+
+Next, create the ingest pipeline that will be used to compute the `helpfulness_ratio` on the fly.
+```bash
+curl -X PUT "http://localhost:9200/_ingest/pipeline/compute_fields" \
+     -H "Content-Type: application/json" \
+     --data-binary "@pipelines/compute_fields.json"
+```
+### Step 3: Preprocess the Dataset
+Run the `parse_stream.py` script to clean the raw dataset and convert it into a newline-delimited JSON (`.ndjson`) file. This script handles malformed lines, normalizes text, and prepares the data for ingestion.
+
+```bash
+python src/parse_stream.py --input Music.txt.gz > reviews.ndjson
+```
+This will create a `reviews.ndjson` file in your project directory.
+### Step 4: Ingest Data into OpenSearch
+Use the `bulk_ingest.py` script to efficiently load the `reviews.ndjson` file into your OpenSearch index. This script uses the bulk API and the `compute_fields` pipeline.
+
+```bash
+python src/bulk_ingest.py --index amazon-music-reviews --jsonl reviews.ndjson --pipeline compute_fields
+```
+After the script finishes, you can verify that the data has been ingested:
+```bash
+# Check the total document count
+curl "http://localhost:9200/amazon-music-reviews/_count"
+
+# See an example document
+curl "http://localhost:9200/amazon-music-reviews/_search?size=1"
+```
+
+### Step 5: Run Queries
+Execute the predefined queries against your data using the `run_queries.py` script.
+```bash
+# Run all queries
+python src/run_queries.py --index amazon-music-reviews
+
+# Run a specific query (e.g., q3)
+python src/run_queries.py --index amazon-music-reviews --q q3
+```
+
+### Run Performance Benchmarks
+Use the `bench.py` script to measure the performance of a specific query under different concurrency levels.
+```bash
+# Benchmark the query in 'queries/q1.json' with 4, 8, and 16 concurrent clients
+python src/bench.py --query-file queries/q1.json --concurrency 4 8 16
+```
+
+The script will output detailed performance metrics, including throughput (QPS) and latency percentiles.
 
