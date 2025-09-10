@@ -114,17 +114,22 @@ foreach ($q in $qs) {
 Open the two JSONs and compare throughput_rps, latency_ms_avg, latency_ms_p95 per concurrency.
 
 7) Collect ≥5 metrics the doc asks for
-# docs & store size (per index)
-curl.exe "http://127.0.0.1:9200/_cat/indices?v"
+# Docs & store size
+curl.exe "http://127.0.0.1:9200/_cat/indices?v" `
+  | Out-File "metrics/metrics_indices.txt"
 
-# indexing totals & time
-curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_stats/indexing?pretty"
+# Indexing totals & time
+curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_stats/indexing?pretty" `
+  | Out-File "metrics/metrics_indexing.txt"
 
-# search totals & time
-curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_stats/search?pretty"
+# Search totals & time
+curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_stats/search?pretty" `
+  | Out-File "metrics/metrics_search.txt"
 
-# segments (count, memory)
-curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_stats/segments?pretty"
+# Segments (count, memory)
+curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_stats/segments?pretty" `
+  | Out-File "metrics/metrics_segments.txt"
 
-# cluster health
-curl.exe "http://127.0.0.1:9200/_cluster/health?pretty"
+# Cluster health
+curl.exe "http://127.0.0.1:9200/_cluster/health?pretty" `
+  | Out-File "metrics/metrics_cluster_health.txt"
