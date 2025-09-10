@@ -1,0 +1,1863 @@
+{
+  "took": 310,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "max_score": 8.026239,
+    "hits": [
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "MMIwL5kB-_PrFombv95w",
+        "_score": 8.026239,
+        "_source": {
+          "profileName": "H. Kapur",
+          "summary": "amazing",
+          "helpfulness_up": 1,
+          "productId": "B000HT36QE",
+          "helpfulness_ratio": 1.0,
+          "title": "Saosin",
+          "userId": "A21PW1HBA1BRQ",
+          "score": 5.0,
+          "price": 7.99,
+          "time": 1159315200,
+          "text": "this album is very good. the vocals and lyrics are some of the best i have ever heard. musically, the album needs a little more variety in one or two songs, but otherwise the music hits perfectly with the vocals and lyrics. one of the best albums of the year.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "kbooL5kB-_PrFombR_W5",
+        "_score": 8.017628,
+        "_source": {
+          "profileName": "Rodrigo Calvo Leon \"Music Genious\"",
+          "summary": "CD OF THE YEAR.... t.A.T.u.'s Sophomore",
+          "helpfulness_up": 2,
+          "productId": "B000FVR188",
+          "helpfulness_ratio": 1.0,
+          "title": "Dangerous & Moving",
+          "userId": "ASE29U644PXHU",
+          "score": 5.0,
+          "price": null,
+          "time": 1139443200,
+          "text": "This album is excellent. Normally sophomore albums are terrible but t.A.T.u's is just pure talent.Dangerous and Moving Intro -- There's no point on rating this one.All About Us -- 9/10 First Single. Sounds like the follow up of All the Thigs She Said. Awesome vocals.Cosmos (Outer Space) -- 9/10 Awesome sound. Strong vocals. Great lyrics.Loves Me Not -- 8.5/10 Rumored to be a posible single. Great vocals and beats. But kind of repetitive.Friend or Foe -- 9/10 Their second single. Great Vocals. Original lyrics. Sting plays the bass.Gomenasai -- 9/10 Is t.A.T.u's next single on Sweden and Japan, probably getting a worldwide release. Heartbreaking balad about friendship. Great VocalsCraving -- 8/10 Great Vocals. Strange lyrics. Not exactly my favorite track...Sacrifice -- 10/10 The best track of the album. Possible single. Awesome vocals and lyrics.We Shout -- 9/10 Great vocals. Slow songPerfect Enemy -- 9.5/10 Really great song. Awesome lyrics and vocals.Obezyanka Nol -- 10/10 Russian track. Great beat and vocals. Great lyrics, but not everyone can understand them since they're in russian.Dangerous and Moving -- 9/10 Great lyrics and vocals.If you can, I recommend you get the russian album whoch contains electronic tracks.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "77UkL5kB-_PrFombBA2l",
+        "_score": 8.017628,
+        "_source": {
+          "profileName": "Rodrigo Calvo Leon \"Music Genious\"",
+          "summary": "CD OF THE YEAR.... t.A.T.u.'s Sophomore",
+          "helpfulness_up": 2,
+          "productId": "B000BFHYD0",
+          "helpfulness_ratio": 1.0,
+          "title": "Dangerous and Moving",
+          "userId": "ASE29U644PXHU",
+          "score": 5.0,
+          "price": 10.76,
+          "time": 1139443200,
+          "text": "This album is excellent. Normally sophomore albums are terrible but t.A.T.u's is just pure talent.Dangerous and Moving Intro -- There's no point on rating this one.All About Us -- 9/10 First Single. Sounds like the follow up of All the Thigs She Said. Awesome vocals.Cosmos (Outer Space) -- 9/10 Awesome sound. Strong vocals. Great lyrics.Loves Me Not -- 8.5/10 Rumored to be a posible single. Great vocals and beats. But kind of repetitive.Friend or Foe -- 9/10 Their second single. Great Vocals. Original lyrics. Sting plays the bass.Gomenasai -- 9/10 Is t.A.T.u's next single on Sweden and Japan, probably getting a worldwide release. Heartbreaking balad about friendship. Great VocalsCraving -- 8/10 Great Vocals. Strange lyrics. Not exactly my favorite track...Sacrifice -- 10/10 The best track of the album. Possible single. Awesome vocals and lyrics.We Shout -- 9/10 Great vocals. Slow songPerfect Enemy -- 9.5/10 Really great song. Awesome lyrics and vocals.Obezyanka Nol -- 10/10 Russian track. Great beat and vocals. Great lyrics, but not everyone can understand them since they're in russian.Dangerous and Moving -- 9/10 Great lyrics and vocals.If you can, I recommend you get the russian album whoch contains electronic tracks.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "dX_4LpkB-_PrFomb7zo4",
+        "_score": 8.017628,
+        "_source": {
+          "profileName": "Rodrigo Calvo Leon \"Music Genious\"",
+          "summary": "CD OF THE YEAR.... t.A.T.u.'s Sophomore",
+          "helpfulness_up": 2,
+          "productId": "B000BBRZX8",
+          "helpfulness_ratio": 1.0,
+          "title": "Dangerous & Moving",
+          "userId": "ASE29U644PXHU",
+          "score": 5.0,
+          "price": 2.55,
+          "time": 1139443200,
+          "text": "This album is excellent. Normally sophomore albums are terrible but t.A.T.u's is just pure talent.Dangerous and Moving Intro -- There's no point on rating this one.All About Us -- 9/10 First Single. Sounds like the follow up of All the Thigs She Said. Awesome vocals.Cosmos (Outer Space) -- 9/10 Awesome sound. Strong vocals. Great lyrics.Loves Me Not -- 8.5/10 Rumored to be a posible single. Great vocals and beats. But kind of repetitive.Friend or Foe -- 9/10 Their second single. Great Vocals. Original lyrics. Sting plays the bass.Gomenasai -- 9/10 Is t.A.T.u's next single on Sweden and Japan, probably getting a worldwide release. Heartbreaking balad about friendship. Great VocalsCraving -- 8/10 Great Vocals. Strange lyrics. Not exactly my favorite track...Sacrifice -- 10/10 The best track of the album. Possible single. Awesome vocals and lyrics.We Shout -- 9/10 Great vocals. Slow songPerfect Enemy -- 9.5/10 Really great song. Awesome lyrics and vocals.Obezyanka Nol -- 10/10 Russian track. Great beat and vocals. Great lyrics, but not everyone can understand them since they're in russian.Dangerous and Moving -- 9/10 Great lyrics and vocals.If you can, I recommend you get the russian album whoch contains electronic tracks.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "z5ECL5kB-_PrFombM9zY",
+        "_score": 8.017628,
+        "_source": {
+          "profileName": "Rodrigo Calvo Leon \"Music Genious\"",
+          "summary": "CD OF THE YEAR.... t.A.T.u.'s Sophomore",
+          "helpfulness_up": 2,
+          "productId": "B000G04RRG",
+          "helpfulness_ratio": 1.0,
+          "title": "Dangerous & Moving",
+          "userId": "ASE29U644PXHU",
+          "score": 5.0,
+          "price": null,
+          "time": 1139443200,
+          "text": "This album is excellent. Normally sophomore albums are terrible but t.A.T.u's is just pure talent.Dangerous and Moving Intro -- There's no point on rating this one.All About Us -- 9/10 First Single. Sounds like the follow up of All the Thigs She Said. Awesome vocals.Cosmos (Outer Space) -- 9/10 Awesome sound. Strong vocals. Great lyrics.Loves Me Not -- 8.5/10 Rumored to be a posible single. Great vocals and beats. But kind of repetitive.Friend or Foe -- 9/10 Their second single. Great Vocals. Original lyrics. Sting plays the bass.Gomenasai -- 9/10 Is t.A.T.u's next single on Sweden and Japan, probably getting a worldwide release. Heartbreaking balad about friendship. Great VocalsCraving -- 8/10 Great Vocals. Strange lyrics. Not exactly my favorite track...Sacrifice -- 10/10 The best track of the album. Possible single. Awesome vocals and lyrics.We Shout -- 9/10 Great vocals. Slow songPerfect Enemy -- 9.5/10 Really great song. Awesome lyrics and vocals.Obezyanka Nol -- 10/10 Russian track. Great beat and vocals. Great lyrics, but not everyone can understand them since they're in russian.Dangerous and Moving -- 9/10 Great lyrics and vocals.If you can, I recommend you get the russian album whoch contains electronic tracks.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "lb8tL5kB-_PrFombSCWY",
+        "_score": 8.017628,
+        "_source": {
+          "profileName": "Rodrigo Calvo Leon \"Music Genious\"",
+          "summary": "CD OF THE YEAR.... t.A.T.u.'s Sophomore",
+          "helpfulness_up": 2,
+          "productId": "B000ASDGFI",
+          "helpfulness_ratio": 1.0,
+          "title": "Dangerous and Moving [Vinyl]",
+          "userId": "ASE29U644PXHU",
+          "score": 5.0,
+          "price": null,
+          "time": 1139443200,
+          "text": "This album is excellent. Normally sophomore albums are terrible but t.A.T.u's is just pure talent.Dangerous and Moving Intro -- There's no point on rating this one.All About Us -- 9/10 First Single. Sounds like the follow up of All the Thigs She Said. Awesome vocals.Cosmos (Outer Space) -- 9/10 Awesome sound. Strong vocals. Great lyrics.Loves Me Not -- 8.5/10 Rumored to be a posible single. Great vocals and beats. But kind of repetitive.Friend or Foe -- 9/10 Their second single. Great Vocals. Original lyrics. Sting plays the bass.Gomenasai -- 9/10 Is t.A.T.u's next single on Sweden and Japan, probably getting a worldwide release. Heartbreaking balad about friendship. Great VocalsCraving -- 8/10 Great Vocals. Strange lyrics. Not exactly my favorite track...Sacrifice -- 10/10 The best track of the album. Possible single. Awesome vocals and lyrics.We Shout -- 9/10 Great vocals. Slow songPerfect Enemy -- 9.5/10 Really great song. Awesome lyrics and vocals.Obezyanka Nol -- 10/10 Russian track. Great beat and vocals. Great lyrics, but not everyone can understand them since they're in russian.Dangerous and Moving -- 9/10 Great lyrics and vocals.If you can, I recommend you get the russian album whoch contains electronic tracks.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "4bEfL5kB-_PrFomb_Eio",
+        "_score": 8.006487,
+        "_source": {
+          "profileName": "Lily",
+          "summary": "My Fav. Songs...",
+          "helpfulness_up": 3,
+          "productId": "B000BGR18W",
+          "helpfulness_ratio": 1.0,
+          "title": "Some Hearts",
+          "userId": "A1DM6VA8JFC4PO",
+          "score": 5.0,
+          "price": 6.95,
+          "time": 1133136000,
+          "text": "Jesus, Take The Wheel--Meaningful lyrics..great vocals...Lessons Learned--Great lyrics too! Awesome vocals!Before He Cheats--Such a cute song! I love it man! She cheated me! hah!Starts With Goodbye--I almost cryI Ain't In Checotah Anymore--Well, good music..but lyrics wise..well..um..not my type.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "vqoWL5kB-_PrFombnIxU",
+        "_score": 7.991037,
+        "_source": {
+          "profileName": "Espie",
+          "summary": "Another best pick!!!",
+          "helpfulness_up": 0,
+          "productId": "B00004Z459",
+          "title": "Hybrid Theory",
+          "userId": "A3PHYXX6RS08MI",
+          "score": 5.0,
+          "price": 7.5,
+          "time": 1025049600,
+          "text": "Linkin Park is a good band,but they have great music,catchy lyrics,and awesome vocals. \"In The End\" is the best song that i've ever heard on the radio.also \"Papercut\" has nice vocals,great lyrics,and awesome music.\"Pushing Me Away\" is just good,but they are great vocals and great lyrics.I like \"One Step Closer\",\"Points Of Authority\",and \"Crawling\".I don't like the others,too. ...",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "enj1LpkB-_PrFombkoK-",
+        "_score": 7.991037,
+        "_source": {
+          "profileName": "Espie",
+          "summary": "Another best pick!!!",
+          "helpfulness_up": 0,
+          "productId": "B000063XWX",
+          "title": "Hybrid Theory",
+          "userId": "A3PHYXX6RS08MI",
+          "score": 5.0,
+          "price": null,
+          "time": 1025049600,
+          "text": "Linkin Park is a good band,but they have great music,catchy lyrics,and awesome vocals. \"In The End\" is the best song that i've ever heard on the radio.also \"Papercut\" has nice vocals,great lyrics,and awesome music.\"Pushing Me Away\" is just good,but they are great vocals and great lyrics.I like \"One Step Closer\",\"Points Of Authority\",and \"Crawling\".I don't like the others,too. ...",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "YI8BL5kB-_PrFombPe4Y",
+        "_score": 7.991037,
+        "_source": {
+          "profileName": "Espie",
+          "summary": "Another best pick!!!",
+          "helpfulness_up": 0,
+          "productId": "B0000DEPD4",
+          "title": "Hybrid Theory",
+          "userId": "A3PHYXX6RS08MI",
+          "score": 5.0,
+          "price": null,
+          "time": 1025049600,
+          "text": "Linkin Park is a good band,but they have great music,catchy lyrics,and awesome vocals. \"In The End\" is the best song that i've ever heard on the radio.also \"Papercut\" has nice vocals,great lyrics,and awesome music.\"Pushing Me Away\" is just good,but they are great vocals and great lyrics.I like \"One Step Closer\",\"Points Of Authority\",and \"Crawling\".I don't like the others,too. ...",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Mn_5LpkB-_PrFombB4K9",
+        "_score": 7.991037,
+        "_source": {
+          "profileName": "Espie",
+          "summary": "Another best pick!!!",
+          "helpfulness_up": 0,
+          "productId": "B00061QVH4",
+          "title": "Hybrid Theory",
+          "userId": "A3PHYXX6RS08MI",
+          "score": 5.0,
+          "price": null,
+          "time": 1025049600,
+          "text": "Linkin Park is a good band,but they have great music,catchy lyrics,and awesome vocals. \"In The End\" is the best song that i've ever heard on the radio.also \"Papercut\" has nice vocals,great lyrics,and awesome music.\"Pushing Me Away\" is just good,but they are great vocals and great lyrics.I like \"One Step Closer\",\"Points Of Authority\",and \"Crawling\".I don't like the others,too. ...",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Dor-LpkB-_PrFomb0MRi",
+        "_score": 7.991037,
+        "_source": {
+          "profileName": "Espie",
+          "summary": "Another best pick!!!",
+          "helpfulness_up": 0,
+          "productId": "B0000DEOER",
+          "title": "Hybrid Theory",
+          "userId": "A3PHYXX6RS08MI",
+          "score": 5.0,
+          "price": null,
+          "time": 1025049600,
+          "text": "Linkin Park is a good band,but they have great music,catchy lyrics,and awesome vocals. \"In The End\" is the best song that i've ever heard on the radio.also \"Papercut\" has nice vocals,great lyrics,and awesome music.\"Pushing Me Away\" is just good,but they are great vocals and great lyrics.I like \"One Step Closer\",\"Points Of Authority\",and \"Crawling\".I don't like the others,too. ...",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "U5UDL5kB-_PrFomb-5-7",
+        "_score": 7.991037,
+        "_source": {
+          "profileName": "Espie",
+          "summary": "Another best pick!!!",
+          "helpfulness_up": 0,
+          "productId": "B0000C4GGX",
+          "title": "Hybrid Theory (+2 Bonus Tracks)",
+          "userId": "A3PHYXX6RS08MI",
+          "score": 5.0,
+          "price": null,
+          "time": 1025049600,
+          "text": "Linkin Park is a good band,but they have great music,catchy lyrics,and awesome vocals. \"In The End\" is the best song that i've ever heard on the radio.also \"Papercut\" has nice vocals,great lyrics,and awesome music.\"Pushing Me Away\" is just good,but they are great vocals and great lyrics.I like \"One Step Closer\",\"Points Of Authority\",and \"Crawling\".I don't like the others,too. ...",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "lr0rL5kB-_PrFombpHw2",
+        "_score": 7.991037,
+        "_source": {
+          "profileName": "Espie",
+          "summary": "Another best pick!!!",
+          "helpfulness_up": 0,
+          "productId": "B000BRIVH6",
+          "title": "Hybrid Theory",
+          "userId": "A3PHYXX6RS08MI",
+          "score": 5.0,
+          "price": null,
+          "time": 1025049600,
+          "text": "Linkin Park is a good band,but they have great music,catchy lyrics,and awesome vocals. \"In The End\" is the best song that i've ever heard on the radio.also \"Papercut\" has nice vocals,great lyrics,and awesome music.\"Pushing Me Away\" is just good,but they are great vocals and great lyrics.I like \"One Step Closer\",\"Points Of Authority\",and \"Crawling\".I don't like the others,too. ...",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "jdI8L5kB-_PrFomb0NIC",
+        "_score": 7.991037,
+        "_source": {
+          "profileName": "Espie",
+          "summary": "Another best pick!!!",
+          "helpfulness_up": 0,
+          "productId": "B000I1C4LY",
+          "title": "COLLECTOR'S SPECIAL \"Limited Edition Package\" Hybrid Theory [CD] \"PLUS\" Officially licensed Concert T-Shirt [see product details]",
+          "userId": "A3PHYXX6RS08MI",
+          "score": 5.0,
+          "price": null,
+          "time": 1025049600,
+          "text": "Linkin Park is a good band,but they have great music,catchy lyrics,and awesome vocals. \"In The End\" is the best song that i've ever heard on the radio.also \"Papercut\" has nice vocals,great lyrics,and awesome music.\"Pushing Me Away\" is just good,but they are great vocals and great lyrics.I like \"One Step Closer\",\"Points Of Authority\",and \"Crawling\".I don't like the others,too. ...",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "QaMML5kB-_PrFombOydK",
+        "_score": 7.9664454,
+        "_source": {
+          "profileName": "Jim",
+          "summary": "Headpins Turn It Loud",
+          "helpfulness_up": 0,
+          "productId": "B000GPIFJ2",
+          "title": "Turn It Loud",
+          "userId": "A1GITQHXZDAQP4",
+          "score": 5.0,
+          "price": null,
+          "time": 1349740800,
+          "text": "This is a grat CD. The lyrics and vocals are incredible and will have you singing their songs long after you are done listening to them. This band is incredibly talented, from their lyrics to their vocals, to the guitar riffs, drum solos and even bass solos the sound is like no other band.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "64D5LpkB-_PrFombbWY2",
+        "_score": 7.8186827,
+        "_source": {
+          "profileName": "Phratry Records",
+          "summary": "Instrumental",
+          "helpfulness_up": 0,
+          "productId": "B000FQ53YW",
+          "title": "Four Songs",
+          "userId": "AJ5J21GJ6G2W2",
+          "score": 5.0,
+          "price": 10.14,
+          "time": 1178755200,
+          "text": "The product description suggests that this release contains explicit lyrics. This is NOT the case. This is an instrumental band (i.e. No vocals = no explicit lyrics...)",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "KKQNL5kB-_PrFomb3JIh",
+        "_score": 7.7640057,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "This is not the &quot;comeback&quot; we need. Nails on a chalkboard vo",
+          "helpfulness_up": 0,
+          "productId": "B00000JG4W",
+          "title": "Brave New World",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 30.24,
+          "time": 931478400,
+          "text": "This is not the &quot;comeback&quot; we need. Nails on a chalkboard vocals, pompous production, and stupid lyrics. It is all formula and no talent. This is not the &quot;comeback&quot; we need. Nails on a chalkboard vocals, pompous production, and stupid lyrics. It is all formula and no talent.Wrong This alblum is a classic, if you hated there's something wrong with you no the music",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "8Mg0L5kB-_PrFombcRq8",
+        "_score": 7.7640057,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "This is not the &quot;comeback&quot; we need. Nails on a chalkboard vo",
+          "helpfulness_up": 0,
+          "productId": "B00000JNH1",
+          "title": "Brave New World",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 931478400,
+          "text": "This is not the &quot;comeback&quot; we need. Nails on a chalkboard vocals, pompous production, and stupid lyrics. It is all formula and no talent. This is not the &quot;comeback&quot; we need. Nails on a chalkboard vocals, pompous production, and stupid lyrics. It is all formula and no talent.Wrong This alblum is a classic, if you hated there's something wrong with you no the music",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "0cg0L5kB-_PrFombfz_B",
+        "_score": 7.7640057,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "This is not the &quot;comeback&quot; we need. Nails on a chalkboard vo",
+          "helpfulness_up": 0,
+          "productId": "B000026UNU",
+          "title": "Brave New World",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 931478400,
+          "text": "This is not the &quot;comeback&quot; we need. Nails on a chalkboard vocals, pompous production, and stupid lyrics. It is all formula and no talent. This is not the &quot;comeback&quot; we need. Nails on a chalkboard vocals, pompous production, and stupid lyrics. It is all formula and no talent.Wrong This alblum is a classic, if you hated there's something wrong with you no the music",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "-333LpkB-_PrFombwEi9",
+        "_score": 7.7123976,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Da Bomb",
+          "helpfulness_up": 0,
+          "productId": "B00000JSAZ",
+          "title": "Summertime / I Can See You in My Mind",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 933292800,
+          "text": "Great tune, exellent vocals and lyrics",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "LJgFL5kB-_PrFombMgQ3",
+        "_score": 7.7049804,
+        "_source": {
+          "profileName": "Lucia",
+          "summary": "Great",
+          "helpfulness_up": 1,
+          "productId": "B0000ZP4U6",
+          "helpfulness_ratio": 1.0,
+          "title": "Falling Uphill",
+          "userId": "A2NOCO17FGNQSU",
+          "score": 5.0,
+          "price": null,
+          "time": 1076976000,
+          "text": "Falling Uphill is the debut album of the Canadian band Lillix. It has great background music and vocals but don't expect great lyrics. This is the review of each song:Tomorrow: This one has good lyrics. Ok, they rhyme &quot;wake up&quot; with &quot;make up&quot; but it is not that bad. The vocals are great.Quicksand: The fans' favorite. The bridge is great. The lyrics and vocals are not totally great but the background is really good and it makes Quicksand the best song of the album.It's About Time: When you first listen to it, you will love it but then you'll get bored. The song has a good idea and it is great that all Lacey-Lee, Tasha-Ray and Loiuse sing in this song.Dirty Sunshine: *My personal favorite* Great Background music, vocals and arrangement in general. This one is more rock than the others.Sick: It will be stuck in your head a long time. It is one of those songs that you really like the first time you listen to it.Invisible: It may not start very good and the lyrics may confuse at first but then you get the idea and the guitar solo in the bridge is totally great and catchy.24/7: The lyrics are not the best thing, in fact, they confuse me. But maybe that is just me. But the background music is good and the vocals are great.Because: The lyrics are not very good but, again, the background music is really good. The bad thing is that it is too short.Promises: A great slow song. The vocals are great and the chorus is catchy.Fork In The Road: I don't get the fork in the road thingy but it is still a great song. The prechorus is really catchy. The music is very good.Lost and Confused: It is one of the songs with the best lyrics in the album. The chorus is catchy and the bridge is nice.What I Like About You: This one is a cover of an 80's song and the theme song of the famous TV show with the same name. Very catchy.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "28QxL5kB-_PrFomb_U_W",
+        "_score": 7.7049804,
+        "_source": {
+          "profileName": "Lucia",
+          "summary": "Great",
+          "helpfulness_up": 1,
+          "productId": "B0000931NJ",
+          "helpfulness_ratio": 1.0,
+          "title": "Falling Uphill",
+          "userId": "A2NOCO17FGNQSU",
+          "score": 5.0,
+          "price": 3.35,
+          "time": 1076976000,
+          "text": "Falling Uphill is the debut album of the Canadian band Lillix. It has great background music and vocals but don't expect great lyrics. This is the review of each song:Tomorrow: This one has good lyrics. Ok, they rhyme &quot;wake up&quot; with &quot;make up&quot; but it is not that bad. The vocals are great.Quicksand: The fans' favorite. The bridge is great. The lyrics and vocals are not totally great but the background is really good and it makes Quicksand the best song of the album.It's About Time: When you first listen to it, you will love it but then you'll get bored. The song has a good idea and it is great that all Lacey-Lee, Tasha-Ray and Loiuse sing in this song.Dirty Sunshine: *My personal favorite* Great Background music, vocals and arrangement in general. This one is more rock than the others.Sick: It will be stuck in your head a long time. It is one of those songs that you really like the first time you listen to it.Invisible: It may not start very good and the lyrics may confuse at first but then you get the idea and the guitar solo in the bridge is totally great and catchy.24/7: The lyrics are not the best thing, in fact, they confuse me. But maybe that is just me. But the background music is good and the vocals are great.Because: The lyrics are not very good but, again, the background music is really good. The bad thing is that it is too short.Promises: A great slow song. The vocals are great and the chorus is catchy.Fork In The Road: I don't get the fork in the road thingy but it is still a great song. The prechorus is really catchy. The music is very good.Lost and Confused: It is one of the songs with the best lyrics in the album. The chorus is catchy and the bridge is nice.What I Like About You: This one is a cover of an 80's song and the theme song of the famous TV show with the same name. Very catchy.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "XrclL5kB-_PrFombYyf4",
+        "_score": 7.699937,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Beautiful voice and lyrics",
+          "helpfulness_up": 0,
+          "productId": "B0001VWPEC",
+          "title": "Borrowed Heaven",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1089849600,
+          "text": "I love the corrs, andrea delivers her all on the album. She makes the songs come to life in such a beautiful way. This is one of my favorite corrs albums, and I own everything they have done.Summer sunshine-A+, Great vocals,catchy song,great lyrics! LOve it.Angel-A+, Beautiful lyrics that can bring tears to my eyes, such a beautiful way to look at someone who has passed away.Hideaway-A, Great song,Great vocals!Long Night-A++, My favorite song! Beautiful vocals, couldn't sound better, and wonderful lyrics. amazing.Goodbye-A, Great vocals on this one she does amazing,also catchy.time enough for tears-B, listen to this the least. Andrea sounds good, but it just doesn't fit as much as the others, Bono wrote it and you can tell.Humdrum-A+, Love this song, its real, she sounds great, its fun.Even if-A, Great song, very sweet.Borrowed Heaven-A+, Great lyrics!! beautiful song over all!!Confidence for Quiet-A, Good Lyrics,great vocals.Baby be brave-A, Good song,catchy.silver strand-A+, Great finishing touch. almost haunting. love it!They are in a catagory all their own!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "o8s3L5kB-_PrFombmYX6",
+        "_score": 7.699937,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Beautiful voice and lyrics",
+          "helpfulness_up": 0,
+          "productId": "B00022LZOQ",
+          "title": "Borrowed Heaven",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1089849600,
+          "text": "I love the corrs, andrea delivers her all on the album. She makes the songs come to life in such a beautiful way. This is one of my favorite corrs albums, and I own everything they have done.Summer sunshine-A+, Great vocals,catchy song,great lyrics! LOve it.Angel-A+, Beautiful lyrics that can bring tears to my eyes, such a beautiful way to look at someone who has passed away.Hideaway-A, Great song,Great vocals!Long Night-A++, My favorite song! Beautiful vocals, couldn't sound better, and wonderful lyrics. amazing.Goodbye-A, Great vocals on this one she does amazing,also catchy.time enough for tears-B, listen to this the least. Andrea sounds good, but it just doesn't fit as much as the others, Bono wrote it and you can tell.Humdrum-A+, Love this song, its real, she sounds great, its fun.Even if-A, Great song, very sweet.Borrowed Heaven-A+, Great lyrics!! beautiful song over all!!Confidence for Quiet-A, Good Lyrics,great vocals.Baby be brave-A, Good song,catchy.silver strand-A+, Great finishing touch. almost haunting. love it!They are in a catagory all their own!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "adE7L5kB-_PrFombiCeI",
+        "_score": 7.699937,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Beautiful voice and lyrics",
+          "helpfulness_up": 0,
+          "productId": "B000268RJ8",
+          "title": "Borrowed Heaven",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 17.97,
+          "time": 1089849600,
+          "text": "I love the corrs, andrea delivers her all on the album. She makes the songs come to life in such a beautiful way. This is one of my favorite corrs albums, and I own everything they have done.Summer sunshine-A+, Great vocals,catchy song,great lyrics! LOve it.Angel-A+, Beautiful lyrics that can bring tears to my eyes, such a beautiful way to look at someone who has passed away.Hideaway-A, Great song,Great vocals!Long Night-A++, My favorite song! Beautiful vocals, couldn't sound better, and wonderful lyrics. amazing.Goodbye-A, Great vocals on this one she does amazing,also catchy.time enough for tears-B, listen to this the least. Andrea sounds good, but it just doesn't fit as much as the others, Bono wrote it and you can tell.Humdrum-A+, Love this song, its real, she sounds great, its fun.Even if-A, Great song, very sweet.Borrowed Heaven-A+, Great lyrics!! beautiful song over all!!Confidence for Quiet-A, Good Lyrics,great vocals.Baby be brave-A, Good song,catchy.silver strand-A+, Great finishing touch. almost haunting. love it!They are in a catagory all their own!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "-ZICL5kB-_PrFombg7g6",
+        "_score": 7.687911,
+        "_source": {
+          "profileName": "Kato",
+          "summary": "Forever Red",
+          "helpfulness_up": 1,
+          "productId": "B000CAJTEQ",
+          "helpfulness_ratio": 1.0,
+          "title": "Forever Red",
+          "userId": "A2NGZ8M7HWUQAW",
+          "score": 5.0,
+          "price": null,
+          "time": 1217721600,
+          "text": "Fabulous! This wonderful, exciting music stands on it's own and certainly needs no vocals - especially not vocals with lyrics. I could listen to the instrumental pieces forever! Double Red :)",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "atM9L5kB-_PrFombRlB4",
+        "_score": 7.687911,
+        "_source": {
+          "profileName": "Leslie Tietje",
+          "summary": "Leni Stern ~ Recommended",
+          "helpfulness_up": 3,
+          "productId": "B000003MK7",
+          "helpfulness_ratio": 1.0,
+          "title": "Black Guitar",
+          "userId": "A176S4IU4RBHUP",
+          "score": 5.0,
+          "price": 12.1,
+          "time": 1008115200,
+          "text": "A must listen; not what one expects. Leni Stern is known for guitar, however this music with vocals holds one close for revisits to nice lyrics &amp; vocals. A surprise.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "yJoGL5kB-_PrFombkXnF",
+        "_score": 7.681348,
+        "_source": {
+          "profileName": "MarNor",
+          "summary": "The Perfect Album",
+          "helpfulness_up": 2,
+          "productId": "B0006SLD66",
+          "helpfulness_ratio": 1.0,
+          "title": "Breakaway",
+          "userId": "A1EHIB9KOUC6W",
+          "score": 5.0,
+          "price": 45.55,
+          "time": 1125187200,
+          "text": "Kelly Clarkson's Breakaway is truly the perfect album. It has a little bit of every type of music. Breakaway is an amazing song with great vocals and range, Since You Been Gone is a hard rock song wich is very difficult to sing, yet Kelly does a great job. Behind These Hazel Eyes is also a fantastic song. Because Of You has amazing lyrics and vocals. Gone is a powerful song vocally. Addicted also has meaningful lyrics and vocals. Where Is Your Heart does as well. Walk Away is outstanding, and You Found Me is completely incredible. I Hate Myself For Losing You has great lyrics and vocals. Hear Me is a very good song, and like all of Kelly Clarkson's songs, the vocals are unbelievable. The final track on the album is called Beautiful Disaster. It is the live version that Kelly sang on the finale of American Idol Season 3. That is a fantastic song as well, and you will love it no matter what type of music you like.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "4rEfL5kB-_PrFomb6Cec",
+        "_score": 7.681348,
+        "_source": {
+          "profileName": "MarNor",
+          "summary": "The Perfect Album",
+          "helpfulness_up": 2,
+          "productId": "B00064ADRK",
+          "helpfulness_ratio": 1.0,
+          "title": "Breakaway",
+          "userId": "A1EHIB9KOUC6W",
+          "score": 5.0,
+          "price": 6.99,
+          "time": 1125187200,
+          "text": "Kelly Clarkson's Breakaway is truly the perfect album. It has a little bit of every type of music. Breakaway is an amazing song with great vocals and range, Since You Been Gone is a hard rock song wich is very difficult to sing, yet Kelly does a great job. Behind These Hazel Eyes is also a fantastic song. Because Of You has amazing lyrics and vocals. Gone is a powerful song vocally. Addicted also has meaningful lyrics and vocals. Where Is Your Heart does as well. Walk Away is outstanding, and You Found Me is completely incredible. I Hate Myself For Losing You has great lyrics and vocals. Hear Me is a very good song, and like all of Kelly Clarkson's songs, the vocals are unbelievable. The final track on the album is called Beautiful Disaster. It is the live version that Kelly sang on the finale of American Idol Season 3. That is a fantastic song as well, and you will love it no matter what type of music you like.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "CMg0L5kB-_PrFombsYwz",
+        "_score": 7.681348,
+        "_source": {
+          "profileName": "MarNor",
+          "summary": "The Perfect Album",
+          "helpfulness_up": 2,
+          "productId": "B0006L5RU6",
+          "helpfulness_ratio": 1.0,
+          "title": "Breakaway",
+          "userId": "A1EHIB9KOUC6W",
+          "score": 5.0,
+          "price": 43.88,
+          "time": 1125187200,
+          "text": "Kelly Clarkson's Breakaway is truly the perfect album. It has a little bit of every type of music. Breakaway is an amazing song with great vocals and range, Since You Been Gone is a hard rock song wich is very difficult to sing, yet Kelly does a great job. Behind These Hazel Eyes is also a fantastic song. Because Of You has amazing lyrics and vocals. Gone is a powerful song vocally. Addicted also has meaningful lyrics and vocals. Where Is Your Heart does as well. Walk Away is outstanding, and You Found Me is completely incredible. I Hate Myself For Losing You has great lyrics and vocals. Hear Me is a very good song, and like all of Kelly Clarkson's songs, the vocals are unbelievable. The final track on the album is called Beautiful Disaster. It is the live version that Kelly sang on the finale of American Idol Season 3. That is a fantastic song as well, and you will love it no matter what type of music you like.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "mdI8L5kB-_PrFombc22K",
+        "_score": 7.681348,
+        "_source": {
+          "profileName": "MarNor",
+          "summary": "The Perfect Album",
+          "helpfulness_up": 2,
+          "productId": "B000BYRAG2",
+          "helpfulness_ratio": 1.0,
+          "title": "Breakaway",
+          "userId": "A1EHIB9KOUC6W",
+          "score": 5.0,
+          "price": null,
+          "time": 1125187200,
+          "text": "Kelly Clarkson's Breakaway is truly the perfect album. It has a little bit of every type of music. Breakaway is an amazing song with great vocals and range, Since You Been Gone is a hard rock song wich is very difficult to sing, yet Kelly does a great job. Behind These Hazel Eyes is also a fantastic song. Because Of You has amazing lyrics and vocals. Gone is a powerful song vocally. Addicted also has meaningful lyrics and vocals. Where Is Your Heart does as well. Walk Away is outstanding, and You Found Me is completely incredible. I Hate Myself For Losing You has great lyrics and vocals. Hear Me is a very good song, and like all of Kelly Clarkson's songs, the vocals are unbelievable. The final track on the album is called Beautiful Disaster. It is the live version that Kelly sang on the finale of American Idol Season 3. That is a fantastic song as well, and you will love it no matter what type of music you like.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "_JYEL5kB-_PrFombOREj",
+        "_score": 7.6803617,
+        "_source": {
+          "profileName": "T. Tennard",
+          "summary": "A Must For Michelle Tumes Fans",
+          "helpfulness_up": 0,
+          "productId": "B00004S9BB",
+          "title": "Blue Waters",
+          "userId": "AWS4O2GLZUOJ5",
+          "score": 5.0,
+          "price": null,
+          "time": 1267920000,
+          "text": "If you love Michelle Tumes than this cd by Sheila Walsh is a must! Michelle cowrote a few of the songs and provided some background vocals as well. Amazing songs, amazing lyrics, amazing vocals. Very worshipful, with lyrics that that will draw you into God's love and His Son's ultimate sacrifice. This music truly touchs my heart, highly recommended.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "04T7LpkB-_PrFombPB_y",
+        "_score": 7.6699185,
+        "_source": {
+          "profileName": "\"emopunker77\"",
+          "summary": "Everything You Didnt Expect But Everything you could want",
+          "helpfulness_up": 0,
+          "productId": "B00009PJRD",
+          "helpfulness_ratio": 0.0,
+          "title": "Deja Entendu",
+          "userId": "A2F1OKQ5XB2ZZB",
+          "score": 5.0,
+          "price": 9.99,
+          "time": 1055894400,
+          "text": "I am a huge fan of Brand New and loved YFW for its fast guitars, pop melodies, and great vocals and background vocals. Deja Entendu is totally different. It is slower, darker, less poppy, with deeper lyrics. This might sound like a bad thing to fans but trust me its not. After listenin to this album a few times you will be blown away by the incredible emotion and deep lyrics and still great background vocals in every song. It may not be the same as Your Favorite Weapon, but it is just as good in different ways.",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Fnn2LpkB-_PrFombLsM-",
+        "_score": 7.6697917,
+        "_source": {
+          "profileName": "J. brooks \"jb\"",
+          "summary": "great stuff",
+          "helpfulness_up": 3,
+          "productId": "B00005A1MV",
+          "helpfulness_ratio": 1.0,
+          "title": "Films for Radio",
+          "userId": "A3COPDVEKDEQYW",
+          "score": 5.0,
+          "price": null,
+          "time": 997488000,
+          "text": "this is a very engaging cd, one that becomes more so after the second listening. the vocals are deep and the lyrics are not the typical pop lyrics. they match excellently with the vocals. it isn't often that people can make compelling music in the absence of trite 'hooks' or lyrics concocted for the sake of rhyme. OTR rises above the label of 'pop'. in fact, if you enjoy OTR, you should check out chris brown and kate fenner ... they are at least as compelling as OTR (and my favorite, by the way).",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "i3PzLpkB-_PrFombhM2x",
+        "_score": 7.6571727,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "completely original...",
+          "helpfulness_up": 0,
+          "productId": "B000026X35",
+          "helpfulness_ratio": 0.0,
+          "title": "Breaking Gods Heart",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 941328000,
+          "text": "Darren Hayman's vocals are amazing and the lyrics are beautiful",
+          "helpfulness_down": 4
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "JIb8LpkB-_PrFombostw",
+        "_score": 7.6571727,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Great underground rap album",
+          "helpfulness_up": 0,
+          "productId": "B00008OM4J",
+          "title": "Hatchet Warrior",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 11.29,
+          "time": 1078531200,
+          "text": "great lyrics vocals and beats. Nuff said",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "0JABL5kB-_PrFombnIyX",
+        "_score": 7.6571727,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "completely original...",
+          "helpfulness_up": 0,
+          "productId": "B00000DH0B",
+          "helpfulness_ratio": 0.0,
+          "title": "Breaking God's Heart",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 941328000,
+          "text": "Darren Hayman's vocals are amazing and the lyrics are beautiful",
+          "helpfulness_down": 4
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ecUzL5kB-_PrFombBsB9",
+        "_score": 7.6571727,
+        "_source": {
+          "profileName": "sfs \"dg\"",
+          "summary": "wisher, dark, miss louisiana, and foster are the best",
+          "helpfulness_up": 1,
+          "productId": "B0009R1SSW",
+          "helpfulness_ratio": 0.5,
+          "title": "How the Lonely Keep",
+          "userId": "A1135RM9AIFODH",
+          "score": 5.0,
+          "price": null,
+          "time": 1141344000,
+          "text": "great vocals, poerful guitars, great lyrics....",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "PbMiL5kB-_PrFomboMzG",
+        "_score": 7.653884,
+        "_source": {
+          "profileName": "*Stripped*",
+          "summary": "Her First English Album",
+          "helpfulness_up": 0,
+          "productId": "B00005B8N1",
+          "title": "Before You Loved Me",
+          "userId": "A1IGBN7NH0M6TX",
+          "score": 5.0,
+          "price": null,
+          "time": 1114128000,
+          "text": "I love Alsou's particular smooth voice and I really like this album though I think It has much ballads,but she really shines on them.She is going to release her second English album in June 2005 called \"Inspired\",it seems to be an amazing album.01.-Before You Love Me:10.In one word:Catchy.You will sing this for weeks!.It was #24 in Uk without promotion,a shame.It did very well in Russia.02.-What Your Girl Don't Know:10.R&B; track with great beats and vocals.I like the lyrics too.03.-He Loves Me:10.Another R&b-pop; track with amazing beats vocals and lyrics.It's so catchy.It was her third single but it was canceled in Uk for some reason.The video is cool.04.-Let It Be Me:8,5.This is an upbeat-ballad song.The lyrics are great and the vocals are awesome too.05.-3 Strikes:7.This is another semi-uptempo song.Not particularly slow or fast.The lyircs are great too,but the songs lack something,in the chorus.06.-Teardrops:10.Amazing ballad written by her.This song will also be in her second album,but with different vocals and beats.The lyrics are beautiful and I really love her voice here.07.-Not Over Yet:9.Another amazing ballad.It starts pretty much like \"My All\" from Mariah Carey.Great vocals and lyrics.08.-Butter Wouldn't Melt:10.Amazing R&b-pop; song.The lyrics are well written and funny.I love hearing this song because of its cathiness and its ironic lyrics.My personal fave.09.-100% Natural:6,25.Upbeat song,is not the best song at all,the lyrics are so-so and the song is catchy but nothing memorable.10.-Solo:10.Her Eurovision track was #2 in the song contest.A shame.The song is very catchy and the lyrics are tight,even though the vocals are kinda weird.11.-Never A Day Goes By:7,25.Semi uptempo-ballad song.I don't really like the chorus,is ok I guess.The lyrics and vocals are cool.12.-Break The Silence:8,75.Spanish guitar influenced song.Is a fast ballad.The lyrics are beautiful and I really love her vocals.13.-Now I Know:9,5.Great ballad song.Amazing vocals and lyrics.Is the best ballad here with \"Teardrops\".Could make you cry too.Vocally,is her best song.14.-My Number 1:7,5.A Duet with Enrique Iglesias.I hate his songs and his voice but the song is pretty and their voices work well together.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "MM05L5kB-_PrFombLb4n",
+        "_score": 7.651449,
+        "_source": {
+          "profileName": "\"skrawny\"",
+          "summary": "This will send tingles down your spine.",
+          "helpfulness_up": 1,
+          "productId": "B0000CD8HO",
+          "helpfulness_ratio": 1.0,
+          "title": "Full Collapse",
+          "userId": "AUWWCY74RHD9N",
+          "score": 5.0,
+          "price": 29.27,
+          "time": 1001635200,
+          "text": "This is quite possibly the best CD I have heard in my entire life. The lyrics and extremely emotional vocals combine to create a CD that serves as more than just a good listen. Don't expect to get the full effect of this CD if you plan on putting on for background music. You definately need to sit down and listen to the lyrics which combine excellent emo-style singing and the best hardcore screams. The lyrics are so poetic that I could listen to this CD without music. But that dosen't mean the music is as good as the vocals. The instrumental backing to the vocals is equally impresive. Thursday may be young, but they right with a maturity that is light years beyond anything that I have heard before.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ItI8L5kB-_PrFombnJwH",
+        "_score": 7.651449,
+        "_source": {
+          "profileName": "\"skrawny\"",
+          "summary": "This will send tingles down your spine.",
+          "helpfulness_up": 1,
+          "productId": "B00005AVQ4",
+          "helpfulness_ratio": 1.0,
+          "title": "Full Collapse",
+          "userId": "AUWWCY74RHD9N",
+          "score": 5.0,
+          "price": 12.53,
+          "time": 1001635200,
+          "text": "This is quite possibly the best CD I have heard in my entire life. The lyrics and extremely emotional vocals combine to create a CD that serves as more than just a good listen. Don't expect to get the full effect of this CD if you plan on putting on for background music. You definately need to sit down and listen to the lyrics which combine excellent emo-style singing and the best hardcore screams. The lyrics are so poetic that I could listen to this CD without music. But that dosen't mean the music is as good as the vocals. The instrumental backing to the vocals is equally impresive. Thursday may be young, but they right with a maturity that is light years beyond anything that I have heard before.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "MdI8L5kB-_PrFombiG_p",
+        "_score": 7.627622,
+        "_source": {
+          "profileName": "brett",
+          "summary": "Can any one compare?",
+          "helpfulness_up": 3,
+          "productId": "B000007PFB",
+          "helpfulness_ratio": 0.5,
+          "title": "If You See Him",
+          "userId": "A25Z6D7A3LPHYH",
+          "score": 5.0,
+          "price": 4.85,
+          "time": 962409600,
+          "text": "ok I admit I'm a big Reba fan[but who isn't]anyhow this Is 1 outstanding album good lyrics duets etc one of my favs &quot;Forever Love&quot; having 2 do with my ex-girlfriend&amp; me beautiful song by the way &quot;Face 2 Face&quot; reba&amp;linda davis good lyrics vocals &quot;Wrong Night&quot; one of my favorite good beat lyrics vocals &quot;If U see him/If u see her&quot; Reba&amp;Brooks&amp;Dunn good lyrics Outstanding vocals the rest are real good such as &quot;Up and Flying&quot;.... so I ask can any female artist Pop Country or likewise Compare 2 Miss Reba...",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "OdI8L5kB-_PrFombiXFQ",
+        "_score": 7.627622,
+        "_source": {
+          "profileName": "brett",
+          "summary": "Can any one compare?",
+          "helpfulness_up": 3,
+          "productId": "B000007PFA",
+          "helpfulness_ratio": 0.5,
+          "title": "If You See Him",
+          "userId": "A25Z6D7A3LPHYH",
+          "score": 5.0,
+          "price": 5.99,
+          "time": 962409600,
+          "text": "ok I admit I'm a big Reba fan[but who isn't]anyhow this Is 1 outstanding album good lyrics duets etc one of my favs &quot;Forever Love&quot; having 2 do with my ex-girlfriend&amp; me beautiful song by the way &quot;Face 2 Face&quot; reba&amp;linda davis good lyrics vocals &quot;Wrong Night&quot; one of my favorite good beat lyrics vocals &quot;If U see him/If u see her&quot; Reba&amp;Brooks&amp;Dunn good lyrics Outstanding vocals the rest are real good such as &quot;Up and Flying&quot;.... so I ask can any female artist Pop Country or likewise Compare 2 Miss Reba...",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "_JYEL5kB-_PrFombltDF",
+        "_score": 7.6255927,
+        "_source": {
+          "profileName": "Tim P.",
+          "summary": "Great CD a &quot;Must Buy&quot;",
+          "helpfulness_up": 2,
+          "productId": "B00005OKUS",
+          "helpfulness_ratio": 1.0,
+          "title": "Come Together",
+          "userId": "A7GR9TCM6EQT2",
+          "score": 5.0,
+          "price": 9.99,
+          "time": 1012262400,
+          "text": "I heard the song &quot;Show Me Your Glory&quot; and was impressed by the vocals and the lyrics. Which prompted me to purchase the CD. Every song on the CD is excellent. I found the quality of music, lyrics, and vocals exhilarating. They have taken a very modern sound and made it Gods. I appluade Third Day. More bands should write such quality music.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "s54IL5kB-_PrFombqWXF",
+        "_score": 7.6255927,
+        "_source": {
+          "profileName": "Tim P.",
+          "summary": "Great CD a &quot;Must Buy&quot;",
+          "helpfulness_up": 2,
+          "productId": "B00005QXC3",
+          "helpfulness_ratio": 1.0,
+          "title": "Come Together",
+          "userId": "A7GR9TCM6EQT2",
+          "score": 5.0,
+          "price": null,
+          "time": 1012262400,
+          "text": "I heard the song &quot;Show Me Your Glory&quot; and was impressed by the vocals and the lyrics. Which prompted me to purchase the CD. Every song on the CD is excellent. I found the quality of music, lyrics, and vocals exhilarating. They have taken a very modern sound and made it Gods. I appluade Third Day. More bands should write such quality music.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "V3b0LpkB-_PrFombunEy",
+        "_score": 7.6171207,
+        "_source": {
+          "profileName": "Laurence Doyle \"(Actually Simon Doyle)\"",
+          "summary": "Ground-breaming, heart rendering...",
+          "helpfulness_up": 2,
+          "productId": "B00000DCN8",
+          "helpfulness_ratio": 1.0,
+          "title": "Dizzy Up the Girl",
+          "userId": "A3P316WPF1HDBX",
+          "score": 5.0,
+          "price": null,
+          "time": 1070064000,
+          "text": "A CD full of emotion, passion and above all, skill. A quite superb blend of guitar and amazing vocal skill, quite exceptional lyrics and true feeling.Dizzy - A great opening track with hard hitting guitar and skilled vocals, with a grabbing chorus - 4/5Slide - A brilliant piece of memorable lyrics, a great guitar riff and a brilliant atmosphere. 5/5Broadway - As above really. A slightly more rocky, but more meaningful, song. Brilliant. 5/5January Friend - A failing in this album is the slightly weaker songs produced vocally by Robbie, but this is one of the two stronger ones. 3.5-4/5Black Balloon - A beautifully blended guitar and vocals, with insightful lyrics and a lovely melodic line. My personal favourite. 5/5Bullet Proof - A hard-rocking, guitar leading song, with good vocals and pleasing lyrics. 4/5Amigone - The second of Robbie's good vocal songs on this album. Guitar plays a rapid rhythm through nice vocals, bringing together a very pleasing song. 4/5All Eyes on Me - A brilliant lyrically crafted song set around a hard guitar riff. Though not complex, the musical simplicity brings out the billiance of the lyrics. 4.5-5 /5Full Forever - I have almost never listened to this song. Feel free to press the skip button on your CD player, this &quot;Robbie Classic&quot; is one to miss. N/A / 5Acoustic #3 - Brillaint lyrics, lovely guitar riff, excellent vocals. Words cannot express the feelings this produces - listen to it! 5/5Iris - As above. Passionate, the leading song in the singles released by GGD's, lovely acoustis intro, electric guitar takes over very professionally, amazing lyrics and vocals. Prepare to be stunned. 5/5Extra Pale - Poor. Avoid. Another &quot;Robbie Classic&quot;. 2/5Hate this Place - An example of what rock can be if in the capable vocal 'hands' of Johnny Rzeznik. A passionate, quick moving song with amazing vocals and hard guitaring. the best rock song on the album. 5/5Overall, despite the poorer aspects of the album (mainly Robby's songs, which are rectified in the new Gutterflower album), this is full of classic songs and amazing lyrics. A must have.Simon",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "NrooL5kB-_PrFombYv1k",
+        "_score": 7.613103,
+        "_source": {
+          "profileName": "D. Lowenstein",
+          "summary": "Best album I've ever purchased!",
+          "helpfulness_up": 0,
+          "productId": "B00007IG14",
+          "title": "No Angel [Vinyl]",
+          "userId": "A256AP5UW1R6S9",
+          "score": 5.0,
+          "price": null,
+          "time": 968803200,
+          "text": "Dido's vocals are truly incredible. Every track is filled with excellent vocals, instruments, and beautiful lyrics. If I could only own one CD my entire life, this would be it. Buy it! :)",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "9poGL5kB-_PrFombhE-l",
+        "_score": 7.613103,
+        "_source": {
+          "profileName": "D. Lowenstein",
+          "summary": "Best album I've ever purchased!",
+          "helpfulness_up": 0,
+          "productId": "B0000DERXK",
+          "title": "No Angel",
+          "userId": "A256AP5UW1R6S9",
+          "score": 5.0,
+          "price": null,
+          "time": 968803200,
+          "text": "Dido's vocals are truly incredible. Every track is filled with excellent vocals, instruments, and beautiful lyrics. If I could only own one CD my entire life, this would be it. Buy it! :)",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Xq0bL5kB-_PrFombJv4b",
+        "_score": 7.613103,
+        "_source": {
+          "profileName": "D. Lowenstein",
+          "summary": "Best album I've ever purchased!",
+          "helpfulness_up": 0,
+          "productId": "B000BRISF6",
+          "title": "No Angel (Special Edition) (Incl. Bonus Disc)",
+          "userId": "A256AP5UW1R6S9",
+          "score": 5.0,
+          "price": null,
+          "time": 968803200,
+          "text": "Dido's vocals are truly incredible. Every track is filled with excellent vocals, instruments, and beautiful lyrics. If I could only own one CD my entire life, this would be it. Buy it! :)",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "c3v2LpkB-_PrFombyiJy",
+        "_score": 7.613103,
+        "_source": {
+          "profileName": "D. Lowenstein",
+          "summary": "Best album I've ever purchased!",
+          "helpfulness_up": 0,
+          "productId": "B000OXEO5U",
+          "title": "No Angel",
+          "userId": "A256AP5UW1R6S9",
+          "score": 5.0,
+          "price": 30.44,
+          "time": 968803200,
+          "text": "Dido's vocals are truly incredible. Every track is filled with excellent vocals, instruments, and beautiful lyrics. If I could only own one CD my entire life, this would be it. Buy it! :)",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "jI8BL5kB-_PrFombOeTQ",
+        "_score": 7.613103,
+        "_source": {
+          "profileName": "D. Lowenstein",
+          "summary": "Best album I've ever purchased!",
+          "helpfulness_up": 0,
+          "productId": "B0000DEPA0",
+          "title": "No Angel",
+          "userId": "A256AP5UW1R6S9",
+          "score": 5.0,
+          "price": null,
+          "time": 968803200,
+          "text": "Dido's vocals are truly incredible. Every track is filled with excellent vocals, instruments, and beautiful lyrics. If I could only own one CD my entire life, this would be it. Buy it! :)",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "jpMCL5kB-_PrFombznrW",
+        "_score": 7.613103,
+        "_source": {
+          "profileName": "D. Lowenstein",
+          "summary": "Best album I've ever purchased!",
+          "helpfulness_up": 0,
+          "productId": "B00006JM76",
+          "title": "No Angel (Bonus CD)",
+          "userId": "A256AP5UW1R6S9",
+          "score": 5.0,
+          "price": 19.97,
+          "time": 968803200,
+          "text": "Dido's vocals are truly incredible. Every track is filled with excellent vocals, instruments, and beautiful lyrics. If I could only own one CD my entire life, this would be it. Buy it! :)",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "m9M9L5kB-_PrFombVWnB",
+        "_score": 7.613103,
+        "_source": {
+          "profileName": "D. Lowenstein",
+          "summary": "Best album I've ever purchased!",
+          "helpfulness_up": 0,
+          "productId": "B00000IAU3",
+          "title": "No Angel",
+          "userId": "A256AP5UW1R6S9",
+          "score": 5.0,
+          "price": 16.98,
+          "time": 968803200,
+          "text": "Dido's vocals are truly incredible. Every track is filled with excellent vocals, instruments, and beautiful lyrics. If I could only own one CD my entire life, this would be it. Buy it! :)",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "GdI8L5kB-_PrFombWDfS",
+        "_score": 7.612624,
+        "_source": {
+          "profileName": "DrFager",
+          "summary": "WONDEROUSLY worshipful",
+          "helpfulness_up": 1,
+          "productId": "B000OU9RIC",
+          "helpfulness_ratio": 1.0,
+          "title": "Wonder",
+          "userId": "A20PZ4IOUN80RE",
+          "score": 5.0,
+          "price": null,
+          "time": 1354060800,
+          "text": "Her lyrics carry this album powerfully. ANY one that loves A H's lyrics and vocals cant listen to this album with out tears of joy, thankfulness and and repentance",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Nq0bL5kB-_PrFombIPdJ",
+        "_score": 7.602733,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "EXCELLENT FROM FONT TO BACK",
+          "helpfulness_up": 0,
+          "productId": "B00006LJ9N",
+          "helpfulness_ratio": 0.0,
+          "title": "Handful Of Rain",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 918345600,
+          "text": "This is definitely a SAVATAGE Masterpiece, the lyrics, riffs, and vocals kick!",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "p4v_LpkB-_PrFombM67q",
+        "_score": 7.602733,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "EXCELLENT FROM FONT TO BACK",
+          "helpfulness_up": 0,
+          "productId": "B00000EC0F",
+          "helpfulness_ratio": 0.0,
+          "title": "Handful of Rain",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 918345600,
+          "text": "This is definitely a SAVATAGE Masterpiece, the lyrics, riffs, and vocals kick!",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "JaMML5kB-_PrFombMgxJ",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "Ellen A. Vincent",
+          "summary": "23rd Street Lullaby by PattiScialfa",
+          "helpfulness_up": 0,
+          "productId": "B000N0QIHG",
+          "title": "23rd Street Lullaby",
+          "userId": "A1KWMKOXGT6U3C",
+          "score": 5.0,
+          "price": null,
+          "time": 1153699200,
+          "text": "Excellent lyrics that exhibit a reverence for everyday life. Stirring vocals.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "6a8dL5kB-_PrFombqbNF",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "Ellen A. Vincent",
+          "summary": "23rd Street Lullaby by PattiScialfa",
+          "helpfulness_up": 0,
+          "productId": "B00020SHHQ",
+          "title": "23rd Street Lullaby",
+          "userId": "A1KWMKOXGT6U3C",
+          "score": 5.0,
+          "price": null,
+          "time": 1153699200,
+          "text": "Excellent lyrics that exhibit a reverence for everyday life. Stirring vocals.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "5Hv2LpkB-_PrFombxA-0",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "I'll Remember It",
+          "helpfulness_up": 1,
+          "productId": "B00008G1FP",
+          "helpfulness_ratio": 0.5,
+          "title": "I'll Remember (Theme from With Honors) / Secret Garden",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 938390400,
+          "text": "This song is truley great. Beautiful lyrics, faboulas vocals. A masterpiece.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "53TzLpkB-_PrFombzovq",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "Tikocookie \"AT\"",
+          "summary": "Lite but worth it",
+          "helpfulness_up": 0,
+          "productId": "B000F3UADO",
+          "helpfulness_ratio": 0.0,
+          "title": "Eyes Open",
+          "userId": "A2PTAVMY8RXKR4",
+          "score": 5.0,
+          "price": 9.99,
+          "time": 1154908800,
+          "text": "I just love the vocals and how it sounds as well as lyrics.",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "w44AL5kB-_PrFombgK_E",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "I'll Remember It",
+          "helpfulness_up": 1,
+          "productId": "B00000E0ZC",
+          "helpfulness_ratio": 0.5,
+          "title": "I'Ll Remember",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 938390400,
+          "text": "This song is truley great. Beautiful lyrics, faboulas vocals. A masterpiece.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "SoL6LpkB-_PrFombZT5K",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "Ellen A. Vincent",
+          "summary": "23rd Street Lullaby by PattiScialfa",
+          "helpfulness_up": 0,
+          "productId": "B0002J54YG",
+          "title": "23rd Street Lullaby",
+          "userId": "A1KWMKOXGT6U3C",
+          "score": 5.0,
+          "price": 36.71,
+          "time": 1153699200,
+          "text": "Excellent lyrics that exhibit a reverence for everyday life. Stirring vocals.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "tp4IL5kB-_PrFombp127",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "Tikocookie \"AT\"",
+          "summary": "Lite but worth it",
+          "helpfulness_up": 0,
+          "productId": "B000F5GKKO",
+          "helpfulness_ratio": 0.0,
+          "title": "Eyes Open [Vinyl]",
+          "userId": "A2PTAVMY8RXKR4",
+          "score": 5.0,
+          "price": 45.3,
+          "time": 1154908800,
+          "text": "I just love the vocals and how it sounds as well as lyrics.",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "mo0AL5kB-_PrFombIaYR",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "I'll Remember It",
+          "helpfulness_up": 1,
+          "productId": "B000057JS9",
+          "helpfulness_ratio": 0.5,
+          "title": "I'll Remember [Vinyl]",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 938390400,
+          "text": "This song is truley great. Beautiful lyrics, faboulas vocals. A masterpiece.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "saUOL5kB-_PrFomb0Vys",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "Tikocookie \"AT\"",
+          "summary": "Lite but worth it",
+          "helpfulness_up": 0,
+          "productId": "B000EZ8QOI",
+          "helpfulness_ratio": 0.0,
+          "title": "Eyes Open",
+          "userId": "A2PTAVMY8RXKR4",
+          "score": 5.0,
+          "price": 22.71,
+          "time": 1154908800,
+          "text": "I just love the vocals and how it sounds as well as lyrics.",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "dqUOL5kB-_PrFomb1mB4",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "Tikocookie \"AT\"",
+          "summary": "Lite but worth it",
+          "helpfulness_up": 0,
+          "productId": "B000EZ8QP2",
+          "helpfulness_ratio": 0.0,
+          "title": "Eyes Open",
+          "userId": "A2PTAVMY8RXKR4",
+          "score": 5.0,
+          "price": 19.99,
+          "time": 1154908800,
+          "text": "I just love the vocals and how it sounds as well as lyrics.",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "u78tL5kB-_PrFombVUPf",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "Tikocookie \"AT\"",
+          "summary": "Lite but worth it",
+          "helpfulness_up": 0,
+          "productId": "B000F9T6I8",
+          "helpfulness_ratio": 0.0,
+          "title": "Eyes Open (W/Dvd)",
+          "userId": "A2PTAVMY8RXKR4",
+          "score": 5.0,
+          "price": null,
+          "time": 1154908800,
+          "text": "I just love the vocals and how it sounds as well as lyrics.",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "pMAtL5kB-_PrFomb9GjW",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "I'll Remember It",
+          "helpfulness_up": 1,
+          "productId": "B000002M4A",
+          "helpfulness_ratio": 0.5,
+          "title": "I'll Remember / Why's It So Hard",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 938390400,
+          "text": "This song is truley great. Beautiful lyrics, faboulas vocals. A masterpiece.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "OsMxL5kB-_PrFombS0nx",
+        "_score": 7.5490623,
+        "_source": {
+          "profileName": "Tikocookie \"AT\"",
+          "summary": "Lite but worth it",
+          "helpfulness_up": 0,
+          "productId": "B000KJTJNK",
+          "helpfulness_ratio": 0.0,
+          "title": "Eyes Open",
+          "userId": "A2PTAVMY8RXKR4",
+          "score": 5.0,
+          "price": null,
+          "time": 1154908800,
+          "text": "I just love the vocals and how it sounds as well as lyrics.",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "b70rL5kB-_PrFombLjf1",
+        "_score": 7.533395,
+        "_source": {
+          "profileName": "K. Adams \"Information Junkie\"",
+          "summary": "Every track is a favorite!",
+          "helpfulness_up": 11,
+          "productId": "B000F9UE34",
+          "helpfulness_ratio": 0.8461538461538461,
+          "title": "Taking Long Way",
+          "userId": "A5ZY43DE3PFNW",
+          "score": 5.0,
+          "price": 26.69,
+          "time": 1175385600,
+          "text": "One of the best CD's I've ever heard. Natalie Maines' vocals and lyrics are strong and the music beautifully enhances the deep emotion of those lyrics. I definitely recommend!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "gpMCL5kB-_PrFomb6L9i",
+        "_score": 7.533395,
+        "_source": {
+          "profileName": "K. Adams \"Information Junkie\"",
+          "summary": "Every track is a favorite!",
+          "helpfulness_up": 11,
+          "productId": "B000F7MG4G",
+          "helpfulness_ratio": 0.8461538461538461,
+          "title": "Taking The Long Way",
+          "userId": "A5ZY43DE3PFNW",
+          "score": 5.0,
+          "price": 7.05,
+          "time": 1175385600,
+          "text": "One of the best CD's I've ever heard. Natalie Maines' vocals and lyrics are strong and the music beautifully enhances the deep emotion of those lyrics. I definitely recommend!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "qsw4L5kB-_PrFombc5Xv",
+        "_score": 7.533395,
+        "_source": {
+          "profileName": "K. Adams \"Information Junkie\"",
+          "summary": "Every track is a favorite!",
+          "helpfulness_up": 11,
+          "productId": "B000NNH15G",
+          "helpfulness_ratio": 0.8461538461538461,
+          "title": "Taking the Long Way (Radio Special)",
+          "userId": "A5ZY43DE3PFNW",
+          "score": 5.0,
+          "price": null,
+          "time": 1175385600,
+          "text": "One of the best CD's I've ever heard. Natalie Maines' vocals and lyrics are strong and the music beautifully enhances the deep emotion of those lyrics. I definitely recommend!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "OMUzL5kB-_PrFombFODt",
+        "_score": 7.508189,
+        "_source": {
+          "profileName": "John G. Sarena Jr. \"Ozzyfan\"",
+          "summary": "Very Wicked Music",
+          "helpfulness_up": 0,
+          "productId": "B000009EAD",
+          "title": "Something Wicked This Way Comes",
+          "userId": "A3P275C90KPVSJ",
+          "score": 5.0,
+          "price": 13.84,
+          "time": 1168128000,
+          "text": "This is without a doubt, Iced Earth's best album. Every song on this album is enjoyable and then it has many great masterpieces. The vocals, lyrics, guitars, bass, and drums shine on this album. Heavy Metal with true musicianship. The best songs:Burning Times: This song is slow and heavy. The vocals rule and the lyrics send chills down my spine. The chiming of the bells at the beginning and end sound really coolDisciples of the Lie: This song is fast and heavy and will get your head bangin. It has a very haunting keyboard solo in the middle.Consequences: this song is beautiful, a slow and soft one with great vocalsProphecy: The best song in the trilogy and possibly the best on the album. It starts eerie and soft and then there is a short bass the solo that kicks this song up to speed. Great lyrics, vocals, and guitar workThis album is a must have for any metal fan",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "FrMiL5kB-_PrFombQYzC",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "A favorite",
+          "helpfulness_up": 0,
+          "productId": "B0000027I1",
+          "title": "Fat City",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1037059200,
+          "text": "This could be a favorite for anybody. Great lyrics and crisp vocals. Highly recommend!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ALQjL5kB-_PrFombZ0gJ",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00003A9QM",
+          "title": "S&M;",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "VrQjL5kB-_PrFombZ0jn",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00003A9QM",
+          "title": "S&M;",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "V7QjL5kB-_PrFombZ0jn",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00003A9QM",
+          "title": "S&M;",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Gnf1LpkB-_PrFombIVjp",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00003CLS2",
+          "title": "S & M [Vinyl]",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "YXf1LpkB-_PrFombIVjp",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00003CLS2",
+          "title": "S & M [Vinyl]",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Ynf1LpkB-_PrFombIVjp",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00003CLS2",
+          "title": "S & M [Vinyl]",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "poj9LpkB-_PrFombXSmz",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00003W87M",
+          "title": "S & M",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "p4j9LpkB-_PrFombXSmz",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00003W87M",
+          "title": "S & M",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Aoj9LpkB-_PrFombXSqz",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00003W87M",
+          "title": "S & M",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "koj9LpkB-_PrFombi4Pz",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "The best Pearl Jam cd yet",
+          "helpfulness_up": 0,
+          "productId": "B000002BYE",
+          "title": "Yield",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 906163200,
+          "text": "Powerful emotions brought forth through great lyrics and fantastic vocals.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ZYj9LpkB-_PrFombjYYK",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "The best Pearl Jam cd yet",
+          "helpfulness_up": 0,
+          "productId": "B000002BYD",
+          "title": "Yield",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 9.5,
+          "time": 906163200,
+          "text": "Powerful emotions brought forth through great lyrics and fantastic vocals.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "mIj9LpkB-_PrFombjoyp",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "The best Pearl Jam cd yet",
+          "helpfulness_up": 0,
+          "productId": "B000002BYF",
+          "title": "Yield",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 906163200,
+          "text": "Powerful emotions brought forth through great lyrics and fantastic vocals.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "xY8AL5kB-_PrFomb8nnE",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B000GALEXQ",
+          "title": "S&M;",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "PY8AL5kB-_PrFomb83tg",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B000GALEXQ",
+          "title": "S&M;",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Po8AL5kB-_PrFomb83tg",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B000GALEXQ",
+          "title": "S&M;",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": null,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "-ZgFL5kB-_PrFombt_ic",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "Christopher W. Morris",
+          "summary": "Awesome!!",
+          "helpfulness_up": 1,
+          "productId": "B000GPIDQW",
+          "helpfulness_ratio": 1.0,
+          "title": "Speak",
+          "userId": "A3G05IEEQP0LHM",
+          "score": 5.0,
+          "price": 13.85,
+          "time": 1260057600,
+          "text": "This CD is very encouraging. The music, lyrics, and vocals are great. Glory to God!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "6M04L5kB-_PrFomb8FXS",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00002Z88D",
+          "title": "S&M;",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": 16.99,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Qs04L5kB-_PrFomb8Vdd",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00002Z88D",
+          "title": "S&M;",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": 16.99,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Q804L5kB-_PrFomb8Vdd",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "mdtwo@psci.net",
+          "summary": "metallica or nothing!",
+          "helpfulness_up": 0,
+          "productId": "B00002Z88D",
+          "title": "S&M;",
+          "userId": "A1B6IIGP363SMR",
+          "score": 5.0,
+          "price": 16.99,
+          "time": 946252800,
+          "text": "The lyrics are great, the vocals bust! the percussion a must and the strings are heavy, Love it!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "D8UyL5kB-_PrFombkida",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "Daniel Bruckner",
+          "summary": "Nice Effort",
+          "helpfulness_up": 1,
+          "productId": "B000NJLS7C",
+          "helpfulness_ratio": 1.0,
+          "title": "Cinematic Americana",
+          "userId": "A3EQ6TVMEQHXTA",
+          "score": 5.0,
+          "price": 12.84,
+          "time": 1174521600,
+          "text": "Magnificent on violin. Vocals, lyrics are up to par. But it is the violin that must be savored.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "udQ-L5kB-_PrFombOGG4",
+        "_score": 7.496144,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "A favorite",
+          "helpfulness_up": 0,
+          "productId": "B00002495P",
+          "title": "Fat City",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 11.35,
+          "time": 1037059200,
+          "text": "This could be a favorite for anybody. Great lyrics and crisp vocals. Highly recommend!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "w40AL5kB-_PrFombQPkG",
+        "_score": 7.4944324,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "A GREAT CD !",
+          "helpfulness_up": 0,
+          "productId": "B00005J73A",
+          "title": "Sarina Paris",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 995587200,
+          "text": "I love this cd. It is one of my faveorite cds! This cd has GREAT beats,lyrics and vocals.I recommend this cd to anyone who LOVES great beats, lyrics and vocals.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "9KgTL5kB-_PrFombIThx",
+        "_score": 7.4680367,
+        "_source": {
+          "profileName": "Dexter",
+          "summary": "Fantastic!",
+          "helpfulness_up": 2,
+          "productId": "B0000T6JJM",
+          "helpfulness_ratio": 0.6666666666666666,
+          "title": "Come Away with Me",
+          "userId": "A30XESSG1KS0ZV",
+          "score": 5.0,
+          "price": null,
+          "time": 1138492800,
+          "text": "Without a doubt, her best yet! Nora Jones' smokey vocals and stunning lyrics are the marks of an amazing talent. \"Don't Know Why\" is my favorite from the album, with it's soft vocals and beautiful intrumental style.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "eKEKL5kB-_PrFombWVva",
+        "_score": 7.4680367,
+        "_source": {
+          "profileName": "Lauri Shea \"Owlie\"",
+          "summary": "Gorgeous mix.",
+          "helpfulness_up": 1,
+          "productId": "B00005QEYH",
+          "helpfulness_ratio": 1.0,
+          "title": "Oracle",
+          "userId": "A24OYVYM2ZFLB8",
+          "score": 5.0,
+          "price": 13.05,
+          "time": 1037577600,
+          "text": "Kittie has a way of going from soft, pleasing vocals to screaming and heavy metal in a matter of seconds. All of their songs have deep, emotional lyrics and beautiful vocals. The guitar and drums are also amazing. Highly recommended.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "rqIML5kB-_PrFombANto",
+        "_score": 7.4680367,
+        "_source": {
+          "profileName": "Dexter",
+          "summary": "Fantastic!",
+          "helpfulness_up": 2,
+          "productId": "B00007G78Q",
+          "helpfulness_ratio": 0.6666666666666666,
+          "title": "Come Away With Me",
+          "userId": "A30XESSG1KS0ZV",
+          "score": 5.0,
+          "price": null,
+          "time": 1138492800,
+          "text": "Without a doubt, her best yet! Nora Jones' smokey vocals and stunning lyrics are the marks of an amazing talent. \"Don't Know Why\" is my favorite from the album, with it's soft vocals and beautiful intrumental style.",
+          "helpfulness_down": 1
+        }
+      }
+    ]
+  }
+}

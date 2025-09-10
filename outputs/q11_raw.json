@@ -1,0 +1,96 @@
+{
+  "took": 595,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 10000,
+      "relation": "gte"
+    },
+    "max_score": null,
+    "hits": []
+  },
+  "aggregations": {
+    "by_user": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 5079369,
+      "buckets": [
+        {
+          "key": "unknown",
+          "doc_count": 1263481,
+          "avg_help": {
+            "value": 0.6434019787058259
+          }
+        },
+        {
+          "key": "A customer \"mistermaxxx\"",
+          "doc_count": 10494,
+          "avg_help": {
+            "value": 0.5343296925927843
+          }
+        },
+        {
+          "key": "A Customer",
+          "doc_count": 8297,
+          "avg_help": {
+            "value": 0.6617981293732819
+          }
+        },
+        {
+          "key": "Chris",
+          "doc_count": 5303,
+          "avg_help": {
+            "value": 0.5949761411333716
+          }
+        },
+        {
+          "key": "Mike Reed \"Mike Reed\"",
+          "doc_count": 5089,
+          "avg_help": {
+            "value": 0.8708066157191514
+          }
+        },
+        {
+          "key": "IRate",
+          "doc_count": 5075,
+          "avg_help": {
+            "value": 0.33144481719452784
+          }
+        },
+        {
+          "key": "Peter Durward Harris \"Pete the music fan\"",
+          "doc_count": 4670,
+          "avg_help": {
+            "value": 0.9321464482517298
+          }
+        },
+        {
+          "key": "Mike",
+          "doc_count": 4648,
+          "avg_help": {
+            "value": 0.6925672089598426
+          }
+        },
+        {
+          "key": "B. E Jackson",
+          "doc_count": 4228,
+          "avg_help": {
+            "value": 0.6819478002323852
+          }
+        },
+        {
+          "key": "Andre S. Grindle \"Andre' Grindle\"",
+          "doc_count": 4157,
+          "avg_help": {
+            "value": 0.8823802566353331
+          }
+        }
+      ]
+    }
+  }
+}

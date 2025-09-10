@@ -33,14 +33,14 @@ def open_text_auto(path: str) -> io.TextIOBase:
         return sys.stdin
     if path.lower().endswith(".gz"):
         return io.TextIOWrapper(gzip.open(path, "rb"), encoding="utf-8", errors="ignore")
-    return open(path, "r", encoding="utf-8", errors="ignore")
+    return open(path, "r", encoding="utf-8-sig", errors="ignore")
 
 
 def iter_jsonl_docs(path: str) -> Iterator[dict]:
     """Yield JSON objects from a JSONL file or stdin. Skips blank lines."""
     with (sys.stdin if path == "-" else open_text_auto(path)) as fp:
-        for line in fp:
-            s = line.strip()
+        for i, line in enumerate(fp, 1):
+            s = line.strip().lstrip("\ufeff")
             if not s:
                 continue
             try:
@@ -285,11 +285,11 @@ def parse_args() -> argparse.Namespace:
     tgt.add_argument("--pipeline", default=None, help="Optional ingest pipeline id")
 
     perf = p.add_argument_group("Performance")
-    perf.add_argument("--batch", type=int, default=2000, help="Docs per bulk request (upper bound)")
-    perf.add_argument("--max-bytes", type=int, default=5_000_000, help="Max payload size per bulk request in bytes")
-    perf.add_argument("--timeout", type=float, default=30.0, help="HTTP timeout seconds")
-    perf.add_argument("--max-connections", type=int, default=64, help="HTTP max connections (pool)")
-    perf.add_argument("--max-keepalive", type=int, default=32, help="HTTP max keep-alive connections (pool)")
+    perf.add_argument("--batch", type=int, default=500, help="Docs per bulk request (upper bound)")
+    perf.add_argument("--max-bytes", type=int, default=2_000_000, help="Max payload size per bulk request in bytes")
+    perf.add_argument("--timeout", type=float, default=60.0, help="HTTP timeout seconds")
+    perf.add_argument("--max-connections", type=int, default=16, help="HTTP max connections (pool)")
+    perf.add_argument("--max-keepalive", type=int, default=8, help="HTTP max keep-alive connections (pool)")
 
     return p.parse_args()
 

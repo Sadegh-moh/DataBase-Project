@@ -1,0 +1,69 @@
+{
+  "took": 44,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 10000,
+      "relation": "gte"
+    },
+    "max_score": null,
+    "hits": []
+  },
+  "aggregations": {
+    "sample": {
+      "doc_count": 2000,
+      "by_product": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 1856,
+        "buckets": [
+          {
+            "key": "B000803F54",
+            "doc_count": 16
+          },
+          {
+            "key": "B000803F5E",
+            "doc_count": 16
+          },
+          {
+            "key": "B0009A6MPS",
+            "doc_count": 16
+          },
+          {
+            "key": "B000A2GZ16",
+            "doc_count": 16
+          },
+          {
+            "key": "B000E6G6EY",
+            "doc_count": 16
+          },
+          {
+            "key": "B000EOUTZ8",
+            "doc_count": 16
+          },
+          {
+            "key": "B000FVR18I",
+            "doc_count": 16
+          },
+          {
+            "key": "B000N0UMQY",
+            "doc_count": 16
+          },
+          {
+            "key": "B000002L1H",
+            "doc_count": 8
+          },
+          {
+            "key": "B00000EYFJ",
+            "doc_count": 8
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1890 @@
+{
+  "took": 118,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "max_score": 6.9563513,
+    "hits": [
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "rXTzLpkB-_PrFombph4q",
+        "_score": 6.9563513,
+        "_source": {
+          "profileName": "bestcdhead",
+          "summary": "LIGHTNIN' HOPKINS - \"NOTHIN' BUT THE BLUES\"",
+          "helpfulness_up": 0,
+          "productId": "B0001EMQNO",
+          "title": "Kings of the Blues",
+          "userId": "A2UO41KV1PS954",
+          "score": 4.0,
+          "price": 12.61,
+          "time": 1143072000,
+          "text": "TRACK LISTING: Nothin' But The Blues / Sick Feelin' Blues / Blues For My Cookie / Big Black Cadillac Blues / Lightnin's Boogie / Early In The Mornin' Blues / Coffee House Blues / Fugitive Blues / G String Blues / Stool Pigeon Blues / Drinkin' In The Blues / Santa Fe BluesPLAYING TIME - 42:25",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "lJkGL5kB-_PrFombVOx6",
+        "_score": 6.8580775,
+        "_source": {
+          "profileName": "Obmario \"Obmario\"",
+          "summary": "Good CD by Blind Lemon",
+          "helpfulness_up": 0,
+          "productId": "B0000DERAQ",
+          "title": "Blind Lemon Jefferson",
+          "userId": "A2AY315HLTXBU6",
+          "score": 4.0,
+          "price": 13.89,
+          "time": 1280534400,
+          "text": "A good CD; I just picked it up and am listening to it now. It is my first Blind Lemon. It is in the old school blues style -- a man and his guitar, much like Robert Johnson. So much better than the over produced stuff you often find these days.The tracks are Rambler Blues; See that My Grave is Kept Clean; Matchbox Blues; Hot dogs; Hangman's Blues; he Arose from the Dead; Blind Lemon's Penitentiary Blues; That Crawlin' Baby Blues; One Dime Blues; Rising High Water Blues; Rabbit Foot Blues; Prison Cell Blues; Lonesome House Blues; Where Shall I Be?; Lock Step Blues; Bad Luck Blues; Shuckin' Sugar Blues; Beggin' Back; Broke and Hungry; and Gone Dead on You Blues.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "K70rL5kB-_PrFombkWbl",
+        "_score": 6.8354454,
+        "_source": {
+          "profileName": "John",
+          "summary": "ONE OF THE OUTSTANDING RECENT BLUES OR ROCK BLUES CDS!",
+          "helpfulness_up": 1,
+          "productId": "B00094OC6K",
+          "helpfulness_ratio": 1.0,
+          "title": "Blues Deluxe",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 5.0,
+          "price": 30.9,
+          "time": 1290556800,
+          "text": "If I was to pick the very best recent rock blues cds that I have purchased and enjoyed (always a difficult proposition), I would definitely choose Joe Bonamassa's Blues Deluxe, along with Jimmy Thackery's Wild Night Out!, Eric Clapton's From The Cradle, Ronnie Earl's Deep Blues, and Stevie Ray Vaughan's In Step. Blues Deluxe seems all that more amazing because a following blues-tinged Joe Bonamassa cd, You and Me, is a big disapointment compared to the outstanding blues music, vocals, and guitar playing that are found on Blues Deluxe. I've listened to Blues Deluxe a large number of times, and the cd never fails to fascinate my rock blues and blues tastes. Every song on Blues Deluxe is outstanding blues. Joe Bonamassa does a superb job of singing and playing THE BLUES-Blues Deluxe is also among my most treasured blues cds! If you enjor blues and/or rock blues music, I very strongly and confidently recommend Blues Deluxe to you. The cd is so well done that I consider it a masterpiece.John",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "NoP7LpkB-_PrFombCb0v",
+        "_score": 6.792957,
+        "_source": {
+          "profileName": "PATRICK HAZELL",
+          "summary": "Super Blues--in every way--a must have!",
+          "helpfulness_up": 0,
+          "productId": "B000024P3A",
+          "title": "Two Great Guitars/Super Super Blues Band",
+          "userId": "AKB5ZN0E6MTA2",
+          "score": 5.0,
+          "price": 17.05,
+          "time": 1330992000,
+          "text": "Both the Super Blues, and the Super, Super Blues albums are essential for any blues collection. To say nothing of the number of blues super stars who perform on them (both the front men and the back line), the music is played without the restraints of the 3 minute limit common to the commercial releases of most of the all-time great blues hits. Live versions of blues songs often extend far beyond that time constraint. The Super Blues recordings are recorded live in the studio and definitely give the listener that live experience The Super Blues albums definitely groove. I could never understand the criticism these albums have received. Being a professional blues performer since 1961, I've played and heard a lot of blues both ancient and contemporary, and am fully aware of all the blues classic recordings. With that said, I feel the Super Blues albums are some of the best recordings of that era of blues spanning the mid 1950s-mid 1960s--a must have in any blues collection.Super Blues",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "fMc0L5kB-_PrFombQ9Bc",
+        "_score": 6.792957,
+        "_source": {
+          "profileName": "PATRICK HAZELL",
+          "summary": "Super Blues--in every way--a must have!",
+          "helpfulness_up": 0,
+          "productId": "B00008FDKR",
+          "title": "The Super Super Blues Band [Vinyl]",
+          "userId": "AKB5ZN0E6MTA2",
+          "score": 5.0,
+          "price": null,
+          "time": 1330992000,
+          "text": "Both the Super Blues, and the Super, Super Blues albums are essential for any blues collection. To say nothing of the number of blues super stars who perform on them (both the front men and the back line), the music is played without the restraints of the 3 minute limit common to the commercial releases of most of the all-time great blues hits. Live versions of blues songs often extend far beyond that time constraint. The Super Blues recordings are recorded live in the studio and definitely give the listener that live experience The Super Blues albums definitely groove. I could never understand the criticism these albums have received. Being a professional blues performer since 1961, I've played and heard a lot of blues both ancient and contemporary, and am fully aware of all the blues classic recordings. With that said, I feel the Super Blues albums are some of the best recordings of that era of blues spanning the mid 1950s-mid 1960s--a must have in any blues collection.Super Blues",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "eMk2L5kB-_PrFombMpvr",
+        "_score": 6.792957,
+        "_source": {
+          "profileName": "PATRICK HAZELL",
+          "summary": "Super Blues--in every way--a must have!",
+          "helpfulness_up": 0,
+          "productId": "B000002O97",
+          "title": "Super Super Blues Band",
+          "userId": "AKB5ZN0E6MTA2",
+          "score": 5.0,
+          "price": null,
+          "time": 1330992000,
+          "text": "Both the Super Blues, and the Super, Super Blues albums are essential for any blues collection. To say nothing of the number of blues super stars who perform on them (both the front men and the back line), the music is played without the restraints of the 3 minute limit common to the commercial releases of most of the all-time great blues hits. Live versions of blues songs often extend far beyond that time constraint. The Super Blues recordings are recorded live in the studio and definitely give the listener that live experience The Super Blues albums definitely groove. I could never understand the criticism these albums have received. Being a professional blues performer since 1961, I've played and heard a lot of blues both ancient and contemporary, and am fully aware of all the blues classic recordings. With that said, I feel the Super Blues albums are some of the best recordings of that era of blues spanning the mid 1950s-mid 1960s--a must have in any blues collection.Super Blues",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "5pYEL5kB-_PrFombTlH4",
+        "_score": 6.7419615,
+        "_source": {
+          "profileName": "Mojo Marie",
+          "summary": "Shuck Dub?",
+          "helpfulness_up": 12,
+          "productId": "B000009OIX",
+          "helpfulness_ratio": 0.8571428571428571,
+          "title": "Come on In [Vinyl]",
+          "userId": "A2KRYKKSJ8CUDT",
+          "score": 5.0,
+          "price": 7.99,
+          "time": 1136505600,
+          "text": "Dear Mr. Yates: Are you one of those turtle-neck wearing folks with plenty of money and a nose in the air? Are you one of those that believe that the Blues must adhere to some unforgiving rules that you made up? Get off yo' high horse and put down that pipe! The Blues have always been a \"blasphemy\", a walk downtown, a soulful melody, a harsh reality.... etc... The Blues NEVER did adhere to any rules of musical education. The Blues is the Blues because of a feeling, an attitude. This album has all of that attitude, irreverent as it is. Take off that turtle-neck sweater and listen to these grooves. Blues grooves. The only other artist to take the Blues to this level this decade has been G. Love. No, it's not your daddy's Blues.... but it is Blues.... fun Blues.... New Orleans Blues... Blues the way it was supposed to be: Fun, Exciting, Soulful and NOT standard! Blues with a capital \"B\".",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "1J8JL5kB-_PrFombAkcs",
+        "_score": 6.7419615,
+        "_source": {
+          "profileName": "Mojo Marie",
+          "summary": "Shuck Dub?",
+          "helpfulness_up": 12,
+          "productId": "B000008UMZ",
+          "helpfulness_ratio": 0.8571428571428571,
+          "title": "Come on in",
+          "userId": "A2KRYKKSJ8CUDT",
+          "score": 5.0,
+          "price": 13.79,
+          "time": 1136505600,
+          "text": "Dear Mr. Yates: Are you one of those turtle-neck wearing folks with plenty of money and a nose in the air? Are you one of those that believe that the Blues must adhere to some unforgiving rules that you made up? Get off yo' high horse and put down that pipe! The Blues have always been a \"blasphemy\", a walk downtown, a soulful melody, a harsh reality.... etc... The Blues NEVER did adhere to any rules of musical education. The Blues is the Blues because of a feeling, an attitude. This album has all of that attitude, irreverent as it is. Take off that turtle-neck sweater and listen to these grooves. Blues grooves. The only other artist to take the Blues to this level this decade has been G. Love. No, it's not your daddy's Blues.... but it is Blues.... fun Blues.... New Orleans Blues... Blues the way it was supposed to be: Fun, Exciting, Soulful and NOT standard! Blues with a capital \"B\".",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "7o8AL5kB-_PrFomb30nj",
+        "_score": 6.706332,
+        "_source": {
+          "profileName": "K. Prousalis \"papillon\"",
+          "summary": "NO BLUES NO MUSIC MY FRIEND",
+          "helpfulness_up": 0,
+          "productId": "B0000014Q8",
+          "helpfulness_ratio": 0.0,
+          "title": "Keep Yourself Together",
+          "userId": "A2LDTL8GJVGKLO",
+          "score": 5.0,
+          "price": 14.21,
+          "time": 1208304000,
+          "text": "ANOTHER GEM FROM FRANK FROST. Maybe not in the same league like DEEP BLUES but very very close .Blues for all blues for you blues for me and everyone who pay respect to THE BLUES COMMUNITY because NO BLUES NO MUSIC my friend .BY THE WAY this harp breaks bones .",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "_HTzLpkB-_PrFombph4q",
+        "_score": 6.7020345,
+        "_source": {
+          "profileName": "Slobberer \"Slobberer\"",
+          "summary": "About this CD",
+          "helpfulness_up": 4,
+          "productId": "B000026XJC",
+          "helpfulness_ratio": 0.6666666666666666,
+          "title": "Pure Vintage Blues: Future Blues",
+          "userId": "A2FWJ8NJKWJIKP",
+          "score": 5.0,
+          "price": null,
+          "time": 1103328000,
+          "text": "Pure Vintage Blues - \"Future Blues\"Empress (label) (U.K.) Catalogue # RAJCD 887over 65 minutes long...original recordings, tracks & artistsTracks:1. Dough Roller Blues - Arfield Akers (Vocal/Guitar)2. Future Blues - Willie Brown (Vocal/Guitar)3. Travelling Mama Blues - Joe Callicot (Vocal/Guitar)4. M And O Blues - Willie Brown (Vocal/Guitar)5. Mississippi Bottom Blues - Kid Bailey6. My Black Mama - Son House7. Cottonfield Blues - Garfield Akers (Vocal/Guitar) & Joe Callicot8. Rowdy Blues - Kid Bailey9. Sun Brimmers Blues - Memphis Jug Band10. Evil Woman Blues - James \"Boodle It\" Wiggins & Bob Call (Piano)11. Walking Blues - Raymond Barrow (Piano solo)12. Corrine, Corina Blues - James \"Boodle It\" Wiggins13. Gettin' Dirty Just Shakin' That Thing - Romeo Nelson14. Chain 'Em Down - Blind Leroy Garnett15. Kansas City Blues - Memphis Jug Band16. Louisiana Glide - Blind Leroy Garnett (piano)17. Good Looking Girl Blues - Furry Lewis (Vocal/Guitar)18. Peaches In The Springtime - Memphis Jug Band19. Dry Land Blues - Furry Lewis (Vocal/Guitar)20. Snitchin' Gambler Blues - Memphis Jug Band21. Head Rag Hop - Romeo Nelson (piano solo) Tampa Red (voice), Frankie Jaxon (Vocal interjections)22. Falling Down Blues - Furry Lewis",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "D3r2LpkB-_PrFombeGCv",
+        "_score": 6.699829,
+        "_source": {
+          "profileName": "Joseph Rao",
+          "summary": "An Essential Blues Album",
+          "helpfulness_up": 0,
+          "productId": "B00000DD2D",
+          "title": "Blues Blues Blues",
+          "userId": "A3HIT9ZBLFZUXP",
+          "score": 5.0,
+          "price": null,
+          "time": 1347494400,
+          "text": "Blues Blues Blues indeed ! Jimmy Rogers and friends. As others have said, \"superstar\" gatherings/tributes often don't work but this one really does. Probably because the \"superstars\" themselves are also blues legends or are performers who are heavily influenced and passionate about the blues. Everyone contributing works their tails off in respect to the legend in their presence and the legend himself is in super form. As time continues to tick by and original true blues legends are thin on the ground this great recording stands out as an essential blues recording caught just in time before losing this wonderful bluesman. Do your very best to not miss out on securing a copy of this sensational recording. Blues Blues Blues !",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "gIv_LpkB-_PrFombOLen",
+        "_score": 6.699829,
+        "_source": {
+          "profileName": "Joseph Rao",
+          "summary": "An Essential Blues Album",
+          "helpfulness_up": 0,
+          "productId": "B00000EC1Q",
+          "title": "Trouble No More",
+          "userId": "A3HIT9ZBLFZUXP",
+          "score": 5.0,
+          "price": null,
+          "time": 1347494400,
+          "text": "Blues Blues Blues indeed ! Jimmy Rogers and friends. As others have said, \"superstar\" gatherings/tributes often don't work but this one really does. Probably because the \"superstars\" themselves are also blues legends or are performers who are heavily influenced and passionate about the blues. Everyone contributing works their tails off in respect to the legend in their presence and the legend himself is in super form. As time continues to tick by and original true blues legends are thin on the ground this great recording stands out as an essential blues recording caught just in time before losing this wonderful bluesman. Do your very best to not miss out on securing a copy of this sensational recording. Blues Blues Blues !",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Kn_4LpkB-_PrFomb7zo4",
+        "_score": 6.6965237,
+        "_source": {
+          "profileName": "M. Teitelman \"tman\"",
+          "summary": "Sammy Plays the Blues",
+          "helpfulness_up": 4,
+          "productId": "B00005YEEA",
+          "helpfulness_ratio": 0.8,
+          "title": "Blues By the Bushel",
+          "userId": "A2S82RSZUKGADW",
+          "score": 4.0,
+          "price": null,
+          "time": 1010966400,
+          "text": "This is a great standard blues album. Nothing fancy about it, just clean straight ahead blues. The title track Blues by the Bushel is really nice and there is a great blues birthday song.For something that is standard blues, I keep playing it over and over, it may be standard but it is really good standard blues.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "hIP6LpkB-_PrFomb8Gyp",
+        "_score": 6.6965237,
+        "_source": {
+          "profileName": "M. Teitelman \"tman\"",
+          "summary": "Sammy Plays the Blues",
+          "helpfulness_up": 4,
+          "productId": "B0000012QB",
+          "helpfulness_ratio": 0.8,
+          "title": "Blues By the Bushel",
+          "userId": "A2S82RSZUKGADW",
+          "score": 4.0,
+          "price": null,
+          "time": 1010966400,
+          "text": "This is a great standard blues album. Nothing fancy about it, just clean straight ahead blues. The title track Blues by the Bushel is really nice and there is a great blues birthday song.For something that is standard blues, I keep playing it over and over, it may be standard but it is really good standard blues.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "KLwqL5kB-_PrFombkN2y",
+        "_score": 6.666356,
+        "_source": {
+          "profileName": "Slobberer \"Slobberer\"",
+          "summary": "About this CD",
+          "helpfulness_up": 7,
+          "productId": "B00000K49B",
+          "helpfulness_ratio": 1.0,
+          "title": "Southern Blues V.1",
+          "userId": "A2FWJ8NJKWJIKP",
+          "score": 5.0,
+          "price": null,
+          "time": 1102636800,
+          "text": "Southern Blues Volume 1Acrobat (U.K.)early country/pre-war acoustic blues from rare 78's....tracks & artists are1. I'm Leaving Town by William Harris2. Mistreatin' Blues by Frank Stokes3. Canned Heat Blues by Tommy Johnson4. Dry Land Blues by Furry Lewis5. Last Time Blues by Charlie McCoy6. Elder Greene Blues by Charley Patton7. Never Drive a Stranger from Your Door by Willie Harris8. Dough Roller Blues by Garfield Akers9. Beale Street Breakdown by Jed Davenport10. Skinny Legs Blues by Geeshie Wiley11. Stop and Listen by Mississippi Sheiks12. I Let My Daddy Do That by Hattie Hart13. Little Girl in Rome by Otto Virgial14. It's Cold in China Blues by Mississippi Moaner15. The Ins and Outs of My Girl by Bo Carter16. Skippy Whippy by Mississippi Jook Band17. Preachin' Blues by Robert Johnson -18. Lonesome World by McCoy, Robert Lee19. Spider Bite Blues by James DeBerry20. Special Streamline by Bukka White21. Jailhouse Blues by Estes, Sleepy John22. Mozelle Blues by Tommy McClennan23. Standin' at My Window by Arthur Crudup24. Anna Mae by Cecil Gant25. No Good Woman Blues by Rudy Greene",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "aM04L5kB-_PrFomb5z_5",
+        "_score": 6.6547756,
+        "_source": {
+          "profileName": "Node Rogue",
+          "summary": "The KING of BLUES POWER! An essential for any Blues fan",
+          "helpfulness_up": 0,
+          "productId": "B000000XGV",
+          "title": "The Best of Albert King",
+          "userId": "AA3RGW41WZCS1",
+          "score": 5.0,
+          "price": 9.79,
+          "time": 899596800,
+          "text": "This is by far only a small collection of the best of the man who started Blues Power. Smokin' guitar licks are throughout this CD, and every song is nothing but pure blues. For those that don't like all depressing blues songs, this album also has some rockin' blues tunes like &quot;That's What the Blues Is All About&quot; and &quot;Hound Dog&quot;. And, of course, it has the classic blues title &quot;Sky Is Crying.&quot; Granted, it is a short album, but this album speaks blues. This is an essential for any blues fan.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "U5YEL5kB-_PrFombcY4Q",
+        "_score": 6.651181,
+        "_source": {
+          "profileName": "Barry McCanna",
+          "summary": "JUST A BUNDLE OF SWINGING BLUES",
+          "helpfulness_up": 0,
+          "productId": "B000005L61",
+          "title": "Swinging the Blues",
+          "userId": "AI4MUD97FH6G2",
+          "score": 4.0,
+          "price": null,
+          "time": 1298937600,
+          "text": "This CD dates from 1991, and runs to just 18 tracks, as follows:1. Bundle Of Blues - Duke Ellington2. Tin Roof Blues - Tommy Dorsey3. That Too Do - Bennie Moten4. Swingin' The Blues - Count Basie5. Sweet Sorrow Blues - Spike Hughes6. St Louis Blues - Dorsey Brothers7. New Call Of The Freaks - Luis Russell8. At The Woodchoppers' Ball - Woody Herman9. The Blues - Artie Shaw10. Just Blues - Connie's Inn Orchestra11. Roll 'em - Benny Goodman12. Memphis Blues - Fletcher Henderson13. Savoy Blues - Bob Crosby14. Dogtown Blues - Bob Crosby15. Hot And Anxious - Don Redman16. Ridin' But Walkin' - Fats Waller17. Jelly Roll Blues - Bunny Berigan18. Dippermouth Blues - Jimmy Dorsey & Louis ArmstrongIt's a very well thought out compilation of big bands playing in the blues idiom, not all of which are mournful, by any means. Indeed, the title track by the Basie band is a joyful, bouncing number which would dispel any blues you might have. There's a full discography, and Vic Bellerby's liner note gives background information, but omits to mention that an accordion can be heard on \"That Too, Do\".",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "6IL6LpkB-_PrFombsaW1",
+        "_score": 6.651181,
+        "_source": {
+          "profileName": "Barry McCanna",
+          "summary": "JUST A BUNDLE OF SWINGING BLUES",
+          "helpfulness_up": 0,
+          "productId": "B000006166",
+          "title": "Swinging the Blues",
+          "userId": "AI4MUD97FH6G2",
+          "score": 4.0,
+          "price": null,
+          "time": 1298937600,
+          "text": "This CD dates from 1991, and runs to just 18 tracks, as follows:1. Bundle Of Blues - Duke Ellington2. Tin Roof Blues - Tommy Dorsey3. That Too Do - Bennie Moten4. Swingin' The Blues - Count Basie5. Sweet Sorrow Blues - Spike Hughes6. St Louis Blues - Dorsey Brothers7. New Call Of The Freaks - Luis Russell8. At The Woodchoppers' Ball - Woody Herman9. The Blues - Artie Shaw10. Just Blues - Connie's Inn Orchestra11. Roll 'em - Benny Goodman12. Memphis Blues - Fletcher Henderson13. Savoy Blues - Bob Crosby14. Dogtown Blues - Bob Crosby15. Hot And Anxious - Don Redman16. Ridin' But Walkin' - Fats Waller17. Jelly Roll Blues - Bunny Berigan18. Dippermouth Blues - Jimmy Dorsey & Louis ArmstrongIt's a very well thought out compilation of big bands playing in the blues idiom, not all of which are mournful, by any means. Indeed, the title track by the Basie band is a joyful, bouncing number which would dispel any blues you might have. There's a full discography, and Vic Bellerby's liner note gives background information, but omits to mention that an accordion can be heard on \"That Too, Do\".",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ZZwHL5kB-_PrFombkjrS",
+        "_score": 6.639246,
+        "_source": {
+          "profileName": "John",
+          "summary": "OUTSTANDING ALL BLUES MASTERPIECE! - RONNIE EARL'S BEST!",
+          "helpfulness_up": 2,
+          "productId": "B00008ES59",
+          "helpfulness_ratio": 1.0,
+          "title": "Deep Blues [Vinyl]",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 5.0,
+          "price": null,
+          "time": 1290384000,
+          "text": "Deep Blues is an outstanding blues cd that includes 17 songs. Deep Blues combines Ronnie Earl's first two releases, Smokin' and They Call Me Mr. Earl. I love to listen to Deep Blues. I am fascinated by Deep Blues and will definitely continue to regularly and truly enjoy Deep Blues long after my first rush of playing the cd time after time is past. In fact, so far I've enjoyed Deep Blues a bit more every time that I listen to it. Ronnie Earl is certainly a highly accomplished guitarist! The Broadcasters are a very tight and very competent band that sound a bit like Robert Cray's band without the horns. Both vocalists, Kim Wilson and Sugar Ray Norcia, are wonderful blues singers! Another very positive quality of Deep Blues is that all of the songs on the cd are definitely excellent BLUES! Therefore, the title of this cd is very appropriate. If you are a discerning blues fan, you can enjoy listening to each and every song on Deep Blues without flipping past a song that seems poor or out of place. Another very positive quality of Deep Blues is that the music has a \"stripped-down to just the right basics, almost live, although recorded in the studio\" feel to it. Deep Blues, as is true of many other cds, could benefit from some remastering, at least on some of the songs. But, and this is important, the sound quality of Deep Blues is certainly clear enough to truly enjoy listening to all of the music on the cd, without any distractions, just the way it is! Overall, I very highly recommend Deep Blues to you. I truly think you'll enjoy it. (One month later and Deep Blues is still the primary cd that I am listening to and enjoyng. Deep Blues is simply a MASTERPIECE OF THE BLUES! I also ordered and have listened to Heart and Soul: The Best of Ronnie Earl, which is not as good a blues cd as is Deep Blues. I'm of the opinion that DEEP BLUES is the ONE VERY BEST RONNIE EARL CD TO OWN AND PLAY due to the excellent blues singing of Sugar Ray Norcia and Kim Wilson, along with Ronnie Earl's great guitar playing.)John",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "w3f1LpkB-_PrFombTsaM",
+        "_score": 6.639246,
+        "_source": {
+          "profileName": "John",
+          "summary": "OUTSTANDING ALL BLUES MASTERPIECE! - RONNIE EARL'S BEST!",
+          "helpfulness_up": 2,
+          "productId": "B00000C4BU",
+          "helpfulness_ratio": 1.0,
+          "title": "And the Broadcasters",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 5.0,
+          "price": null,
+          "time": 1290384000,
+          "text": "Deep Blues is an outstanding blues cd that includes 17 songs. Deep Blues combines Ronnie Earl's first two releases, Smokin' and They Call Me Mr. Earl. I love to listen to Deep Blues. I am fascinated by Deep Blues and will definitely continue to regularly and truly enjoy Deep Blues long after my first rush of playing the cd time after time is past. In fact, so far I've enjoyed Deep Blues a bit more every time that I listen to it. Ronnie Earl is certainly a highly accomplished guitarist! The Broadcasters are a very tight and very competent band that sound a bit like Robert Cray's band without the horns. Both vocalists, Kim Wilson and Sugar Ray Norcia, are wonderful blues singers! Another very positive quality of Deep Blues is that all of the songs on the cd are definitely excellent BLUES! Therefore, the title of this cd is very appropriate. If you are a discerning blues fan, you can enjoy listening to each and every song on Deep Blues without flipping past a song that seems poor or out of place. Another very positive quality of Deep Blues is that the music has a \"stripped-down to just the right basics, almost live, although recorded in the studio\" feel to it. Deep Blues, as is true of many other cds, could benefit from some remastering, at least on some of the songs. But, and this is important, the sound quality of Deep Blues is certainly clear enough to truly enjoy listening to all of the music on the cd, without any distractions, just the way it is! Overall, I very highly recommend Deep Blues to you. I truly think you'll enjoy it. (One month later and Deep Blues is still the primary cd that I am listening to and enjoyng. Deep Blues is simply a MASTERPIECE OF THE BLUES! I also ordered and have listened to Heart and Soul: The Best of Ronnie Earl, which is not as good a blues cd as is Deep Blues. I'm of the opinion that DEEP BLUES is the ONE VERY BEST RONNIE EARL CD TO OWN AND PLAY due to the excellent blues singing of Sugar Ray Norcia and Kim Wilson, along with Ronnie Earl's great guitar playing.)John",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "WHX0LpkB-_PrFombMj3A",
+        "_score": 6.639246,
+        "_source": {
+          "profileName": "John",
+          "summary": "OUTSTANDING ALL BLUES MASTERPIECE! - RONNIE EARL'S BEST!",
+          "helpfulness_up": 2,
+          "productId": "B000007QB5",
+          "helpfulness_ratio": 1.0,
+          "title": "They Call Me Mr Earl",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 5.0,
+          "price": null,
+          "time": 1290384000,
+          "text": "Deep Blues is an outstanding blues cd that includes 17 songs. Deep Blues combines Ronnie Earl's first two releases, Smokin' and They Call Me Mr. Earl. I love to listen to Deep Blues. I am fascinated by Deep Blues and will definitely continue to regularly and truly enjoy Deep Blues long after my first rush of playing the cd time after time is past. In fact, so far I've enjoyed Deep Blues a bit more every time that I listen to it. Ronnie Earl is certainly a highly accomplished guitarist! The Broadcasters are a very tight and very competent band that sound a bit like Robert Cray's band without the horns. Both vocalists, Kim Wilson and Sugar Ray Norcia, are wonderful blues singers! Another very positive quality of Deep Blues is that all of the songs on the cd are definitely excellent BLUES! Therefore, the title of this cd is very appropriate. If you are a discerning blues fan, you can enjoy listening to each and every song on Deep Blues without flipping past a song that seems poor or out of place. Another very positive quality of Deep Blues is that the music has a \"stripped-down to just the right basics, almost live, although recorded in the studio\" feel to it. Deep Blues, as is true of many other cds, could benefit from some remastering, at least on some of the songs. But, and this is important, the sound quality of Deep Blues is certainly clear enough to truly enjoy listening to all of the music on the cd, without any distractions, just the way it is! Overall, I very highly recommend Deep Blues to you. I truly think you'll enjoy it. (One month later and Deep Blues is still the primary cd that I am listening to and enjoyng. Deep Blues is simply a MASTERPIECE OF THE BLUES! I also ordered and have listened to Heart and Soul: The Best of Ronnie Earl, which is not as good a blues cd as is Deep Blues. I'm of the opinion that DEEP BLUES is the ONE VERY BEST RONNIE EARL CD TO OWN AND PLAY due to the excellent blues singing of Sugar Ray Norcia and Kim Wilson, along with Ronnie Earl's great guitar playing.)John",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "PX74LpkB-_PrFombV0rH",
+        "_score": 6.6382685,
+        "_source": {
+          "profileName": "claymore \"claymore\"",
+          "summary": "Blues Blues Blues !",
+          "helpfulness_up": 5,
+          "productId": "B000NQR8HO",
+          "helpfulness_ratio": 1.0,
+          "title": "10 Days Out Blues from the Backroads",
+          "userId": "AEJ4MK3V8HQWJ",
+          "score": 5.0,
+          "price": null,
+          "time": 1169769600,
+          "text": "Un grand, un immense moment de Blues !! Pour tous ceux qui aiment le blues, la guitare, Kenny Wayne Shepherd et... l'esprit du Blues, le vrai. MagnifiqueA great, a huge moment of Blues !! For all of those who love Blues, guitar, Kenny Wayne Shpherd and... The spirit of the Blues, the real. Wonderful.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "GsMxL5kB-_PrFombQjPT",
+        "_score": 6.6382685,
+        "_source": {
+          "profileName": "claymore \"claymore\"",
+          "summary": "Blues Blues Blues !",
+          "helpfulness_up": 5,
+          "productId": "B000MV8DB0",
+          "helpfulness_ratio": 1.0,
+          "title": "TEN DAYS OUT... BLUES FROM TH [Vinyl]",
+          "userId": "AEJ4MK3V8HQWJ",
+          "score": 5.0,
+          "price": 27.38,
+          "time": 1169769600,
+          "text": "Un grand, un immense moment de Blues !! Pour tous ceux qui aiment le blues, la guitare, Kenny Wayne Shepherd et... l'esprit du Blues, le vrai. MagnifiqueA great, a huge moment of Blues !! For all of those who love Blues, guitar, Kenny Wayne Shpherd and... The spirit of the Blues, the real. Wonderful.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "tMQxL5kB-_PrFomb_1RC",
+        "_score": 6.6266456,
+        "_source": {
+          "profileName": "deepbluereview \"deepbluereview\"",
+          "summary": "Excellent Compilation!",
+          "helpfulness_up": 16,
+          "productId": "B00002CF2H",
+          "helpfulness_ratio": 1.0,
+          "title": "Essential Shoebox Full of Blues",
+          "userId": "AL3Z1LZXS0Q1U",
+          "score": 5.0,
+          "price": 89.18,
+          "time": 1026691200,
+          "text": "This House of Blues compilation is mainly a blues primer for those looking to explore the many select and talented blues musicians. The set contains 9 discs consisting first of three volumes of &quot;essentials&quot; in no particular order. These disc's mix all aspects of the genre and feature such artists as Hound Dog Taylor, Muddy Waters, Elmore James, Little Milton, Luther Allison, Magic Sam, Jimmy Reed and even a little James Brown. The next two disc's break the blues down into two of the more better known and easily recognized styles, Chicago Blues--featuring the likes of Sonny Boy Williamson, Willie Dixon, Howlin' Wolf and Little Walter-and Texas Blues-featuring Smokin' Joe Kubek, Lou Ann Barton, Gatemouth Brown and Lightnin' Hopkins. Then there are three discs each dedicated to a traditional blues instruments. You get Blues Guitar, Blues Harmonica and Blues Piano. Each of these three discs features individuals that have made those instruments popular among blues aficionados such as Elmore James, Muddy Waters, BB King and Bo Diddley on guitar, Charlie Musselwhite, Frank Frost and Junior Wells on harp and Pinetop Perkins, Roosevelt Sykes and Katie Webster on piano. Finally, you have one disc dedicated solely to the Woman of the Blues featuring, Marcia Ball, Nina Simone, Francine Reed and Ruth Brown. While there are many aspects of the blues not covered here, such as Mississippi Blues, Delta Blues, Country Blues, Acoustic Blues and many others, House of Blues did an exceptional job at collecting songs that will encourage listeners to seek out various performers and, ultimately new performers that have been influenced by the artists featured here. If you don't want to spring for the whole box, many of these discs are available for purchase individually in the House of Blues Series including one not in this box set, the excellent Smokey Blues featuring Mitch Woods, Charles Brown and Pee Wee Crayton.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "B70sL5kB-_PrFombE8AV",
+        "_score": 6.6258836,
+        "_source": {
+          "profileName": "Bangsmith",
+          "summary": "True Blues!!!",
+          "helpfulness_up": 8,
+          "productId": "B000EHTOJC",
+          "helpfulness_ratio": 0.5,
+          "title": "Important Recordings 1934-1949",
+          "userId": "A24JNM88AEEPGM",
+          "score": 5.0,
+          "price": 27.99,
+          "time": 1174521600,
+          "text": "This is the blues; the real thing, not blues-rock. Leadbelly became known to the white audience through his association with the early folk scene, but he himself was a straight-up bluesman. If you've been into stuff like Cream, The Yardbirds or Ten Years After thinking that they are blues, I've got news for ya!! Those bands are excellent, and were obviously blues-influenced,(and even recorded blues here and there!!) but they were rock bands more than they were blues artists. Check out this box, and any of the other blues boxes from JSP, and you will get a dose of TRUE blues!!",
+          "helpfulness_down": 8
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "e3r2LpkB-_PrFombrNN8",
+        "_score": 6.619075,
+        "_source": {
+          "profileName": "Clyde. \"Kansas Bad Man.\"",
+          "summary": "Clyde Blues Man White loves Jessie Mae.",
+          "helpfulness_up": 6,
+          "productId": "B000003OJN",
+          "helpfulness_ratio": 0.8571428571428571,
+          "title": "She-Wolf",
+          "userId": "A2UJW6DKFDEPAS",
+          "score": 5.0,
+          "price": 8.99,
+          "time": 943920000,
+          "text": "this is the best delta blues i've heard in awhile.jesse mae hemphill not only sings the delta blues she also feels the delta blues and no doudt lived the delta blues this recording is a must for any delta blues fan as is any other recording by her you can get your hands on. no crossover blues from jesse mae just the real thing.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "06AJL5kB-_PrFombb19u",
+        "_score": 6.6070137,
+        "_source": {
+          "profileName": "InStockMedia.Net \"InStockMedia.Net\"",
+          "summary": "Track Info on This Item",
+          "helpfulness_up": 0,
+          "productId": "B000LCZEOY",
+          "title": "The Blues Volume 1 Members Edition",
+          "userId": "A1CGLIDN7E5MK8",
+          "score": 5.0,
+          "price": null,
+          "time": 1164758400,
+          "text": "Tracks:1. Dimples - John Lee Hooker2. Brown Skinned Women - Howlin' Wolf3. CC Rider - Leadbelly4. How Long Blues - Memphis Slim5. I Got a Right To Sing The Blues - Billie Holiday6. St. Louis Blues - Louis Armstrong7. Overhead Blues - Jack Dupree8. Have a Ball - Jimmy Witherspoon9. She's Mine, She's Yours - Jimmy Rushing10. Three Woman Blues - Memphis Slim11. Jinx Blues - Big Joe Williams12. Harmonica Hop - Sonny Terry13. Pratt City Blues - Jabo Williams14. Little School Girl - Smokey Hogg15. Everyday I Have the Blues - Lowell Fulson16. Out on a Limb - Roosevelt Sykes17. Mean Old Bedbug Blues - Bessie Smith18. Bring Me Lil Water Silvy - Leadbelly19. Billies Blues - Billie Holiday20. Baby Please Don't Go - Big Bill Broonzy",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "5bkmL5kB-_PrFombrxDb",
+        "_score": 6.6021934,
+        "_source": {
+          "profileName": "John L. Hovan",
+          "summary": "Blues like you have never heard...",
+          "helpfulness_up": 0,
+          "productId": "B000CAEIQU",
+          "title": "Way Beyond the Blues",
+          "userId": "AWPCQGCYJ75XW",
+          "score": 5.0,
+          "price": null,
+          "time": 1028332800,
+          "text": "Way beyond the Blues is a &quot;blues lovers&quot; dream. No sappy tourist blues are found within its tracks. This is the real deal with the Blues Master himself, Joe Richardson taking guitar and harmonica to the next level.If you want real blues, buy this CD!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "l60bL5kB-_PrFombAdUA",
+        "_score": 6.6021934,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "new blues music",
+          "helpfulness_up": 2,
+          "productId": "B000038IAI",
+          "helpfulness_ratio": 1.0,
+          "title": "Lost and Broken Hearted",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 16.67,
+          "time": 961977600,
+          "text": "This is a cool CD.Great vocals and harmonies,interesting lyrics,killer guitar.It`s great to hear new &quot;blues&quot; songs that are creative,as most blues artists just redo old blues classics.This is new and slightly different,but still in the genre of blues/blues rock.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Q4n-LpkB-_PrFombXfdr",
+        "_score": 6.6021934,
+        "_source": {
+          "profileName": "John L. Hovan",
+          "summary": "Blues like you have never heard...",
+          "helpfulness_up": 0,
+          "productId": "B00005K2S5",
+          "title": "Way Beyond the Blues",
+          "userId": "AWPCQGCYJ75XW",
+          "score": 5.0,
+          "price": 15.19,
+          "time": 1028332800,
+          "text": "Way beyond the Blues is a &quot;blues lovers&quot; dream. No sappy tourist blues are found within its tracks. This is the real deal with the Blues Master himself, Joe Richardson taking guitar and harmonica to the next level.If you want real blues, buy this CD!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "_7MiL5kB-_PrFombIDxv",
+        "_score": 6.5999913,
+        "_source": {
+          "profileName": "Mark Waldo",
+          "summary": "THE BIBLE OF BLUES",
+          "helpfulness_up": 1,
+          "productId": "B000002758",
+          "helpfulness_ratio": 0.3333333333333333,
+          "title": "The Complete Recordings",
+          "userId": "AXRD90JPZ2X2E",
+          "score": 5.0,
+          "price": null,
+          "time": 947376000,
+          "text": "This CD is the greatest Blues CD ever. If you dont own this album then you cant know what blues really is. If you are a recording blues artist this should be your bible this is the best blues get he has great ablitys as a guitar player and as a singer and as a blue artist and this album shows it buy it today beacuse without it your blues collection isnt a blues collect.",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "gLMiL5kB-_PrFombIj4Q",
+        "_score": 6.5999913,
+        "_source": {
+          "profileName": "Mark Waldo",
+          "summary": "THE BIBLE OF BLUES",
+          "helpfulness_up": 1,
+          "productId": "B000002757",
+          "helpfulness_ratio": 0.3333333333333333,
+          "title": "Robert Johnson: The Complete Recordings",
+          "userId": "AXRD90JPZ2X2E",
+          "score": 5.0,
+          "price": null,
+          "time": 947376000,
+          "text": "This CD is the greatest Blues CD ever. If you dont own this album then you cant know what blues really is. If you are a recording blues artist this should be your bible this is the best blues get he has great ablitys as a guitar player and as a singer and as a blue artist and this album shows it buy it today beacuse without it your blues collection isnt a blues collect.",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "wdA7L5kB-_PrFombJ52e",
+        "_score": 6.5972414,
+        "_source": {
+          "profileName": "Ducman",
+          "summary": "Great Blues from a Great Guitar Player - a great KING!",
+          "helpfulness_up": 0,
+          "productId": "B000ERU8GK",
+          "title": "Stax Profiles",
+          "userId": "A3DM3EBTMXQESF",
+          "score": 4.0,
+          "price": 11.99,
+          "time": 1341446400,
+          "text": "The first two blues album I got as a young bloke more than 35 years ago were Albert King's \"Live Wire-Blues Power\" and one by Fleetwood Mac (when they were a proper blues band) I still love blues and \"Live Wire-Blues Power\" still gets played a lot - it is a tour de force that amazed me back then and amazes me now. Albert King is one the greatest Blues Kings and this is worthy addition to any blues collection - but if you like this King and this album you should definitely get \"Live Wire-Blues Power\"",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "w7ooL5kB-_PrFombYfvF",
+        "_score": 6.5912347,
+        "_source": {
+          "profileName": "Shannon C. Rife",
+          "summary": "Best Blues I ever heard",
+          "helpfulness_up": 3,
+          "productId": "B00007IG16",
+          "helpfulness_ratio": 0.6,
+          "title": "Blues [Vinyl]",
+          "userId": "A362IPLQTXYQ5B",
+          "score": 5.0,
+          "price": null,
+          "time": 1142812800,
+          "text": "This is the best Blues album I have ever heard in my life (Hendrix blues). Hendrix took the Blues where no one had ever taken the Blues before.",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "AJkGL5kB-_PrFombVfPw",
+        "_score": 6.5912347,
+        "_source": {
+          "profileName": "Shannon C. Rife",
+          "summary": "Best Blues I ever heard",
+          "helpfulness_up": 3,
+          "productId": "B000F6YPQ4",
+          "helpfulness_ratio": 0.6,
+          "title": "Blues",
+          "userId": "A362IPLQTXYQ5B",
+          "score": 5.0,
+          "price": 31.5,
+          "time": 1142812800,
+          "text": "This is the best Blues album I have ever heard in my life (Hendrix blues). Hendrix took the Blues where no one had ever taken the Blues before.",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "fco2L5kB-_PrFombew_0",
+        "_score": 6.5912347,
+        "_source": {
+          "profileName": "Shannon C. Rife",
+          "summary": "Best Blues I ever heard",
+          "helpfulness_up": 3,
+          "productId": "B000002OSK",
+          "helpfulness_ratio": 0.6,
+          "title": "Blues",
+          "userId": "A362IPLQTXYQ5B",
+          "score": 5.0,
+          "price": 47.49,
+          "time": 1142812800,
+          "text": "This is the best Blues album I have ever heard in my life (Hendrix blues). Hendrix took the Blues where no one had ever taken the Blues before.",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Uco2L5kB-_PrFombfRMn",
+        "_score": 6.5912347,
+        "_source": {
+          "profileName": "Shannon C. Rife",
+          "summary": "Best Blues I ever heard",
+          "helpfulness_up": 3,
+          "productId": "B000002OSL",
+          "helpfulness_ratio": 0.6,
+          "title": "Blues",
+          "userId": "A362IPLQTXYQ5B",
+          "score": 5.0,
+          "price": null,
+          "time": 1142812800,
+          "text": "This is the best Blues album I have ever heard in my life (Hendrix blues). Hendrix took the Blues where no one had ever taken the Blues before.",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "xnPzLpkB-_PrFombWpg8",
+        "_score": 6.5907884,
+        "_source": {
+          "profileName": "Victoria Corrigan \"Queen VC\"",
+          "summary": "Great blues mix - old and new",
+          "helpfulness_up": 0,
+          "productId": "B000BHN7OI",
+          "title": "From Clarksdale to Cleveland 1 the Roadhouse",
+          "userId": "A1ZJH1E6QZQCKY",
+          "score": 5.0,
+          "price": 8.77,
+          "time": 1155686400,
+          "text": "If you are new to blues or an avid blues fan, you will love this compilation. It weaves together a variety of both classic blues gems and more modern blues renditions. Seriously, from blues queen Koko Taylor to the Doors! It's great for a commute or party. Big thumbs up.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "PrQjL5kB-_PrFomb3u32",
+        "_score": 6.5902786,
+        "_source": {
+          "profileName": "Jo-Jo",
+          "summary": "I'm a happy girl....",
+          "helpfulness_up": 3,
+          "productId": "B00000DOZG",
+          "helpfulness_ratio": 0.75,
+          "title": "Briefcase Full of Blues",
+          "userId": "A1VQT0JPKA2Q9Q",
+          "score": 5.0,
+          "price": 5.74,
+          "time": 1051315200,
+          "text": "I've had this thing for music for ages, but I'd never really thought about the blues until I saw the &quot;Blues Brothers&quot; movie. So after that, I was hooked, and I went out and bought this. All I can say is that these guys should be declared saints for doing what they have for blues and R&amp;B. Anyone interested in learning more about blues, or who just likes blues, needs this album, because you can't have blues without the Blues Brothers.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "DIn-LpkB-_PrFombLZ86",
+        "_score": 6.5902786,
+        "_source": {
+          "profileName": "Jo-Jo",
+          "summary": "I'm a happy girl....",
+          "helpfulness_up": 3,
+          "productId": "B000LBDK14",
+          "helpfulness_ratio": 0.75,
+          "title": "Briefcase Full of Blues",
+          "userId": "A1VQT0JPKA2Q9Q",
+          "score": 5.0,
+          "price": null,
+          "time": 1051315200,
+          "text": "I've had this thing for music for ages, but I'd never really thought about the blues until I saw the &quot;Blues Brothers&quot; movie. So after that, I was hooked, and I went out and bought this. All I can say is that these guys should be declared saints for doing what they have for blues and R&amp;B. Anyone interested in learning more about blues, or who just likes blues, needs this album, because you can't have blues without the Blues Brothers.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "CoX8LpkB-_PrFombH_N6",
+        "_score": 6.5902786,
+        "_source": {
+          "profileName": "Jo-Jo",
+          "summary": "I'm a happy girl....",
+          "helpfulness_up": 3,
+          "productId": "B00000EBM9",
+          "helpfulness_ratio": 0.75,
+          "title": "Briefcase Full of Blues",
+          "userId": "A1VQT0JPKA2Q9Q",
+          "score": 5.0,
+          "price": null,
+          "time": 1051315200,
+          "text": "I've had this thing for music for ages, but I'd never really thought about the blues until I saw the &quot;Blues Brothers&quot; movie. So after that, I was hooked, and I went out and bought this. All I can say is that these guys should be declared saints for doing what they have for blues and R&amp;B. Anyone interested in learning more about blues, or who just likes blues, needs this album, because you can't have blues without the Blues Brothers.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "q7EfL5kB-_PrFomb6yx_",
+        "_score": 6.5902786,
+        "_source": {
+          "profileName": "Jo-Jo",
+          "summary": "I'm a happy girl....",
+          "helpfulness_up": 3,
+          "productId": "B000002J5N",
+          "helpfulness_ratio": 0.75,
+          "title": "Briefcase Full of Blues",
+          "userId": "A1VQT0JPKA2Q9Q",
+          "score": 5.0,
+          "price": null,
+          "time": 1051315200,
+          "text": "I've had this thing for music for ages, but I'd never really thought about the blues until I saw the &quot;Blues Brothers&quot; movie. So after that, I was hooked, and I went out and bought this. All I can say is that these guys should be declared saints for doing what they have for blues and R&amp;B. Anyone interested in learning more about blues, or who just likes blues, needs this album, because you can't have blues without the Blues Brothers.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "0bEfL5kB-_PrFomb7C3o",
+        "_score": 6.5902786,
+        "_source": {
+          "profileName": "Jo-Jo",
+          "summary": "I'm a happy girl....",
+          "helpfulness_up": 3,
+          "productId": "B000002J5M",
+          "helpfulness_ratio": 0.75,
+          "title": "Briefcase Full of Blues",
+          "userId": "A1VQT0JPKA2Q9Q",
+          "score": 5.0,
+          "price": null,
+          "time": 1051315200,
+          "text": "I've had this thing for music for ages, but I'd never really thought about the blues until I saw the &quot;Blues Brothers&quot; movie. So after that, I was hooked, and I went out and bought this. All I can say is that these guys should be declared saints for doing what they have for blues and R&amp;B. Anyone interested in learning more about blues, or who just likes blues, needs this album, because you can't have blues without the Blues Brothers.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "1ss3L5kB-_PrFombCw4N",
+        "_score": 6.5902786,
+        "_source": {
+          "profileName": "Jo-Jo",
+          "summary": "I'm a happy girl....",
+          "helpfulness_up": 3,
+          "productId": "B000HFTJVE",
+          "helpfulness_ratio": 0.75,
+          "title": "Briefcase Full of Blues",
+          "userId": "A1VQT0JPKA2Q9Q",
+          "score": 5.0,
+          "price": null,
+          "time": 1051315200,
+          "text": "I've had this thing for music for ages, but I'd never really thought about the blues until I saw the &quot;Blues Brothers&quot; movie. So after that, I was hooked, and I went out and bought this. All I can say is that these guys should be declared saints for doing what they have for blues and R&amp;B. Anyone interested in learning more about blues, or who just likes blues, needs this album, because you can't have blues without the Blues Brothers.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "trsoL5kB-_PrFombeTAR",
+        "_score": 6.589815,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "THE BEST BLUES ALBUM AROUND",
+          "helpfulness_up": 9,
+          "productId": "B000001PF6",
+          "helpfulness_ratio": 0.8181818181818182,
+          "title": "Hoodoo Man Blues [Vinyl]",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 54.52,
+          "time": 1022457600,
+          "text": "I am a really big blues fan, I own dozens and dozens of blues CD's, and I like a wide variety of blues players. After listening to all of those albums, a lot of it can get repetative or just fall out of your memory. Hoodoo Man Blues is so good and so distiguishable that it makes it my favorite blues CD ever.Junior Wells' vocals and harp are flat-out awesome. Buddy Guy, who is also one of my favorite blues artists, runs the show from his guitar in stunning fashion. \"Snatch it Back and Hold It\" and \"Hoodoo Man Blues\" may be my two favorite blues songs around.I can't say enough about this album. If you don't have it, and you consider yourself a blues fan, then you should be ashamed. If you are just getting started with the blues or don't even like blues that much, STILL buy this album. You won't forget it!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "XrIhL5kB-_PrFombpZaW",
+        "_score": 6.589815,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "THE BEST BLUES ALBUM AROUND",
+          "helpfulness_up": 9,
+          "productId": "B000004BI9",
+          "helpfulness_ratio": 0.8181818181818182,
+          "title": "Hoodoo Man Blues",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 9.24,
+          "time": 1022457600,
+          "text": "I am a really big blues fan, I own dozens and dozens of blues CD's, and I like a wide variety of blues players. After listening to all of those albums, a lot of it can get repetative or just fall out of your memory. Hoodoo Man Blues is so good and so distiguishable that it makes it my favorite blues CD ever.Junior Wells' vocals and harp are flat-out awesome. Buddy Guy, who is also one of my favorite blues artists, runs the show from his guitar in stunning fashion. \"Snatch it Back and Hold It\" and \"Hoodoo Man Blues\" may be my two favorite blues songs around.I can't say enough about this album. If you don't have it, and you consider yourself a blues fan, then you should be ashamed. If you are just getting started with the blues or don't even like blues that much, STILL buy this album. You won't forget it!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "I7IhL5kB-_PrFombppfH",
+        "_score": 6.589815,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "THE BEST BLUES ALBUM AROUND",
+          "helpfulness_up": 9,
+          "productId": "B000004BIA",
+          "helpfulness_ratio": 0.8181818181818182,
+          "title": "Hoodoo Man Blues",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1022457600,
+          "text": "I am a really big blues fan, I own dozens and dozens of blues CD's, and I like a wide variety of blues players. After listening to all of those albums, a lot of it can get repetative or just fall out of your memory. Hoodoo Man Blues is so good and so distiguishable that it makes it my favorite blues CD ever.Junior Wells' vocals and harp are flat-out awesome. Buddy Guy, who is also one of my favorite blues artists, runs the show from his guitar in stunning fashion. \"Snatch it Back and Hold It\" and \"Hoodoo Man Blues\" may be my two favorite blues songs around.I can't say enough about this album. If you don't have it, and you consider yourself a blues fan, then you should be ashamed. If you are just getting started with the blues or don't even like blues that much, STILL buy this album. You won't forget it!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ooj9LpkB-_PrFombhXH_",
+        "_score": 6.589815,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "THE BEST BLUES ALBUM AROUND",
+          "helpfulness_up": 9,
+          "productId": "B00008EOFO",
+          "helpfulness_ratio": 0.8181818181818182,
+          "title": "Hoodoo Man Blues",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1022457600,
+          "text": "I am a really big blues fan, I own dozens and dozens of blues CD's, and I like a wide variety of blues players. After listening to all of those albums, a lot of it can get repetative or just fall out of your memory. Hoodoo Man Blues is so good and so distiguishable that it makes it my favorite blues CD ever.Junior Wells' vocals and harp are flat-out awesome. Buddy Guy, who is also one of my favorite blues artists, runs the show from his guitar in stunning fashion. \"Snatch it Back and Hold It\" and \"Hoodoo Man Blues\" may be my two favorite blues songs around.I can't say enough about this album. If you don't have it, and you consider yourself a blues fan, then you should be ashamed. If you are just getting started with the blues or don't even like blues that much, STILL buy this album. You won't forget it!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "u6EJL5kB-_PrFomb9SGS",
+        "_score": 6.5855794,
+        "_source": {
+          "profileName": "John",
+          "summary": "HEAVY METAL PLAYING OF BLUES MUSIC",
+          "helpfulness_up": 0,
+          "productId": "B000006JT4",
+          "helpfulness_ratio": 0.0,
+          "title": "Still Got the Blues",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 2.0,
+          "price": null,
+          "time": 1290384000,
+          "text": "I have lately purchased a number of cds that are advertised as \"the blues\". I want to establish the boundaries of exactly what I like in the field of \"blues\" music. Amazon classifies Still Got The Blues as \"rock blues.\" My opinion is that this classifcation of Still Got The Blues is not correct. Although many of the songs on Still Got The Blues are indeed blues songs, Gary Moore is actually a heavy metal musician who is playing blues music on this cd. Still Got The Blues should be properly classified as \"heavy metal blues.\" I am currently finishing listening to Still Got the Blues for the second and last time that I will ever listen to it. This is heavy metal music, which I do not enjoy. The overbearing guitar work on this cd gives me a slight headache. I like songs that employ the electric guitar, but not to the piercing degree that Gary Moore accentuates screaming guitar licks on his Still Got the Blues cd. Neither is Gary Moore's singing voice all that appealing. He is very obviously a very skilled guitarist. A final and important limitation of the Still Got the Blues cd that I received is that there is no listing of the song titles anywhere to be found in the cd package. I would only recommend Still Got the Blues to someone who really enjoys heavy metal music. I don't.John",
+          "helpfulness_down": 13
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "IKILL5kB-_PrFomb9L4p",
+        "_score": 6.5855794,
+        "_source": {
+          "profileName": "John",
+          "summary": "HEAVY METAL PLAYING OF BLUES MUSIC",
+          "helpfulness_up": 0,
+          "productId": "B00006ITXZ",
+          "helpfulness_ratio": 0.0,
+          "title": "Still Got the Blues",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 2.0,
+          "price": null,
+          "time": 1290384000,
+          "text": "I have lately purchased a number of cds that are advertised as \"the blues\". I want to establish the boundaries of exactly what I like in the field of \"blues\" music. Amazon classifies Still Got The Blues as \"rock blues.\" My opinion is that this classifcation of Still Got The Blues is not correct. Although many of the songs on Still Got The Blues are indeed blues songs, Gary Moore is actually a heavy metal musician who is playing blues music on this cd. Still Got The Blues should be properly classified as \"heavy metal blues.\" I am currently finishing listening to Still Got the Blues for the second and last time that I will ever listen to it. This is heavy metal music, which I do not enjoy. The overbearing guitar work on this cd gives me a slight headache. I like songs that employ the electric guitar, but not to the piercing degree that Gary Moore accentuates screaming guitar licks on his Still Got the Blues cd. Neither is Gary Moore's singing voice all that appealing. He is very obviously a very skilled guitarist. A final and important limitation of the Still Got the Blues cd that I received is that there is no listing of the song titles anywhere to be found in the cd package. I would only recommend Still Got the Blues to someone who really enjoys heavy metal music. I don't.John",
+          "helpfulness_down": 13
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "9Hj1LpkB-_PrFombeDmI",
+        "_score": 6.5855794,
+        "_source": {
+          "profileName": "John",
+          "summary": "HEAVY METAL PLAYING OF BLUES MUSIC",
+          "helpfulness_up": 0,
+          "productId": "B000K6BR0G",
+          "helpfulness_ratio": 0.0,
+          "title": "Still Got The Blues (For You)",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 2.0,
+          "price": null,
+          "time": 1290384000,
+          "text": "I have lately purchased a number of cds that are advertised as \"the blues\". I want to establish the boundaries of exactly what I like in the field of \"blues\" music. Amazon classifies Still Got The Blues as \"rock blues.\" My opinion is that this classifcation of Still Got The Blues is not correct. Although many of the songs on Still Got The Blues are indeed blues songs, Gary Moore is actually a heavy metal musician who is playing blues music on this cd. Still Got The Blues should be properly classified as \"heavy metal blues.\" I am currently finishing listening to Still Got the Blues for the second and last time that I will ever listen to it. This is heavy metal music, which I do not enjoy. The overbearing guitar work on this cd gives me a slight headache. I like songs that employ the electric guitar, but not to the piercing degree that Gary Moore accentuates screaming guitar licks on his Still Got the Blues cd. Neither is Gary Moore's singing voice all that appealing. He is very obviously a very skilled guitarist. A final and important limitation of the Still Got the Blues cd that I received is that there is no listing of the song titles anywhere to be found in the cd package. I would only recommend Still Got the Blues to someone who really enjoys heavy metal music. I don't.John",
+          "helpfulness_down": 13
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "GZYEL5kB-_PrFombaXaO",
+        "_score": 6.5855794,
+        "_source": {
+          "profileName": "John",
+          "summary": "HEAVY METAL PLAYING OF BLUES MUSIC",
+          "helpfulness_up": 0,
+          "productId": "B00000DITI",
+          "helpfulness_ratio": 0.0,
+          "title": "Still Got the Blues",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 2.0,
+          "price": null,
+          "time": 1290384000,
+          "text": "I have lately purchased a number of cds that are advertised as \"the blues\". I want to establish the boundaries of exactly what I like in the field of \"blues\" music. Amazon classifies Still Got The Blues as \"rock blues.\" My opinion is that this classifcation of Still Got The Blues is not correct. Although many of the songs on Still Got The Blues are indeed blues songs, Gary Moore is actually a heavy metal musician who is playing blues music on this cd. Still Got The Blues should be properly classified as \"heavy metal blues.\" I am currently finishing listening to Still Got the Blues for the second and last time that I will ever listen to it. This is heavy metal music, which I do not enjoy. The overbearing guitar work on this cd gives me a slight headache. I like songs that employ the electric guitar, but not to the piercing degree that Gary Moore accentuates screaming guitar licks on his Still Got the Blues cd. Neither is Gary Moore's singing voice all that appealing. He is very obviously a very skilled guitarist. A final and important limitation of the Still Got the Blues cd that I received is that there is no listing of the song titles anywhere to be found in the cd package. I would only recommend Still Got the Blues to someone who really enjoys heavy metal music. I don't.John",
+          "helpfulness_down": 13
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "6ZICL5kB-_PrFombnvpW",
+        "_score": 6.5855794,
+        "_source": {
+          "profileName": "John",
+          "summary": "HEAVY METAL PLAYING OF BLUES MUSIC",
+          "helpfulness_up": 0,
+          "productId": "B00008EQ6D",
+          "helpfulness_ratio": 0.0,
+          "title": "Still Got the Blues",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 2.0,
+          "price": 3.96,
+          "time": 1290384000,
+          "text": "I have lately purchased a number of cds that are advertised as \"the blues\". I want to establish the boundaries of exactly what I like in the field of \"blues\" music. Amazon classifies Still Got The Blues as \"rock blues.\" My opinion is that this classifcation of Still Got The Blues is not correct. Although many of the songs on Still Got The Blues are indeed blues songs, Gary Moore is actually a heavy metal musician who is playing blues music on this cd. Still Got The Blues should be properly classified as \"heavy metal blues.\" I am currently finishing listening to Still Got the Blues for the second and last time that I will ever listen to it. This is heavy metal music, which I do not enjoy. The overbearing guitar work on this cd gives me a slight headache. I like songs that employ the electric guitar, but not to the piercing degree that Gary Moore accentuates screaming guitar licks on his Still Got the Blues cd. Neither is Gary Moore's singing voice all that appealing. He is very obviously a very skilled guitarist. A final and important limitation of the Still Got the Blues cd that I received is that there is no listing of the song titles anywhere to be found in the cd package. I would only recommend Still Got the Blues to someone who really enjoys heavy metal music. I don't.John",
+          "helpfulness_down": 13
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "t5ICL5kB-_PrFombnvtW",
+        "_score": 6.5855794,
+        "_source": {
+          "profileName": "John",
+          "summary": "HEAVY METAL PLAYING OF BLUES MUSIC",
+          "helpfulness_up": 0,
+          "productId": "B00008EQ6E",
+          "helpfulness_ratio": 0.0,
+          "title": "Still Got the Blues",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 2.0,
+          "price": null,
+          "time": 1290384000,
+          "text": "I have lately purchased a number of cds that are advertised as \"the blues\". I want to establish the boundaries of exactly what I like in the field of \"blues\" music. Amazon classifies Still Got The Blues as \"rock blues.\" My opinion is that this classifcation of Still Got The Blues is not correct. Although many of the songs on Still Got The Blues are indeed blues songs, Gary Moore is actually a heavy metal musician who is playing blues music on this cd. Still Got The Blues should be properly classified as \"heavy metal blues.\" I am currently finishing listening to Still Got the Blues for the second and last time that I will ever listen to it. This is heavy metal music, which I do not enjoy. The overbearing guitar work on this cd gives me a slight headache. I like songs that employ the electric guitar, but not to the piercing degree that Gary Moore accentuates screaming guitar licks on his Still Got the Blues cd. Neither is Gary Moore's singing voice all that appealing. He is very obviously a very skilled guitarist. A final and important limitation of the Still Got the Blues cd that I received is that there is no listing of the song titles anywhere to be found in the cd package. I would only recommend Still Got the Blues to someone who really enjoys heavy metal music. I don't.John",
+          "helpfulness_down": 13
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Z5MCL5kB-_PrFomb--0K",
+        "_score": 6.579423,
+        "_source": {
+          "profileName": "Davyjohn",
+          "summary": "Grady sings some sweet blues",
+          "helpfulness_up": 0,
+          "productId": "B00000JWC4",
+          "title": "Payin' for My Sins",
+          "userId": "A3VS649W2L286Z",
+          "score": 5.0,
+          "price": null,
+          "time": 998006400,
+          "text": "This is a great blues CD by Grady Champion. I purchased the CD after I heard Grady live at the Prairie Dog Blues Fesitival in Prairie Du Chien, WI. For me there is Blues Rock and then there is the Blues. Grady sings the Blues. I like every song on this CD and recommend it to everyone.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "03n2LpkB-_PrFombEXwz",
+        "_score": 6.5773726,
+        "_source": {
+          "profileName": "OBX \"obx351\"",
+          "summary": "Just buy it",
+          "helpfulness_up": 0,
+          "productId": "B0000004XV",
+          "title": "Blues",
+          "userId": "A24IZV98R0LS9A",
+          "score": 5.0,
+          "price": null,
+          "time": 1335484800,
+          "text": "If you like Nina and you like the blues, stop reading this review and just buy the album.FYI, there is another album, Nina Simone Sings the Blues, which I believe is the original recording back in the 60s. Anyway, The Blues seems to be a re-release of Sings the Blues because it has the same first 11 songs. However Sings the Blues has 2 different songs (Do I move you and Whatever I am (you made me)) at the end of the album and The Blues has 6 additional songs that are not on Sings the Blues.Confused yet?? Don't worry, simply buy The Blues album and then buy the last 2 songs from the Nina Simone Sings the Blues. You'll have a total of 19 very cool blues songs.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "UHn2LpkB-_PrFombEX0z",
+        "_score": 6.5773726,
+        "_source": {
+          "profileName": "OBX \"obx351\"",
+          "summary": "Just buy it",
+          "helpfulness_up": 0,
+          "productId": "B0000004XU",
+          "title": "The Blues",
+          "userId": "A24IZV98R0LS9A",
+          "score": 5.0,
+          "price": 24.69,
+          "time": 1335484800,
+          "text": "If you like Nina and you like the blues, stop reading this review and just buy the album.FYI, there is another album, Nina Simone Sings the Blues, which I believe is the original recording back in the 60s. Anyway, The Blues seems to be a re-release of Sings the Blues because it has the same first 11 songs. However Sings the Blues has 2 different songs (Do I move you and Whatever I am (you made me)) at the end of the album and The Blues has 6 additional songs that are not on Sings the Blues.Confused yet?? Don't worry, simply buy The Blues album and then buy the last 2 songs from the Nina Simone Sings the Blues. You'll have a total of 19 very cool blues songs.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "RYX7LpkB-_PrFomb1HkN",
+        "_score": 6.5773726,
+        "_source": {
+          "profileName": "gener/mendoza*bluesman4life",
+          "summary": "vintage blues of mr.ford",
+          "helpfulness_up": 1,
+          "productId": "B000059T9Q",
+          "helpfulness_ratio": 1.0,
+          "title": "Anthology: The Early Years",
+          "userId": "A1WL99SD3Q9IGS",
+          "score": 4.0,
+          "price": null,
+          "time": 1301443200,
+          "text": "Blues Revuethis is vintage blues at its best. the king of the blues mr.bb king would be very glad to welcome this anthology of mr ford into the pantheons of the greatest blues collection of a single blues artists. ford has been playing the blues as early in the sixties with his family,,the ford blues band band and he honed his chops under tha watcful eyes of chicago bossman muddy waters and harmonica giant charlie musselwhite.with such a huge credentials tucked under your belt,you cannot go wrong with robben ford. this album is fully loaded with salty blues guitar licks. and if you are into jazz,, the same is also covered in this anthology FAITHFULKLY IN CD 2 OF THIS COLLECTION.buy this album and you will not regret it..strongly recommended for blues and jazz lovers,",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "94L6LpkB-_PrFombYTQF",
+        "_score": 6.5773726,
+        "_source": {
+          "profileName": "OBX \"obx351\"",
+          "summary": "Just buy it",
+          "helpfulness_up": 0,
+          "productId": "B0000264GY",
+          "title": "The Blues",
+          "userId": "A24IZV98R0LS9A",
+          "score": 5.0,
+          "price": null,
+          "time": 1335484800,
+          "text": "If you like Nina and you like the blues, stop reading this review and just buy the album.FYI, there is another album, Nina Simone Sings the Blues, which I believe is the original recording back in the 60s. Anyway, The Blues seems to be a re-release of Sings the Blues because it has the same first 11 songs. However Sings the Blues has 2 different songs (Do I move you and Whatever I am (you made me)) at the end of the album and The Blues has 6 additional songs that are not on Sings the Blues.Confused yet?? Don't worry, simply buy The Blues album and then buy the last 2 songs from the Nina Simone Sings the Blues. You'll have a total of 19 very cool blues songs.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "-KILL5kB-_PrFombuEz0",
+        "_score": 6.577032,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Rare violin blues.",
+          "helpfulness_up": 2,
+          "productId": "B00008FP56",
+          "helpfulness_ratio": 0.2857142857142857,
+          "title": "The Original Peacock Recordings [Vinyl]",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 934675200,
+          "text": "Although most tracks are guitar blues, the finest part of this compilation is, needless to say, \"violin blues\". It is a shame that this phenomenal blues violinist recorded only one violin blues song.",
+          "helpfulness_down": 5
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "zdE8L5kB-_PrFombC8ea",
+        "_score": 6.577032,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Rare violin blues.",
+          "helpfulness_up": 2,
+          "productId": "B0000002VY",
+          "helpfulness_ratio": 0.2857142857142857,
+          "title": "Original Peacock Recordings",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 13.85,
+          "time": 934675200,
+          "text": "Although most tracks are guitar blues, the finest part of this compilation is, needless to say, \"violin blues\". It is a shame that this phenomenal blues violinist recorded only one violin blues song.",
+          "helpfulness_down": 5
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "HdE8L5kB-_PrFombC8ia",
+        "_score": 6.577032,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Rare violin blues.",
+          "helpfulness_up": 2,
+          "productId": "B0000002VZ",
+          "helpfulness_ratio": 0.2857142857142857,
+          "title": "Original Peacock Recordings",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 934675200,
+          "text": "Although most tracks are guitar blues, the finest part of this compilation is, needless to say, \"violin blues\". It is a shame that this phenomenal blues violinist recorded only one violin blues song.",
+          "helpfulness_down": 5
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "W7AfL5kB-_PrFombPZ-x",
+        "_score": 6.5730505,
+        "_source": {
+          "profileName": "Mr. H",
+          "summary": "Blues 101",
+          "helpfulness_up": 0,
+          "productId": "B000JJSL6M",
+          "title": "B.B. KING/STANDING ROOM ONLY (1990)",
+          "userId": "A2UI0PK9YOT43Z",
+          "score": 5.0,
+          "price": 13.49,
+          "time": 1224201600,
+          "text": "This is Blues 101 and Blues at its best. This is great for beginners or Blues lovers.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "VpQDL5kB-_PrFombWZHp",
+        "_score": 6.5730505,
+        "_source": {
+          "profileName": "Mr. H",
+          "summary": "Blues 101",
+          "helpfulness_up": 1,
+          "productId": "B0012IWNYU",
+          "helpfulness_ratio": 1.0,
+          "title": "Albert Collins: Live at Montreux 1992 (2008)",
+          "userId": "A2UI0PK9YOT43Z",
+          "score": 5.0,
+          "price": 14.98,
+          "time": 1224201600,
+          "text": "This is Blues 101 and Blues at its best. This is great for beginners or Blues lovers.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "tMYzL5kB-_PrFombxfdR",
+        "_score": 6.5628905,
+        "_source": {
+          "profileName": "Richard R. Ashbaugh \"Old Geezer\"",
+          "summary": "Fantastic!! Blues at it's best.",
+          "helpfulness_up": 4,
+          "productId": "B0000DJZ81",
+          "helpfulness_ratio": 0.8,
+          "title": "The Howlin' Wolf Story - The Secret History of Rock & Roll (2003)",
+          "userId": "AEHFEVL5GW93L",
+          "score": 5.0,
+          "price": 12.99,
+          "time": 1167868800,
+          "text": "As I stated in my review of the \"Blues Masters,\" this DVD and the Blues Masters are second only to the DVD \"The Blues.\" Anyone who loves the blues should have this DVD in his/her collection.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Vnr2LpkB-_PrFombufWI",
+        "_score": 6.561564,
+        "_source": {
+          "profileName": "Boston Bluesman",
+          "summary": "A Classic",
+          "helpfulness_up": 6,
+          "productId": "B000P0I8SQ",
+          "helpfulness_ratio": 1.0,
+          "title": "& Houserockers (24bt) (Mlps)",
+          "userId": "A1DOOKO56BLSW4",
+          "score": 4.0,
+          "price": 48.76,
+          "time": 1162166400,
+          "text": "Hound Dog Taylor and the House Rockers prove that you do not need to be great musicans to be a great blues players. Blues is as much an emotion as it is a music style and the great play the blues with soul. You will not be confusing Hound Dog with Robert Cray or Eric Clapton who are both better technically, but lack the raw soul needed to be great at the blues. The Dog brings it as raw as anyone and that is what makes this is a great blues album. The rawness of this album it may not be as accessible for everyone. Would only suggest for folks already deep in the blues. If you are looking for some great slide guitar that is a little more refined abd accessibile check out Lil' Ed and the Imperials.This album is important historically for the blues being the first release for Alligator Records, which has since become a major blues label and help revived the blues in the early 80's. If you like raw honky tonk slide blues guitar this is the album for you.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "XoH5LpkB-_PrFomb-GHA",
+        "_score": 6.561564,
+        "_source": {
+          "profileName": "Boston Bluesman",
+          "summary": "A Classic",
+          "helpfulness_up": 6,
+          "productId": "B00008EN57",
+          "helpfulness_ratio": 1.0,
+          "title": "Hound Dog Taylor and the Houserockers [Vinyl]",
+          "userId": "A1DOOKO56BLSW4",
+          "score": 4.0,
+          "price": 25.3,
+          "time": 1162166400,
+          "text": "Hound Dog Taylor and the House Rockers prove that you do not need to be great musicans to be a great blues players. Blues is as much an emotion as it is a music style and the great play the blues with soul. You will not be confusing Hound Dog with Robert Cray or Eric Clapton who are both better technically, but lack the raw soul needed to be great at the blues. The Dog brings it as raw as anyone and that is what makes this is a great blues album. The rawness of this album it may not be as accessible for everyone. Would only suggest for folks already deep in the blues. If you are looking for some great slide guitar that is a little more refined abd accessibile check out Lil' Ed and the Imperials.This album is important historically for the blues being the first release for Alligator Records, which has since become a major blues label and help revived the blues in the early 80's. If you like raw honky tonk slide blues guitar this is the album for you.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "RX_5LpkB-_PrFombHIdb",
+        "_score": 6.561564,
+        "_source": {
+          "profileName": "Boston Bluesman",
+          "summary": "A Classic",
+          "helpfulness_up": 6,
+          "productId": "B00000EA9S",
+          "helpfulness_ratio": 1.0,
+          "title": "Hound Dog Taylor & The Houserockers",
+          "userId": "A1DOOKO56BLSW4",
+          "score": 4.0,
+          "price": null,
+          "time": 1162166400,
+          "text": "Hound Dog Taylor and the House Rockers prove that you do not need to be great musicans to be a great blues players. Blues is as much an emotion as it is a music style and the great play the blues with soul. You will not be confusing Hound Dog with Robert Cray or Eric Clapton who are both better technically, but lack the raw soul needed to be great at the blues. The Dog brings it as raw as anyone and that is what makes this is a great blues album. The rawness of this album it may not be as accessible for everyone. Would only suggest for folks already deep in the blues. If you are looking for some great slide guitar that is a little more refined abd accessibile check out Lil' Ed and the Imperials.This album is important historically for the blues being the first release for Alligator Records, which has since become a major blues label and help revived the blues in the early 80's. If you like raw honky tonk slide blues guitar this is the album for you.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "vJQDL5kB-_PrFombf7iy",
+        "_score": 6.561564,
+        "_source": {
+          "profileName": "Boston Bluesman",
+          "summary": "A Classic",
+          "helpfulness_up": 6,
+          "productId": "B0000009X7",
+          "helpfulness_ratio": 1.0,
+          "title": "Hound Dog Taylor and the Houserockers",
+          "userId": "A1DOOKO56BLSW4",
+          "score": 4.0,
+          "price": 15.55,
+          "time": 1162166400,
+          "text": "Hound Dog Taylor and the House Rockers prove that you do not need to be great musicans to be a great blues players. Blues is as much an emotion as it is a music style and the great play the blues with soul. You will not be confusing Hound Dog with Robert Cray or Eric Clapton who are both better technically, but lack the raw soul needed to be great at the blues. The Dog brings it as raw as anyone and that is what makes this is a great blues album. The rawness of this album it may not be as accessible for everyone. Would only suggest for folks already deep in the blues. If you are looking for some great slide guitar that is a little more refined abd accessibile check out Lil' Ed and the Imperials.This album is important historically for the blues being the first release for Alligator Records, which has since become a major blues label and help revived the blues in the early 80's. If you like raw honky tonk slide blues guitar this is the album for you.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "mbQjL5kB-_PrFombak4r",
+        "_score": 6.5579147,
+        "_source": {
+          "profileName": "Nico Weenink",
+          "summary": "Baddest? Best!!!",
+          "helpfulness_up": 3,
+          "productId": "B00000JJ3W",
+          "helpfulness_ratio": 1.0,
+          "title": "Buddy's Baddest: The Best of Buddy Guy",
+          "userId": "A1S2RHRKIH5GX3",
+          "score": 5.0,
+          "price": null,
+          "time": 968112000,
+          "text": "This album will show you a man that is blues, blues and nothing but blues! Blues comes out his feet, his fingers, from every vain the man has in his whole body! This album is a good way to start if you want to dive into Buddy Guys world of the blues and blues as a whole. Guy combines various blues styles to one, very much his own style. That makes him a true living legend, and I am sure that if you buy this album you're soon will buy the original ones as well!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "WYL6LpkB-_PrFombTwEU",
+        "_score": 6.5579147,
+        "_source": {
+          "profileName": "Nico Weenink",
+          "summary": "Baddest? Best!!!",
+          "helpfulness_up": 3,
+          "productId": "B0000258OU",
+          "helpfulness_ratio": 1.0,
+          "title": "Buddy's Baddest: The Best of Buddy Guy",
+          "userId": "A1S2RHRKIH5GX3",
+          "score": 5.0,
+          "price": null,
+          "time": 968112000,
+          "text": "This album will show you a man that is blues, blues and nothing but blues! Blues comes out his feet, his fingers, from every vain the man has in his whole body! This album is a good way to start if you want to dive into Buddy Guys world of the blues and blues as a whole. Guy combines various blues styles to one, very much his own style. That makes him a true living legend, and I am sure that if you buy this album you're soon will buy the original ones as well!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "gLQjL5kB-_PrFomb2eAT",
+        "_score": 6.5568094,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Wonderful",
+          "helpfulness_up": 2,
+          "productId": "B00000DOYV",
+          "helpfulness_ratio": 0.4,
+          "title": "Made in America",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1044489600,
+          "text": "After listening to every Blues Brothers cd, I am now in love with them. Every song on this cd is so great, I can't just name one! The Blues Brothers is the band that got me started in Blues in the first place. If you love Blues, you'll love the Blues Brothers.",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "an74LpkB-_PrFombg36m",
+        "_score": 6.5568094,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Wonderful",
+          "helpfulness_up": 2,
+          "productId": "B0000DEMBG",
+          "helpfulness_ratio": 0.4,
+          "title": "Made in America (ost)",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1044489600,
+          "text": "After listening to every Blues Brothers cd, I am now in love with them. Every song on this cd is so great, I can't just name one! The Blues Brothers is the band that got me started in Blues in the first place. If you love Blues, you'll love the Blues Brothers.",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "VIX8LpkB-_PrFombHOy2",
+        "_score": 6.5568094,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Wonderful",
+          "helpfulness_up": 2,
+          "productId": "B00000EBL6",
+          "helpfulness_ratio": 0.4,
+          "title": "Made in America",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1044489600,
+          "text": "After listening to every Blues Brothers cd, I am now in love with them. Every song on this cd is so great, I can't just name one! The Blues Brothers is the band that got me started in Blues in the first place. If you love Blues, you'll love the Blues Brothers.",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "H7EfL5kB-_PrFomb5ydi",
+        "_score": 6.5568094,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Wonderful",
+          "helpfulness_up": 2,
+          "productId": "B000002J5O",
+          "helpfulness_ratio": 0.4,
+          "title": "Made in America",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1044489600,
+          "text": "After listening to every Blues Brothers cd, I am now in love with them. Every song on this cd is so great, I can't just name one! The Blues Brothers is the band that got me started in Blues in the first place. If you love Blues, you'll love the Blues Brothers.",
+          "helpfulness_down": 3
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "zp8JL5kB-_PrFombE3Cf",
+        "_score": 6.5542316,
+        "_source": {
+          "profileName": "tjr",
+          "summary": "blues review",
+          "helpfulness_up": 0,
+          "productId": "B0000C0FBI",
+          "title": "Classic Blues From Smithsonian Folkways 2",
+          "userId": "A3H8KBX2HQMY96",
+          "score": 4.0,
+          "price": 11.99,
+          "time": 1349827200,
+          "text": "Terrific series of the folks blues. Awesome gift for a blues fan that is into the depth of the blues.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "qLkmL5kB-_PrFomb4yde",
+        "_score": 6.5488095,
+        "_source": {
+          "profileName": "bluesman",
+          "summary": "Omar swings",
+          "helpfulness_up": 0,
+          "productId": "B0000243VC",
+          "title": "Swingland",
+          "userId": "A12YCCZDF6NK76",
+          "score": 5.0,
+          "price": null,
+          "time": 1306627200,
+          "text": "This southern blues band has many good recordings, this is my favorite. Great swing blues. Omar is tops in all blues styles. Very unique blues voice, as with most of the greats. Buy this.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "IHz3LpkB-_PrFombQHXl",
+        "_score": 6.5488095,
+        "_source": {
+          "profileName": "bluesman",
+          "summary": "Omar swings",
+          "helpfulness_up": 0,
+          "productId": "B00000I03H",
+          "title": "Swingland",
+          "userId": "A12YCCZDF6NK76",
+          "score": 5.0,
+          "price": null,
+          "time": 1306627200,
+          "text": "This southern blues band has many good recordings, this is my favorite. Great swing blues. Omar is tops in all blues styles. Very unique blues voice, as with most of the greats. Buy this.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "5cEvL5kB-_PrFombNLM_",
+        "_score": 6.5488095,
+        "_source": {
+          "profileName": "Craig Snellings \"Bluzman\"",
+          "summary": "Swamp Blues",
+          "helpfulness_up": 0,
+          "productId": "B000005A70",
+          "title": "Cadillac in the Swamp",
+          "userId": "AFYLTX6PLL6WI",
+          "score": 5.0,
+          "price": 13.99,
+          "time": 1299974400,
+          "text": "I am a blues lover. This is Swamp Blues. If you want a good cajun blues CD this would be it. You won't be disapointed. It is rockin Swamp Blues, something to tap both feet to. Enjoy",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "xJQDL5kB-_PrFombRWRx",
+        "_score": 6.5486856,
+        "_source": {
+          "profileName": "Walter Five",
+          "summary": "Fun, if non-essential... for Blues Brothers Completists only.",
+          "helpfulness_up": 8,
+          "productId": "B00000EXMV",
+          "helpfulness_ratio": 1.0,
+          "title": "Red, White & Blues",
+          "userId": "AIOB6ITG9NPIB",
+          "score": 3.0,
+          "price": null,
+          "time": 1217462400,
+          "text": "This is one of the rarer Blues Brothers CDs/LPs from their catalogue, it's a studio effort from most of the original Blues Brothers Band with Paul Shaffer. Released in 1992, it is done largely without either of the Blues Brothers (Jake/John Belushi having passed on almost a decade before its release) although Elwood Blues/Dan Ackroyd does vocals on the title track, and plays his harp on another, \"You Can't Play the Blues (In An Air-Conditioned Room. It's good, if not great, stuff, but seems largely an effort for the remaining members of the band to cash in with some product, instead of their individual solo career efforts.For those of us who can't get enough of the Blues Brothers stuff, I'd recommend this one *after* getting \"The Blues Brothers Band-- Live In Montreaux\" and \"Blues Brothers & Friends-- Live from the House of Blues\", but if you're just discovering the Blues Brothers after seeing one (or the other) of their movies, there are much better places for you to start listening, such as \"The Blues Brothers Complete.\"",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "49E7L5kB-_PrFomb46t0",
+        "_score": 6.5486856,
+        "_source": {
+          "profileName": "Walter Five",
+          "summary": "Fun, if non-essential... for Blues Brothers Completists only.",
+          "helpfulness_up": 8,
+          "productId": "B000006T1K",
+          "helpfulness_ratio": 1.0,
+          "title": "Red White & Blues",
+          "userId": "AIOB6ITG9NPIB",
+          "score": 3.0,
+          "price": null,
+          "time": 1217462400,
+          "text": "This is one of the rarer Blues Brothers CDs/LPs from their catalogue, it's a studio effort from most of the original Blues Brothers Band with Paul Shaffer. Released in 1992, it is done largely without either of the Blues Brothers (Jake/John Belushi having passed on almost a decade before its release) although Elwood Blues/Dan Ackroyd does vocals on the title track, and plays his harp on another, \"You Can't Play the Blues (In An Air-Conditioned Room. It's good, if not great, stuff, but seems largely an effort for the remaining members of the band to cash in with some product, instead of their individual solo career efforts.For those of us who can't get enough of the Blues Brothers stuff, I'd recommend this one *after* getting \"The Blues Brothers Band-- Live In Montreaux\" and \"Blues Brothers & Friends-- Live from the House of Blues\", but if you're just discovering the Blues Brothers after seeing one (or the other) of their movies, there are much better places for you to start listening, such as \"The Blues Brothers Complete.\"",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "FYX8LpkB-_PrFombHvAv",
+        "_score": 6.545561,
+        "_source": {
+          "profileName": "uchi deshi",
+          "summary": "Son House and the Delta Blues Singers",
+          "helpfulness_up": 2,
+          "productId": "B000000J26",
+          "helpfulness_ratio": 1.0,
+          "title": "Son House & the Great Delta Blues Singers",
+          "userId": "ANCSFLLGBOG96",
+          "score": 5.0,
+          "price": null,
+          "time": 961200000,
+          "text": "Essential. Son House was a major blues figure, and one of the originators of the Mississippi Delta blues style. House defined early Delta blues House's blues style and was the main influence of the legendary bluesman Robert Johnson as well as Muddy Waters. This record will give you a clear and rousing picture of the real Delta Blues.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "lXv2LpkB-_PrFomb_q9G",
+        "_score": 6.5406933,
+        "_source": {
+          "profileName": "Joseph W. Anstett",
+          "summary": "Very best of the Christian Blues",
+          "helpfulness_up": 4,
+          "productId": "B0002XCJZO",
+          "helpfulness_ratio": 1.0,
+          "title": "Larry Howard's Cornerstone Blues Jam Volume 1",
+          "userId": "A1AAEDUFUQMZ9G",
+          "score": 5.0,
+          "price": null,
+          "time": 1111795200,
+          "text": "Recorded live at the Cornerstone Christian music festival in July, 1992; It has all the energy of a live album. It has some of the best artist and coming together to play as friends. The 5-song tribuit to Mahalia Jackson.The style varies a lot, from fast to slow, with a few driving rock blues (Guardian, Mark Farner), Delta Blues, Gospel Blues (Jessy Dixon), and a lot of Chicago Electric Blues (Glen Kaiser). Eddie Degarmo and Margaret Becker are not known for the Blues, but they sing the blues here. Glen Kaiser and Darrell Mansfiels with his harmonica are at their best.I have about 40 CDs of Chistian Blues. This is best Christian Blues CD I have heard.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "4YL6LpkB-_PrFombrZg6",
+        "_score": 6.5406933,
+        "_source": {
+          "profileName": "gener/mendoza*bluesman4life",
+          "summary": "THE KING OF BLUES",
+          "helpfulness_up": 2,
+          "productId": "B0000270HD",
+          "helpfulness_ratio": 0.6666666666666666,
+          "title": "In London",
+          "userId": "A1WL99SD3Q9IGS",
+          "score": 5.0,
+          "price": 16.03,
+          "time": 1301443200,
+          "text": "Living Blues..FOR ME THERE ARE ONLY A FEW ULTIMATE BLUES ALBUMS TO COLLECT, ON TOP OF THE LIST IS B.B. KING IN LONDON,,THIS IS BLUES AT ITS MOST.OTHER BLUES ALBUMS WORTH MENTIONING THAT CAN COME CLOSE TO BB KING IN LONDON ARE THE FOLLOWING--MAYALL W/ CLAPTON-BLUESbreakers,,ALBERT KING-LIVE WIRE BLUES POWER,,SAVOY BROWN-BLUE MATTER,, SRV-TEXAS FLOOD,,MAGIC SAM-WEST SIDE SOUL,,PETER GREEN.s FLEETWOOD MAC FIRST ALBUM,,and posthumously STILL GOT THE BLUES-GARY MOORE.OTHER BLUES ALBUMS ARE GOOD BUT THEY CANNOT MATCHED THE INTENSITY OF MY SELECTED BLUES ALBUMS. THEY ARE PRESENT DURING THE TIMES WHEN WE BADLY NEEDED THEM. THEIR TIMINGS ARE PERFECT.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "hK8dL5kB-_PrFombG0GS",
+        "_score": 6.5358334,
+        "_source": {
+          "profileName": "John",
+          "summary": "OUTSTANDING MUSIC - LET'S CALL IT THE BLUES",
+          "helpfulness_up": 2,
+          "productId": "B000R348E4",
+          "helpfulness_ratio": 1.0,
+          "title": "Best of Susan Tedeschi: Episode 2",
+          "userId": "A3A5J3WPT2VUYM",
+          "score": 5.0,
+          "price": null,
+          "time": 1290384000,
+          "text": "Susan Tedeschi and her band are outstanding musical artists. The Best of Susan Tedeschi Episode Two is an outstanding blues cd because it is filled with outstanding blues songs. Every song on this cd is a great and deep pleasure to listen to and appreciate. Susan Tedeschi is an outstanding singer and her band provides her with what sounds like perfect accompaniment for her expressive voice. In addition, the songs themselves have enough variety in tempo and feel so that every song on the cd stands out as unique and important. Therefore the person who listens to The Best of Susan Tedeschi Episode Two will never get bored because \"all the music sounds the same.\" The cd includes 11 studio recordings and two live recordings, further enhancing the variety of blues songs found on this cd. The question that is apparently in vogue today among blues music fans is: \"What music is the blues and what music is not the blues among songs and cds that are currently advertised as a form of the blues by Amazon and other musical distributors?\" I myself have addressed this question a number of times as I have listened to and either liked or not liked a number of artists and cds that Amazon currently advertises as blues or rock blues. Some people have even questioned Susan Tedeschi's integrity as a blues musician. I believe that these skeptics of Susan Tedeschi are completely wrong. As far as I am concerned, Susan Tedeschi, and all of the music presented on The Best of Susan Tedeschi Episode Two, should be uncompromisingly classified as \"the blues\" for as long as the best music of the great Freddie King, a past blues artist and hero and mentor to many current blues artists, is also classified as \"the blues.\" Both Freddie King and Susan Tedeschi expand our understanding of the blues just a bit, as great blues artists should do, at the same time that their music retains a blues character. I for one am intrigued and a bit amazed by Susan Tedeschi's great blues insight because she recognized that John Prine's Angel From Montgomery is very much a blues song (as did Bonnie Raitt). I most highly recommend The Best of Susan Tedeschi Episode Two to you. The blues music on this cd is outstanding.John",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "i70qL5kB-_PrFomb_hsk",
+        "_score": 6.534789,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Excellent - a classic",
+          "helpfulness_up": 2,
+          "productId": "B000000A1O",
+          "helpfulness_ratio": 1.0,
+          "title": "Reckless",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 14.99,
+          "time": 921283200,
+          "text": "This is the best modern blues album of the 90's barr none. A must have for any modern blues fan. &quot;Living in the House of the Blues&quot; is my favorite blues song of all time.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "gL0rL5kB-_PrFombBB6h",
+        "_score": 6.534789,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Excellent - a classic",
+          "helpfulness_up": 2,
+          "productId": "B000000A1P",
+          "helpfulness_ratio": 1.0,
+          "title": "Reckless",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 921283200,
+          "text": "This is the best modern blues album of the 90's barr none. A must have for any modern blues fan. &quot;Living in the House of the Blues&quot; is my favorite blues song of all time.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "WMEvL5kB-_PrFombNLU_",
+        "_score": 6.534789,
+        "_source": {
+          "profileName": "\"normantn\"",
+          "summary": "BEST BLUES CD BY SOME OF THE BEST BLUES ARTIST",
+          "helpfulness_up": 1,
+          "productId": "B000059LD2",
+          "helpfulness_ratio": 0.5,
+          "title": "Hellhound on My Trail: Songs of Robert Johnson",
+          "userId": "AL5YKZZTYLGR8",
+          "score": 5.0,
+          "price": 6.82,
+          "time": 987206400,
+          "text": "Believe me, this one is a keeper. All TRUE BLUES FANS; This is a real gem. GREAT BLUES MUSIC,BY GREAT BLUES ARTISTS FOR TRUE BLUES MUSIC LOVERS! Even Robert Johnson would agree!",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "fKoWL5kB-_PrFomb9OKa",
+        "_score": 6.5289717,
+        "_source": {
+          "profileName": "Down Home Hip to the Jive",
+          "summary": "Funk-n-Blues Lives Up To Its Name",
+          "helpfulness_up": 0,
+          "productId": "B000GETWB8",
+          "title": "Willie Pooch's Funk-N-Blues",
+          "userId": "ATKX99KCL6UUP",
+          "score": 5.0,
+          "price": 16.23,
+          "time": 1270944000,
+          "text": "My interest in Jazz led me to the discovery of this excellent blues cd. Tony Monaco is a superb performer on the Hammond B3 organ and frequently his endeavors fall into the category of soul jazz. Soul jazz is a genre of jazz in which the musicians often employ the talents of an organist to carry the \"groove\" throughout their performance. The talents of Tony Monaco are conspicuously evident and the driving force for the eleven songs on this recording of 54 minutes of bonafide blues.Willie Pooch is a man who has lived the blues and his character is as authentic as the idiom of blues he professes to sing. Without doubt he is \"blues to the bone\". He penned the lyrics to \"House Arrest Blues\", \"Cross My Heart Blues\", \"Buckeye Steel Mill Blues\", \"In My Lonely Room\", and \"Willie Rap\" which testify to his understanding and feeling for the sometimes poignant and always personal expression that has always been at the core of blues.Some blues artists come up short on the credibility aspect of their music; Willie Pooch is not one of them ... he is \"the real deal\" and this CD captures the essence of why authentic blues singers sing the blues. Because living has tested his character, Willie's blues testify to life's lessons learned. Together Tony Monaco and Willie Pooch have created a blues masterpiece ... and hopefully their collaboration and convictions for playing the nitty-gritty will continue ... the blues, \"pure and simple\", distilled from life's hard earned lessons.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "77MiL5kB-_PrFombOXeE",
+        "_score": 6.5273614,
+        "_source": {
+          "profileName": "Jose Maria Domenech Fedi",
+          "summary": "Get Tough, my review from Barcelona(a Blues explosion)",
+          "helpfulness_up": 1,
+          "productId": "B00000B0U2",
+          "helpfulness_ratio": 1.0,
+          "title": "Get Tough",
+          "userId": "A35DVYR85YEO1A",
+          "score": 4.0,
+          "price": 32.07,
+          "time": 1191456000,
+          "text": "Admitely I'm partial to the old Blues, but I can appreciate good new Blues as well, as found in this record by Rhett Tyler a magnificient high energy guitarist, vocalist, songwriter and producer and on the other hand this \"Get Tough\" record is a thunder is a marvellous modern and classic Blues explosion.All the themes are in the same high level, is a top-notch all CD from the slow Blues numbers \"Gonna Build Me A Levee\", \"Hellhound\" the acoustic slide \"Sam\" to Rock-Blues \"Get Tough\" which gives title to the LP or the Chicago Blues \"How Long Blues\" very good or another great theme the instrumental Blues \"Walk Datwalk\". Be careful, don't confuse the cover man is not RHETT TYLER but that's not important if you buy this record you are going to have a fantastic blues record in your hands. I give it 4 stars.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "4YX7LpkB-_PrFomb03Zy",
+        "_score": 6.5273614,
+        "_source": {
+          "profileName": "Sarkis Charabaty \"Charbel Sarkis Charabaty\"",
+          "summary": "Verry nice",
+          "helpfulness_up": 2,
+          "productId": "B0009IW98E",
+          "helpfulness_ratio": 1.0,
+          "title": "DVD-Easy Steps to Acoustic Blues Guitar #1- Starting From Scratch",
+          "userId": "A3K9DZF4VUURYN",
+          "score": 5.0,
+          "price": 22.28,
+          "time": 1203292800,
+          "text": "As the title shows \"Starting from the scratch\"Happy Traum is an excellent blues guitar teacher, he start his lesson by explaining the twelve bars variation for novice who haven't touched a guitar or know the blues before and by time his authentic explanation will lead u to be a fair blues guitar blues player.I personally thank him for this instructional DVD; it helped me a lot to understand the basics of the blues chords variations and improve my guitar skills too.The Main theme is Good Morning Blues he shows u how to get it all done including turn around and many other useful tips and tricks (Brownie Macghee style)An Advise, if u are interested in the blues don't just buy it alone, try to purchase the second DVD with it \"Easy Steps to Acoustic Blues Guitar -Essentials of fingerstyle blues\" great instructional DVD also.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ptI8L5kB-_PrFombZ1RV",
+        "_score": 6.5273614,
+        "_source": {
+          "profileName": "Terence Allen",
+          "summary": "Unforgettable Collection Of Vintage Blues",
+          "helpfulness_up": 1,
+          "productId": "B00005AVE9",
+          "helpfulness_ratio": 1.0,
+          "title": "Essential",
+          "userId": "A3BMRSE8N1858V",
+          "score": 5.0,
+          "price": null,
+          "time": 1184025600,
+          "text": "Lonnie Johnson - The Collection is a wonderful assemblage of classic blues music from a figure that is unfortunately often forgotten - a fate that has befallen many great blues artists.A guitarist admired and respected by even Robert Johnson, Lonnie Johnson was one of the earliest recorded blues artists, and definitely one of the first, if not first, guitar hero of the 20th century. Many, many cuts on this collection attest to his great skill with the guitar.Not be overlooked is the cleverness of his songs. The constant blues themes - love, adultery, betrayal, murder, sex, loneliness are explored on this collection in many witty ways. Songs like \"She's Making Whoopie In Hell Tonight,\" \"Racketeer Blues,\" \"Blues Is Only A Ghost,\" and \"Broken Levee Blues\" are wonderful.This is a must for vintage blues lovers, blues guitar lovers, and anyone who loves folk and roots music.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Y9E8L5kB-_PrFombEtZK",
+        "_score": 6.5273614,
+        "_source": {
+          "profileName": "Jazzcat \"stef\"",
+          "summary": "A brilliant collection of bop blues tunes",
+          "helpfulness_up": 7,
+          "productId": "B000000YAQ",
+          "helpfulness_ratio": 0.7777777777777778,
+          "title": "Blue Gene [Vinyl]",
+          "userId": "A17ZLPBIOB6GB8",
+          "score": 5.0,
+          "price": 15.5,
+          "time": 1092441600,
+          "text": "Great musthave album from Gene Ammons. I have to correct the previous reviewer, the trumpet player is not Farmer, but Idrees Sulieman, he did a fantastic job. It is a blowin' date based on various blues forms. The first is a medium slow blues played with great feeling, the second a fast blues really boppin! The third tune is another blues mid tempoed. The last tune is not a blues but a minor key ballad. The line up is great, Pepper Adams played really well here like Sulieman and the other guys did, but Ammons is the first voice. His playing is a winning mix of blues soulful phrasing and bop techniques. This album is a winner not a sleeper like many strictly blues albums. If you like this one try \"Only the blues\" by Sonny Stitt/Oscar Peterson trio. This two albums are really good examples of jazzed blues music.",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "_tE8L5kB-_PrFombEtbz",
+        "_score": 6.5273614,
+        "_source": {
+          "profileName": "Jazzcat \"stef\"",
+          "summary": "A brilliant collection of bop blues tunes",
+          "helpfulness_up": 7,
+          "productId": "B000000YAR",
+          "helpfulness_ratio": 0.7777777777777778,
+          "title": "Blue Gene",
+          "userId": "A17ZLPBIOB6GB8",
+          "score": 5.0,
+          "price": 8.63,
+          "time": 1092441600,
+          "text": "Great musthave album from Gene Ammons. I have to correct the previous reviewer, the trumpet player is not Farmer, but Idrees Sulieman, he did a fantastic job. It is a blowin' date based on various blues forms. The first is a medium slow blues played with great feeling, the second a fast blues really boppin! The third tune is another blues mid tempoed. The last tune is not a blues but a minor key ballad. The line up is great, Pepper Adams played really well here like Sulieman and the other guys did, but Ammons is the first voice. His playing is a winning mix of blues soulful phrasing and bop techniques. This album is a winner not a sleeper like many strictly blues albums. If you like this one try \"Only the blues\" by Sonny Stitt/Oscar Peterson trio. This two albums are really good examples of jazzed blues music.",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ragTL5kB-_PrFomb988U",
+        "_score": 6.525867,
+        "_source": {
+          "profileName": "Nancy H.",
+          "summary": "WOW...",
+          "helpfulness_up": 7,
+          "productId": "B00006GJB4",
+          "helpfulness_ratio": 1.0,
+          "title": "Otis Spann Is the Blues",
+          "userId": "A3SYT5J47XX15K",
+          "score": 5.0,
+          "price": null,
+          "time": 1118448000,
+          "text": "Wow, I just got Otis Spann Is The Blues, and Walking The Blues, and I love em both. Otis and Lockwood together is pure blues heaven. Actually pure music heaven. Their playing transcends genre and falls in the category of sheer musical genius. I can't pick a favorite song on Is The Blues. Walking The Blues is almost as powerful a project.,HAving more of a variety of vocals is enjoyable. St. Louis Jimmy Oden was on e wonderful singer. All in all, both discs are a piece of history, blues at it's purest and finest. Reccomended to all blues lovers.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "9K4cL5kB-_PrFombjdHY",
+        "_score": 6.525867,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "This is an excellent example of the potential of Koko Taylor",
+          "helpfulness_up": 8,
+          "productId": "B00005B7GU",
+          "helpfulness_ratio": 0.8888888888888888,
+          "title": "Koko Taylor",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 14.98,
+          "time": 931910400,
+          "text": "When I first heard Koko's amazing ability to sing, I was astonished! Koko has the ability to reach down into the soul of the blues, and give an edge never before seen by a blues performer. She is an inspiration to classical blues, and I think this album, which was recorded in the late 60's gives way to a whole new generation of blues singing. I would highly suggest to the avid blues enthuist to at least listen to a sample of Koko's songs and see for yourself. If the blues are not in your soul, you cannot enjoy some of the best female vocalist blues of this century.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "bZABL5kB-_PrFomb0vg3",
+        "_score": 6.525867,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "One of the finest blues piano performances.",
+          "helpfulness_up": 3,
+          "productId": "B000002WUO",
+          "helpfulness_ratio": 1.0,
+          "title": "Bluebird Recordings 1941-42",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 925430400,
+          "text": "Together with Otis Spann, Memphis Slim, Big Maceo has been one of the most influencial blues pianists. He performs blues piano very cheerfully just like B.B. King does on the guitar. The first song of this album, &quot;Worried Blues&quot; performed by other blues men such as James Cotton sounds very gloomy. But Big Maceo is the one who is able to play this song cheerfully and nicely. This is one of the most important blues albums for blues pianists. This CD contains many essential blues piano idioms, and very educational. 'Click'",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "HMc0L5kB-_PrFombRNV6",
+        "_score": 6.525867,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "This is an excellent example of the potential of Koko Taylor",
+          "helpfulness_up": 8,
+          "productId": "B00008FDMB",
+          "helpfulness_ratio": 0.8888888888888888,
+          "title": "Koko Taylor [Vinyl]",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 931910400,
+          "text": "When I first heard Koko's amazing ability to sing, I was astonished! Koko has the ability to reach down into the soul of the blues, and give an edge never before seen by a blues performer. She is an inspiration to classical blues, and I think this album, which was recorded in the late 60's gives way to a whole new generation of blues singing. I would highly suggest to the avid blues enthuist to at least listen to a sample of Koko's songs and see for yourself. If the blues are not in your soul, you cannot enjoy some of the best female vocalist blues of this century.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "6Mk2L5kB-_PrFombMpvr",
+        "_score": 6.525867,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "This is an excellent example of the potential of Koko Taylor",
+          "helpfulness_up": 8,
+          "productId": "B000002O9T",
+          "helpfulness_ratio": 0.8888888888888888,
+          "title": "Koko Taylor",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 931910400,
+          "text": "When I first heard Koko's amazing ability to sing, I was astonished! Koko has the ability to reach down into the soul of the blues, and give an edge never before seen by a blues performer. She is an inspiration to classical blues, and I think this album, which was recorded in the late 60's gives way to a whole new generation of blues singing. I would highly suggest to the avid blues enthuist to at least listen to a sample of Koko's songs and see for yourself. If the blues are not in your soul, you cannot enjoy some of the best female vocalist blues of this century.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "cdI8L5kB-_PrFombbWA7",
+        "_score": 6.525867,
+        "_source": {
+          "profileName": "Nancy H.",
+          "summary": "WOW...",
+          "helpfulness_up": 7,
+          "productId": "B000008L0M",
+          "helpfulness_ratio": 1.0,
+          "title": "Otis Spann Is the Blues",
+          "userId": "A3SYT5J47XX15K",
+          "score": 5.0,
+          "price": 21.88,
+          "time": 1118448000,
+          "text": "Wow, I just got Otis Spann Is The Blues, and Walking The Blues, and I love em both. Otis and Lockwood together is pure blues heaven. Actually pure music heaven. Their playing transcends genre and falls in the category of sheer musical genius. I can't pick a favorite song on Is The Blues. Walking The Blues is almost as powerful a project.,HAving more of a variety of vocals is enjoyable. St. Louis Jimmy Oden was on e wonderful singer. All in all, both discs are a piece of history, blues at it's purest and finest. Reccomended to all blues lovers.",
+          "helpfulness_down": 0
+        }
+      }
+    ]
+  }
+}

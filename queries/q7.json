@@ -1,17 +1,19 @@
 {
   "size": 0,
-  "query": {
-    "range": {
-      "helpfulness_ratio": {
-        "gt": 0.75
-      }
-    }
-  },
+  "timeout": "60s",
+  "query": { "range": { "helpfulness_ratio": { "gt": 0.75 } } },
   "aggs": {
-    "top_terms": {
-      "terms": {
-        "field": "text",
-        "size": 10
+    "sample": {
+      "sampler": { "shard_size": 400 },
+      "aggs": {
+        "top_terms": {
+          "terms": {
+            "field": "text.tokens",
+            "size": 10,
+            "shard_size": 150,
+            "min_doc_count": 50
+          }
+        }
       }
     }
   }

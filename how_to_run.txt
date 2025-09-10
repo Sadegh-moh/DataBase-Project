@@ -39,3 +39,65 @@ curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_count"
 curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_search?size=1"
 
 
+# run all queries, return up to 100 hits for the hit-based ones, save to outputs/
+python .\src\run_queries.py --q all --size 100
+or
+python .\src\run_queries.py --q q3
+
+# or crank hits higher if you want:
+python .\src\run_queries.py --q all --size 500
+
+or
+curl.exe -s -X POST "http://127.0.0.1:9200/amazon-music-reviews/_search" `
+  -H "Content-Type: application/json" --data-binary "@queries\q5.json"
+
+
+5) Baseline performance (latency/throughput)
+python .\src\bench.py --duration 20 --concurrency 4 8 12 16 20 24 32 40 48 --host http://127.0.0.1:9200 --index amazon-music-reviews --out-json .\bench_base.json --out-csv .\bench_base.csv
+
+for the queries:
+
+$qs = 'q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11'
+foreach ($q in $qs) {
+  python .\src\bench_pro.py --duration 20 --concurrency 16 `
+    --query-file ".\queries\$q.json" `
+    --host http://127.0.0.1:9200 --index amazon-music-reviews `
+    --out-json ".\outputs\${q}_bench.json" --out-csv ".\outputs\${q}_bench.csv"
+}
+
+6) “Optimization” pass and compare
+
+6A) Tune index settings (no schema change)
+# Switch to ingest-friendly settings (less refresh, no replicas)
+curl.exe -X PUT "http://127.0.0.1:9200/amazon-music-reviews/_settings" `
+  -H "Content-Type: application/json" `
+  -d "{""index"":{""refresh_interval"":""60s"",""number_of_replicas"":0}}"
+
+Now search-optimized (after ingest), revert refresh:
+curl.exe -X PUT "http://127.0.0.1:9200/amazon-music-reviews/_settings" `
+  -H "Content-Type: application/json" `
+  -d "{""index"":{""refresh_interval"":""1s""}}"
+
+
+6B) Re-run the benchmark (same matrix)
+python .\src\bench.py --duration 20 --concurrency 4 8 12 16 20 24 32 40 48 `
+  --out .\bench_opt.json
+
+6C) Compare results
+Open the two JSONs and compare throughput_rps, latency_ms_avg, latency_ms_p95 per concurrency.
+
+7) Collect ≥5 metrics the doc asks for
+# docs & store size (per index)
+curl.exe "http://127.0.0.1:9200/_cat/indices?v"
+
+# indexing totals & time
+curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_stats/indexing?pretty"
+
+# search totals & time
+curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_stats/search?pretty"
+
+# segments (count, memory)
+curl.exe "http://127.0.0.1:9200/amazon-music-reviews/_stats/segments?pretty"
+
+# cluster health
+curl.exe "http://127.0.0.1:9200/_cluster/health?pretty"

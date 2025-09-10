@@ -1,16 +1,8 @@
 {
   "size": 0,
-  "query": {
-    "match_phrase": {
-      "text": "feel good"
-    }
-  },
+  "timeout": "45s",
+  "query": { "match_phrase": { "text": "feel good" } },
   "aggs": {
-    "by_product": {
-      "terms": {
-        "field": "productId",
-        "size": 10
-      }
-    }
+    "by_product": { "terms": { "field": "productId", "size": 10 } }
   }
 }

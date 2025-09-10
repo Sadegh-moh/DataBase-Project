@@ -1,28 +1,14 @@
 {
   "size": 20,
+  "track_total_hits": false,
+  "timeout": "45s",
   "query": {
     "bool": {
       "must": [
-        {
-          "match": {
-            "text": "lyrics"
-          }
-        },
-        {
-          "match": {
-            "text": "vocals"
-          }
-        }
+        { "match": { "text": "lyrics" } },
+        { "match": { "text": "vocals" } }
       ],
-      "filter": [
-        {
-          "range": {
-            "score": {
-              "gt": 4
-            }
-          }
-        }
-      ]
+      "filter": [ { "range": { "score": { "gt": 4 } } } ]
     }
   }
 }

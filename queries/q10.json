@@ -1,28 +1,30 @@
 {
   "size": 0,
+  "timeout": "60s",
+  "runtime_mappings": {
+    "bucket20": {
+      "type": "long",
+      "script": { "source": "int h=0; if (doc['userId'].size()!=0) h=doc['userId'].value.hashCode(); else if (doc['productId'].size()!=0) h=doc['productId'].value.hashCode(); emit(Math.floorMod(h,5));" }
+    }
+  },
   "query": {
     "bool": {
-      "must": [
-        {
-          "match": {
-            "text": "emotional"
-          }
-        }
-      ],
-      "filter": [
-        {
-          "term": {
-            "score": 5.0
-          }
-        }
-      ]
+      "must":   [ { "match": { "text": "emotional" } } ],
+      "filter": [ { "term": { "score": 5.0 } }, { "term": { "bucket20": 0 } } ]
     }
   },
   "aggs": {
-    "phrases": {
-      "terms": {
-        "field": "text.shingles",
-        "size": 10
+    "sample": {
+      "sampler": { "shard_size": 300 },
+      "aggs": {
+        "phrases": {
+          "terms": {
+            "field": "text.shingles",
+            "size": 10,
+            "shard_size": 100,
+            "min_doc_count": 20
+          }
+        }
       }
     }
   }

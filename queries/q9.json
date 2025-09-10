@@ -1,16 +1,19 @@
 {
   "size": 0,
+  "timeout": "60s",
   "query": {
-    "match": {
-      "text": "fun funny fun!"
+    "bool": {
+      "should": [
+        { "match": { "text": "fun" } },
+        { "match": { "text": "funny" } },
+        { "match": { "text": "amusing" } },
+        { "match": { "text": "enjoyable" } },
+        { "match": { "text": "entertaining" } }
+      ],
+      "minimum_should_match": 1
     }
   },
   "aggs": {
-    "by_user": {
-      "terms": {
-        "field": "profileName",
-        "size": 10
-      }
-    }
+    "by_user": { "terms": { "field": "profileName", "size": 10 } }
   }
 }

@@ -1,0 +1,69 @@
+{
+  "took": 563,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 10000,
+      "relation": "gte"
+    },
+    "max_score": null,
+    "hits": []
+  },
+  "aggregations": {
+    "sample": {
+      "doc_count": 2000,
+      "by_user": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 1478,
+        "buckets": [
+          {
+            "key": "unknown",
+            "doc_count": 444
+          },
+          {
+            "key": "HS \"GM\"",
+            "doc_count": 13
+          },
+          {
+            "key": "P. Mcmahon \"Skeeter\"",
+            "doc_count": 12
+          },
+          {
+            "key": "Anna",
+            "doc_count": 9
+          },
+          {
+            "key": "Michel Farmer",
+            "doc_count": 8
+          },
+          {
+            "key": "rufen13",
+            "doc_count": 8
+          },
+          {
+            "key": "Carl R. Kannady \"Bob's Brite Bulb\"",
+            "doc_count": 7
+          },
+          {
+            "key": "Lizzie",
+            "doc_count": 7
+          },
+          {
+            "key": "c2",
+            "doc_count": 7
+          },
+          {
+            "key": "megatallicadiozzhalen",
+            "doc_count": 7
+          }
+        ]
+      }
+    }
+  }
+}

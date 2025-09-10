@@ -1,0 +1,69 @@
+{
+  "took": 2033,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 10000,
+      "relation": "gte"
+    },
+    "max_score": null,
+    "hits": []
+  },
+  "aggregations": {
+    "sample": {
+      "doc_count": 2000,
+      "top_terms": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 104476,
+        "buckets": [
+          {
+            "key": "i",
+            "doc_count": 1402
+          },
+          {
+            "key": "you",
+            "doc_count": 860
+          },
+          {
+            "key": "cd",
+            "doc_count": 752
+          },
+          {
+            "key": "have",
+            "doc_count": 751
+          },
+          {
+            "key": "like",
+            "doc_count": 741
+          },
+          {
+            "key": "music",
+            "doc_count": 680
+          },
+          {
+            "key": "all",
+            "doc_count": 661
+          },
+          {
+            "key": "album",
+            "doc_count": 660
+          },
+          {
+            "key": "one",
+            "doc_count": 638
+          },
+          {
+            "key": "just",
+            "doc_count": 571
+          }
+        ]
+      }
+    }
+  }
+}

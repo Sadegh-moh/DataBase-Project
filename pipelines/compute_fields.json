@@ -1,10 +1,10 @@
 {
-  "description": "Compute helpfulness_ratio, normalize fields",
+  "description": "Compute helpfulness_ratio from up/down or raw",
   "processors": [
     {
       "script": {
         "lang": "painless",
-        "source": "\n      if (ctx.containsKey('helpfulness_raw') && ctx.helpfulness_raw != null) {\n        def m = /\\s*(\\d+)\\s*\\/\\s*(\\d+)\\s*/.matcher(ctx.helpfulness_raw);\n        if (m.find()) {\n          def x = Integer.parseInt(m.group(1)); def y = Integer.parseInt(m.group(2));\n          if (y > 0) { ctx.helpfulness_ratio = x / (double) y; }\n        }\n      }\n      "
+        "source": "if (ctx.containsKey('helpfulness_ratio') && ctx.helpfulness_ratio != null) return; def up = ctx.containsKey('helpfulness_up') ? ctx.helpfulness_up : null; def down = ctx.containsKey('helpfulness_down') ? ctx.helpfulness_down : null; if (up != null || down != null) { if (up == null) up = 0; if (down == null) down = 0; int iu = (up instanceof Number) ? ((Number)up).intValue() : Integer.parseInt(up.toString()); int id = (down instanceof Number) ? ((Number)down).intValue() : Integer.parseInt(down.toString()); int tot = iu + id; if (tot > 0) { ctx.helpfulness_ratio = (iu + 0.0) / tot; return; } } if (ctx.containsKey('helpfulness_raw') && ctx.helpfulness_raw != null) { def m = /\\s*(\\d+)\\s*\\/\\s*(\\d+)\\s*/.matcher(ctx.helpfulness_raw.toString()); if (m.find()) { int x = Integer.parseInt(m.group(1)); int y = Integer.parseInt(m.group(2)); if (y > 0) { ctx.helpfulness_ratio = x / (double) y; } } }"
       }
     }
   ]

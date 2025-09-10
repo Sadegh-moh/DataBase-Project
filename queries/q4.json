@@ -1,15 +1,19 @@
 {
   "size": 0,
-  "query": {
-    "match": {
-      "text": "disappointed"
-    }
-  },
+  "timeout": "60s",
+  "query": { "match": { "text": "disappointed" } },
   "aggs": {
-    "top_terms": {
-      "terms": {
-        "field": "text",
-        "size": 10
+    "sample": {
+      "sampler": { "shard_size": 400 },
+      "aggs": {
+        "top_terms": {
+          "terms": {
+            "field": "text.tokens",
+            "size": 10,
+            "shard_size": 150,
+            "min_doc_count": 50
+          }
+        }
       }
     }
   }

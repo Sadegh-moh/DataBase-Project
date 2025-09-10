@@ -1,0 +1,6 @@
+{
+  "properties": {
+    "text":    { "fielddata": true },
+    "summary": { "fielddata": true }
+  }
+}

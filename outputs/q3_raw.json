@@ -1,0 +1,1915 @@
+{
+  "took": 348,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "max_score": 10.545583,
+    "hits": [
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "-4j9LpkB-_PrFombkpf0",
+        "_score": 10.545583,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Keep an eye on these guys",
+          "helpfulness_up": 1,
+          "productId": "B000069V2J",
+          "helpfulness_ratio": 1.0,
+          "title": "Another Day at School",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 12.48,
+          "time": 1034726400,
+          "text": "Great rock sound, and tight catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "s7knL5kB-_PrFombC02O",
+        "_score": 10.323811,
+        "_source": {
+          "profileName": "Angelina Barlow",
+          "summary": "Sassy and fun!",
+          "helpfulness_up": 1,
+          "productId": "B000FFJ80S",
+          "helpfulness_ratio": 1.0,
+          "title": "Begin to Hope",
+          "userId": "A105R38CAPDBGU",
+          "score": 4.0,
+          "price": 19.99,
+          "time": 1179014400,
+          "text": "Regina most certainly has tremendous spunk and a knack for catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "wrgmL5kB-_PrFombdbCj",
+        "_score": 10.323811,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Good Music",
+          "helpfulness_up": 7,
+          "productId": "B0001M7P78",
+          "helpfulness_ratio": 1.0,
+          "title": "Good News for People Who Love Bad News",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 6.99,
+          "time": 1087171200,
+          "text": "Great CD with variety and catchy tunes. Keep up the good work!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "a7AeL5kB-_PrFomb7I5T",
+        "_score": 10.323811,
+        "_source": {
+          "profileName": "arthur e. mckinley",
+          "summary": "Great music",
+          "helpfulness_up": 2,
+          "productId": "B00000EJY7",
+          "helpfulness_ratio": 1.0,
+          "title": "Horizontal Ladies Club",
+          "userId": "A160T2LIYOVRMF",
+          "score": 5.0,
+          "price": null,
+          "time": 1042416000,
+          "text": "This is a great compilation of songs. Catchy tunes and studio effects. Highly reccomended.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "dbIhL5kB-_PrFombYGhT",
+        "_score": 10.323811,
+        "_source": {
+          "profileName": "michelle",
+          "summary": "Catchy",
+          "helpfulness_up": 4,
+          "productId": "B00004NS0I",
+          "helpfulness_ratio": 1.0,
+          "title": "Poverty & Riches \"EP\" (Remix)",
+          "userId": "A3QDLGXVTTC7VS",
+          "score": 3.0,
+          "price": null,
+          "time": 945216000,
+          "text": "Daforce you got some catchy tunes brotha.love ya michell",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Z3X0LpkB-_PrFombYLIg",
+        "_score": 10.323811,
+        "_source": {
+          "profileName": "diane c bird",
+          "summary": "buzz buzz",
+          "helpfulness_up": 2,
+          "productId": "B00004S36T",
+          "helpfulness_ratio": 1.0,
+          "title": "Buzz Buzz",
+          "userId": "A1PTZ77UDJ57NO",
+          "score": 4.0,
+          "price": null,
+          "time": 1006819200,
+          "text": "a great CD with catchy tunes, though not as good as her victor vito.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "IHX0LpkB-_PrFombW6b6",
+        "_score": 10.323811,
+        "_source": {
+          "profileName": "diane c bird",
+          "summary": "buzz buzz",
+          "helpfulness_up": 2,
+          "productId": "B00004S36S",
+          "helpfulness_ratio": 1.0,
+          "title": "Buzz Buzz",
+          "userId": "A1PTZ77UDJ57NO",
+          "score": 4.0,
+          "price": 12.99,
+          "time": 1006819200,
+          "text": "a great CD with catchy tunes, though not as good as her victor vito.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "JYv_LpkB-_PrFombMqkK",
+        "_score": 10.323811,
+        "_source": {
+          "profileName": "arthur e. mckinley",
+          "summary": "Great music",
+          "helpfulness_up": 2,
+          "productId": "B000008QV5",
+          "helpfulness_ratio": 1.0,
+          "title": "Horizontal Ladies Club",
+          "userId": "A160T2LIYOVRMF",
+          "score": 5.0,
+          "price": null,
+          "time": 1042416000,
+          "text": "This is a great compilation of songs. Catchy tunes and studio effects. Highly reccomended.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "IY3_LpkB-_PrFomb90OE",
+        "_score": 10.323811,
+        "_source": {
+          "profileName": "Angelina Barlow",
+          "summary": "Sassy and fun!",
+          "helpfulness_up": 1,
+          "productId": "B000J10KT6",
+          "helpfulness_ratio": 1.0,
+          "title": "Begin to Hope",
+          "userId": "A105R38CAPDBGU",
+          "score": 4.0,
+          "price": null,
+          "time": 1179014400,
+          "text": "Regina most certainly has tremendous spunk and a knack for catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "3dM9L5kB-_PrFombMS5J",
+        "_score": 10.323811,
+        "_source": {
+          "profileName": "Maria S. Palmer \"Fun Mom\"",
+          "summary": "I like it!",
+          "helpfulness_up": 1,
+          "productId": "B00005HMKA",
+          "helpfulness_ratio": 1.0,
+          "title": "Ultra Dance 07",
+          "userId": "A1NNRKTHOHXCDP",
+          "score": 4.0,
+          "price": 33.93,
+          "time": 1177891200,
+          "text": "Not as good as this year's 08, but still got some very catchy tunes!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ELwpL5kB-_PrFombUB6C",
+        "_score": 10.251945,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Great for a first CD!",
+          "helpfulness_up": 8,
+          "productId": "B000PSHYJM",
+          "helpfulness_ratio": 0.8,
+          "title": "Let Go (Bonus CD)",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 36.44,
+          "time": 1037836800,
+          "text": "Great job for a first CD. Very catchy tunes, and she's only 17!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "cHTzLpkB-_PrFomb1Zw_",
+        "_score": 10.251945,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "My Kids love it!",
+          "helpfulness_up": 1,
+          "productId": "B00005A09V",
+          "helpfulness_ratio": 1.0,
+          "title": "Dragon Tunes",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1021680000,
+          "text": "Highly recommended! It MAKES you dance! Very catchy tunes and alot of fun.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "sYz_LpkB-_PrFombi2Fd",
+        "_score": 10.251945,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Great for a first CD!",
+          "helpfulness_up": 8,
+          "productId": "B0001ME5LC",
+          "helpfulness_ratio": 0.8,
+          "title": "Let Go",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1037836800,
+          "text": "Great job for a first CD. Very catchy tunes, and she's only 17!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "_ZoGL5kB-_PrFombYBIE",
+        "_score": 10.251945,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Great for a first CD!",
+          "helpfulness_up": 8,
+          "productId": "B000069F0C",
+          "helpfulness_ratio": 0.8,
+          "title": "Let Go",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1037836800,
+          "text": "Great job for a first CD. Very catchy tunes, and she's only 17!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ep8IL5kB-_PrFomb9Sl0",
+        "_score": 10.251945,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Great for a first CD!",
+          "helpfulness_up": 8,
+          "productId": "B0000DESZZ",
+          "helpfulness_ratio": 0.8,
+          "title": "Let Go",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1037836800,
+          "text": "Great job for a first CD. Very catchy tunes, and she's only 17!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "YcYzL5kB-_PrFombbV6G",
+        "_score": 10.251945,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Great for a first CD!",
+          "helpfulness_up": 8,
+          "productId": "B00009Y2JC",
+          "helpfulness_ratio": 0.8,
+          "title": "Let Go",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1037836800,
+          "text": "Great job for a first CD. Very catchy tunes, and she's only 17!",
+          "helpfulness_down": 2
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "tLclL5kB-_PrFombnoro",
+        "_score": 10.181072,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "quite disappointing but still ok",
+          "helpfulness_up": 1,
+          "productId": "B00000J7SR",
+          "helpfulness_ratio": 1.0,
+          "title": "Synkronized",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": 8.95,
+          "time": 932083200,
+          "text": "Sure, there's catchy tunes but in terms of comparing to his previous stuff, this lacks of substance.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "VK8eL5kB-_PrFombEPuw",
+        "_score": 10.181072,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "quite disappointing but still ok",
+          "helpfulness_up": 1,
+          "productId": "B00000JIGG",
+          "helpfulness_ratio": 1.0,
+          "title": "Synkronized",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": null,
+          "time": 932083200,
+          "text": "Sure, there's catchy tunes but in terms of comparing to his previous stuff, this lacks of substance.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "M4L6LpkB-_PrFombvMli",
+        "_score": 10.181072,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "quite disappointing but still ok",
+          "helpfulness_up": 1,
+          "productId": "B00000JTYY",
+          "helpfulness_ratio": 1.0,
+          "title": "Synkronized [Vinyl]",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": null,
+          "time": 932083200,
+          "text": "Sure, there's catchy tunes but in terms of comparing to his previous stuff, this lacks of substance.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "-8g0L5kB-_PrFombeCt_",
+        "_score": 10.181072,
+        "_source": {
+          "profileName": "kate",
+          "summary": "Little Bird",
+          "helpfulness_up": 1,
+          "productId": "B000GKZN9M",
+          "helpfulness_ratio": 1.0,
+          "title": "You Are My Little Bird",
+          "userId": "A1QL2PUT6EO4ME",
+          "score": 5.0,
+          "price": 10.69,
+          "time": 1169078400,
+          "text": "My grandaughter has just loved this, songs are fun and catchy tunes. Its a keeper!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "prIhL5kB-_PrFombBwJr",
+        "_score": 10.111174,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Instant nostalgia",
+          "helpfulness_up": 1,
+          "productId": "B000002JX1",
+          "helpfulness_ratio": 1.0,
+          "title": "Fountains of Wayne",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 927417600,
+          "text": "Instant nostalgia in these sweet, smart, catchy tunes. You'll remember the first time you heard it.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "k6wYL5kB-_PrFomb_06n",
+        "_score": 10.111174,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "NIGHT TREE",
+          "helpfulness_up": 4,
+          "productId": "B00009W5C3",
+          "helpfulness_ratio": 1.0,
+          "title": "Night Tree",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 17.97,
+          "time": 1063065600,
+          "text": "A WELL BALANCED, FULL SOUND WITH CATCHY TUNES AND A GOOD BEAT.I FOUND IT TO BE VERY ENJOYABLE LISTENING.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "JIL6LpkB-_PrFombVBTl",
+        "_score": 10.111174,
+        "_source": {
+          "profileName": "F. Osborne \"commercial free viewer\"",
+          "summary": "the very best of charles trenet",
+          "helpfulness_up": 2,
+          "productId": "B00020H2M2",
+          "helpfulness_ratio": 1.0,
+          "title": "Very Best of Charles Trenet",
+          "userId": "A2236VDA6HRXQN",
+          "score": 5.0,
+          "price": null,
+          "time": 1249948800,
+          "text": "I am sure this is the music my parents were listening to. Some great catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "WYz_LpkB-_PrFombgkPs",
+        "_score": 10.111174,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Instant nostalgia",
+          "helpfulness_up": 1,
+          "productId": "B000005J75",
+          "helpfulness_ratio": 1.0,
+          "title": "Fountains of Wayne [Vinyl]",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 927417600,
+          "text": "Instant nostalgia in these sweet, smart, catchy tunes. You'll remember the first time you heard it.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "h9A7L5kB-_PrFombLrCL",
+        "_score": 10.111174,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "His favorite!!",
+          "helpfulness_up": 1,
+          "productId": "6303911579",
+          "helpfulness_ratio": 1.0,
+          "title": "Sesame Street - Do the Alphabet [VHS] (1969)",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 9.56,
+          "time": 1043280000,
+          "text": "This is our son's favaorite. I think its great! Very catchy tunes and a good storyline.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "_KsYL5kB-_PrFombjdcL",
+        "_score": 10.042228,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "tops",
+          "helpfulness_up": 5,
+          "productId": "B000006LUF",
+          "helpfulness_ratio": 0.8333333333333334,
+          "title": "Jamaica",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 943574400,
+          "text": "lena horne and ricardo montalbaum at the top of their form with witty and lively songs-catchy tunes-an underrated pleasure!",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "obIhL5kB-_PrFombYmqb",
+        "_score": 10.042228,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "tops",
+          "helpfulness_up": 5,
+          "productId": "B000003FTM",
+          "helpfulness_ratio": 0.8333333333333334,
+          "title": "Jamaica (1957 Original Broadway Cast Recording)",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 943574400,
+          "text": "lena horne and ricardo montalbaum at the top of their form with witty and lively songs-catchy tunes-an underrated pleasure!",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "vJwIL5kB-_PrFombE_XW",
+        "_score": 10.042228,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "One of My new favourites",
+          "helpfulness_up": 1,
+          "productId": "B00004WQZ3",
+          "helpfulness_ratio": 1.0,
+          "title": "Smooth / El Farol",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 936921600,
+          "text": "This is the best song, catchy tunes lovely struming by Carlos Santana if I could say so myself.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "8ID5LpkB-_PrFombjpWq",
+        "_score": 10.042228,
+        "_source": {
+          "profileName": "JP",
+          "summary": "Great CD for Kids",
+          "helpfulness_up": 1,
+          "productId": "B000HOMSRC",
+          "helpfulness_ratio": 1.0,
+          "title": "Cool Like That",
+          "userId": "A2HKTDOKWTPZBM",
+          "score": 5.0,
+          "price": null,
+          "time": 1157587200,
+          "text": "Great kid friendly music CD. Its original catchy tunes promote a great message for kids.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "04n-LpkB-_PrFombJYm7",
+        "_score": 10.042228,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Excellent Pop Rock!!",
+          "helpfulness_up": 1,
+          "productId": "B00000JUSQ",
+          "helpfulness_ratio": 1.0,
+          "title": "No Place Like Home",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 7.95,
+          "time": 927849600,
+          "text": "A refreshing pop rock CD with a unique techno twist. Excellent message driven lyrics with catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "kpQDL5kB-_PrFombCRA5",
+        "_score": 10.042228,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "One of My new favourites",
+          "helpfulness_up": 1,
+          "productId": "B00000JWH1",
+          "helpfulness_ratio": 1.0,
+          "title": "Smooth / El Farol",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 936921600,
+          "text": "This is the best song, catchy tunes lovely struming by Carlos Santana if I could say so myself.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "K8EuL5kB-_PrFombe0uY",
+        "_score": 10.042228,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Rock out!!",
+          "helpfulness_up": 2,
+          "productId": "B000002MWQ",
+          "helpfulness_ratio": 1.0,
+          "title": "Blonder and Blonder [Vinyl]",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 928713600,
+          "text": "I LIKE the screaming, but it's not just screams. It's nice melody and harmonies and catchy tunes. It ROCKS!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "OMEuL5kB-_PrFombe0qY",
+        "_score": 10.042228,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Rock out!!",
+          "helpfulness_up": 2,
+          "productId": "B000002MWS",
+          "helpfulness_ratio": 1.0,
+          "title": "Blonder & Blonder",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 928713600,
+          "text": "I LIKE the screaming, but it's not just screams. It's nice melody and harmonies and catchy tunes. It ROCKS!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "3rAfL5kB-_PrFombQqTX",
+        "_score": 9.974216,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Supernatural",
+          "helpfulness_up": 1,
+          "productId": "B00000AGD9",
+          "helpfulness_ratio": 1.0,
+          "title": "Supernatural",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 27.49,
+          "time": 961977600,
+          "text": "Supernatural is a wonderful album. It is full of spiritual songs and catchy tunes. They have a very distinct sound and it's irresistable!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "_Hn2LpkB-_PrFombONd_",
+        "_score": 9.974216,
+        "_source": {
+          "profileName": "H. Yu",
+          "summary": "Highly Recommend this particular CD.",
+          "helpfulness_up": 1,
+          "productId": "B000068D00",
+          "helpfulness_ratio": 1.0,
+          "title": "Veggie Tunes: A Queen, a King, and a Very Blue Berry",
+          "userId": "A2IGGQ5F07IZZQ",
+          "score": 5.0,
+          "price": null,
+          "time": 1198368000,
+          "text": "Fun, catchy tunes for adults, children, & whole family. This CD has the most enjoyable songs. Highly recommend! =)",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "8Xb0LpkB-_PrFombjB2i",
+        "_score": 9.974216,
+        "_source": {
+          "profileName": "C. Leif",
+          "summary": "I give it an A!",
+          "helpfulness_up": 2,
+          "productId": "B0002BSFOA",
+          "helpfulness_ratio": 1.0,
+          "title": "Worlds of Change",
+          "userId": "A24XV08LI079I5",
+          "score": 5.0,
+          "price": 2.99,
+          "time": 1111449600,
+          "text": "Surprisingly very good. Great rhythm...vocals blend beautifully! Nice latin flavor to upbeat, catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "pYX7LpkB-_PrFombuSgd",
+        "_score": 9.974216,
+        "_source": {
+          "profileName": "\"wickedpyre\"",
+          "summary": "This album deserves 5 stars plus!",
+          "helpfulness_up": 5,
+          "productId": "B0002XNF3E",
+          "helpfulness_ratio": 1.0,
+          "title": "Becoming X",
+          "userId": "A2Z1LG66N3XKJU",
+          "score": 5.0,
+          "price": null,
+          "time": 935971200,
+          "text": "This is a great album! If you are looking for great beats and catchy tunes, this is the cd for you. I can't wait for their next!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "-8g0L5kB-_PrFomb88cH",
+        "_score": 9.974216,
+        "_source": {
+          "profileName": "\"wickedpyre\"",
+          "summary": "This album deserves 5 stars plus!",
+          "helpfulness_up": 5,
+          "productId": "B000000WCU",
+          "helpfulness_ratio": 1.0,
+          "title": "Becoming X",
+          "userId": "A2Z1LG66N3XKJU",
+          "score": 5.0,
+          "price": null,
+          "time": 935971200,
+          "text": "This is a great album! If you are looking for great beats and catchy tunes, this is the cd for you. I can't wait for their next!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "9sYzL5kB-_PrFombo6JS",
+        "_score": 9.974216,
+        "_source": {
+          "profileName": "\"wickedpyre\"",
+          "summary": "This album deserves 5 stars plus!",
+          "helpfulness_up": 5,
+          "productId": "B00005ECJ8",
+          "helpfulness_ratio": 1.0,
+          "title": "Becoming X + 1",
+          "userId": "A2Z1LG66N3XKJU",
+          "score": 5.0,
+          "price": null,
+          "time": 935971200,
+          "text": "This is a great album! If you are looking for great beats and catchy tunes, this is the cd for you. I can't wait for their next!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "WrwqL5kB-_PrFombmuVl",
+        "_score": 9.90712,
+        "_source": {
+          "profileName": "A Customer",
+          "summary": "This is what 80s metal was all about",
+          "helpfulness_up": 6,
+          "productId": "B000091KUY",
+          "helpfulness_ratio": 1.0,
+          "title": "License to Kill [Vinyl]",
+          "userId": "AJPBXBZXGP25Q",
+          "score": 5.0,
+          "price": null,
+          "time": 941500800,
+          "text": "Is there still a band that offers creative riffs, powerful screams, and catchy tunes? One of the best all time metal albums",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "RXPzLpkB-_PrFombVZFe",
+        "_score": 9.90712,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Good, but not as good as expected",
+          "helpfulness_up": 1,
+          "productId": "B00004RJLD",
+          "helpfulness_ratio": 1.0,
+          "title": "Be Here Now",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": 24.1,
+          "time": 895968000,
+          "text": "Oasis took over a year to make this album and the final product doesn't justify this lenght of time. Some catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "2Xf1LpkB-_PrFombES6B",
+        "_score": 9.90712,
+        "_source": {
+          "profileName": "Rob",
+          "summary": "Great, fresh sound.",
+          "helpfulness_up": 1,
+          "productId": "B000ICLTAU",
+          "helpfulness_ratio": 1.0,
+          "title": "Shine (Dig)",
+          "userId": "A39CT5SUMZDVXM",
+          "score": 5.0,
+          "price": null,
+          "time": 1169424000,
+          "text": "This is probably one of my favorite albums of the year. Very catchy tunes -- they stick with you and they don't sound alike.Highly recommend!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "lXTzLpkB-_PrFombpBs_",
+        "_score": 9.90712,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Good, but not as good as expected",
+          "helpfulness_up": 1,
+          "productId": "B000I5YVDO",
+          "helpfulness_ratio": 1.0,
+          "title": "Be Here Now (Mlps)",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": null,
+          "time": 895968000,
+          "text": "Oasis took over a year to make this album and the final product doesn't justify this lenght of time. Some catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "xYT7LpkB-_PrFombepNr",
+        "_score": 9.90712,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "fun, interesting lyrics, but not musically spectacular",
+          "helpfulness_up": 1,
+          "productId": "B000002UHF",
+          "helpfulness_ratio": 1.0,
+          "title": "Marcy Playground",
+          "userId": "unknown",
+          "score": 4.0,
+          "price": null,
+          "time": 895449600,
+          "text": "Sex and Candy is a good song. The album contains other catchy tunes. The music is 90's-alternitive-formula style.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "oY3_LpkB-_PrFomb0APV",
+        "_score": 9.90712,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Good, but not as good as expected",
+          "helpfulness_up": 1,
+          "productId": "B000002C25",
+          "helpfulness_ratio": 1.0,
+          "title": "Be Here Now",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": 3.11,
+          "time": 895968000,
+          "text": "Oasis took over a year to make this album and the final product doesn't justify this lenght of time. Some catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "lo3_LpkB-_PrFomb0QV4",
+        "_score": 9.90712,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Good, but not as good as expected",
+          "helpfulness_up": 1,
+          "productId": "B000002C26",
+          "helpfulness_ratio": 1.0,
+          "title": "Be Here Now",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": null,
+          "time": 895968000,
+          "text": "Oasis took over a year to make this album and the final product doesn't justify this lenght of time. Some catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "z43_LpkB-_PrFomb0gm7",
+        "_score": 9.90712,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Good, but not as good as expected",
+          "helpfulness_up": 1,
+          "productId": "B000002C27",
+          "helpfulness_ratio": 1.0,
+          "title": "Be Here Now",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": null,
+          "time": 895968000,
+          "text": "Oasis took over a year to make this album and the final product doesn't justify this lenght of time. Some catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Rov_LpkB-_PrFombYPww",
+        "_score": 9.90712,
+        "_source": {
+          "profileName": "A Customer",
+          "summary": "This is what 80s metal was all about",
+          "helpfulness_up": 6,
+          "productId": "B00000IFZ1",
+          "helpfulness_ratio": 1.0,
+          "title": "License to Kill",
+          "userId": "AJPBXBZXGP25Q",
+          "score": 5.0,
+          "price": null,
+          "time": 941500800,
+          "text": "Is there still a band that offers creative riffs, powerful screams, and catchy tunes? One of the best all time metal albums",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "sqkVL5kB-_PrFombiJQT",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "Bruce W. \"Pontificating from Potomac\"",
+          "summary": "Great Modern Country Album",
+          "helpfulness_up": 2,
+          "productId": "B0000C9JD3",
+          "helpfulness_ratio": 1.0,
+          "title": "Broken Promises",
+          "userId": "A2RISY2CEQPVOF",
+          "score": 5.0,
+          "price": 21.98,
+          "time": 1142812800,
+          "text": "I heard Rusty Truck on Imus and quickly bought the CD. It did not disappoint -- clever lyrics, catchy tunes, and excellent musicianship.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "b7wqL5kB-_PrFombTpnr",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "Dawn Angel",
+          "summary": "mest strikes again",
+          "helpfulness_up": 1,
+          "productId": "B000ARXAUK",
+          "helpfulness_ratio": 1.0,
+          "title": "Photographs",
+          "userId": "A1X8XKOU80JZK5",
+          "score": 5.0,
+          "price": 5.76,
+          "time": 1129593600,
+          "text": "I enjoyed this album because it has all the best of mest. shows their mature side with catchy tunes to keep jumping and dancing.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "0qQNL5kB-_PrFombkS_a",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "The BEST of Kylie's wonderful career!!!!!!!!!!!!",
+          "helpfulness_up": 1,
+          "productId": "B000068LB6",
+          "helpfulness_ratio": 1.0,
+          "title": "Love at First Sight",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1151020800,
+          "text": "Kylie Minogue has had a ton of catchy tunes, but \"Love At First Sight\" is head-and-shoulders above the rest. It absolutely rocks!!!!!!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "JKsXL5kB-_PrFombGAc7",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "Mike \"SluggoBear\"",
+          "summary": "Fun electronica",
+          "helpfulness_up": 3,
+          "productId": "B00005UJMY",
+          "helpfulness_ratio": 1.0,
+          "title": "Secrets",
+          "userId": "A2YOG1A4MIIQM8",
+          "score": 4.0,
+          "price": 44.71,
+          "time": 1096502400,
+          "text": "The lyrics are not epic, but the music is fun, and they sound great. Lots of catchy tunes, fun to just play loud and sing along to. Recommended.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "bnr2LpkB-_PrFombfmwY",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "Dawn Angel",
+          "summary": "mest strikes again",
+          "helpfulness_up": 1,
+          "productId": "B000B9EY48",
+          "helpfulness_ratio": 1.0,
+          "title": "Photographs (W/Dvd)",
+          "userId": "A1X8XKOU80JZK5",
+          "score": 5.0,
+          "price": 2.89,
+          "time": 1129593600,
+          "text": "I enjoyed this album because it has all the best of mest. shows their mature side with catchy tunes to keep jumping and dancing.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "m4D5LpkB-_PrFombv_cB",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "A. Willey",
+          "summary": "Must have for the Hannah Fan!",
+          "helpfulness_up": 2,
+          "productId": "B000OYC3L6",
+          "helpfulness_ratio": 1.0,
+          "title": "Hannah Montana 2: Meet Miley Cyrus",
+          "userId": "A151PWNC477LHZ",
+          "score": 5.0,
+          "price": 13.33,
+          "time": 1190246400,
+          "text": "You're Hannah Fan will love it! My girls dance all over the house! It's nicely done with some catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "WIT7LpkB-_PrFombeZBU",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "The Book Worm \"musicbystonehenge\"",
+          "summary": "Love it",
+          "helpfulness_up": 1,
+          "productId": "B000025L4W",
+          "helpfulness_ratio": 1.0,
+          "title": "Tabaluga Oder Die Reise Zur Vernunft",
+          "userId": "A3KQ3PDIMX0NQU",
+          "score": 5.0,
+          "price": 14.53,
+          "time": 1311120000,
+          "text": "I love this CD, even though it is a 'childrens' CD it has helped me with my German through the singing of the catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "CI8BL5kB-_PrFombOuj7",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "Cheri Cochran",
+          "summary": "Great addition to your collection!",
+          "helpfulness_up": 1,
+          "productId": "B0002RQ2TO",
+          "helpfulness_ratio": 1.0,
+          "title": "Monk & Neagle",
+          "userId": "A43HCLEKH4BFJ",
+          "score": 4.0,
+          "price": 29.95,
+          "time": 1129075200,
+          "text": "Great CD! The songs are upbeat, happy, and encouraging. Very down to earth lyrics and catchy tunes. A few of them are perfect to jog to!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "r5gFL5kB-_PrFomblcM2",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "Mary Oglesby",
+          "summary": "one of my favorites",
+          "helpfulness_up": 1,
+          "productId": "B00000EYHI",
+          "helpfulness_ratio": 1.0,
+          "title": "Ballad of Sally Rose",
+          "userId": "A2YLL5Z6LLHGW3",
+          "score": 5.0,
+          "price": null,
+          "time": 1232409600,
+          "text": "This has been a favorite of mine for many years. Catchy tunes, with a story to go along with it. Love Emmy Lou, and this CD is awesome!!!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "DcIwL5kB-_PrFomb0eqB",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "Dawn Angel",
+          "summary": "mest strikes again",
+          "helpfulness_up": 1,
+          "productId": "B000AS20J6",
+          "helpfulness_ratio": 1.0,
+          "title": "Photographs",
+          "userId": "A1X8XKOU80JZK5",
+          "score": 5.0,
+          "price": null,
+          "time": 1129593600,
+          "text": "I enjoyed this album because it has all the best of mest. shows their mature side with catchy tunes to keep jumping and dancing.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "LMEuL5kB-_PrFomb6atP",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "the_pr0wler@hotmail.com",
+          "summary": "Ignorance Is Bliss is bliss",
+          "helpfulness_up": 1,
+          "productId": "B00000K59F",
+          "helpfulness_ratio": 1.0,
+          "title": "Ignorance Is Bliss",
+          "userId": "ALFTZ397DU82H",
+          "score": 5.0,
+          "price": null,
+          "time": 950140800,
+          "text": "One of the best collections of strong emotion mixed with catchy tunes I've heard in quite a while! This is one to play again and again.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Zsk2L5kB-_PrFombSK1d",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "Mary Oglesby",
+          "summary": "one of my favorites",
+          "helpfulness_up": 1,
+          "productId": "B000A29B8K",
+          "helpfulness_ratio": 1.0,
+          "title": "Ballad of Sally Rose",
+          "userId": "A2YLL5Z6LLHGW3",
+          "score": 5.0,
+          "price": null,
+          "time": 1232409600,
+          "text": "This has been a favorite of mine for many years. Catchy tunes, with a story to go along with it. Love Emmy Lou, and this CD is awesome!!!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "L9Q-L5kB-_PrFombnpf2",
+        "_score": 9.8409195,
+        "_source": {
+          "profileName": "Mike \"SluggoBear\"",
+          "summary": "Fun electronica",
+          "helpfulness_up": 3,
+          "productId": "B00005R8GE",
+          "helpfulness_ratio": 1.0,
+          "title": "Secrets",
+          "userId": "A2YOG1A4MIIQM8",
+          "score": 4.0,
+          "price": null,
+          "time": 1096502400,
+          "text": "The lyrics are not epic, but the music is fun, and they sound great. Lots of catchy tunes, fun to just play loud and sing along to. Recommended.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "QKsYL5kB-_PrFombVqos",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Great new band. Worth checking out.",
+          "helpfulness_up": 1,
+          "productId": "B00000AFR0",
+          "helpfulness_ratio": 1.0,
+          "title": "Through the Fall",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 908668800,
+          "text": "Great music for studying, driving, or just hanging out. Catchy tunes and great lyrics. Reminds me of James Taylor or Marc Cohen.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "87MiL5kB-_PrFombAym7",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "S. McKee",
+          "summary": "Decent solo album",
+          "helpfulness_up": 1,
+          "productId": "B00008NFME",
+          "helpfulness_ratio": 1.0,
+          "title": "Cruiser",
+          "userId": "A2NXTRFE0HWRZL",
+          "score": 3.0,
+          "price": 26.42,
+          "time": 1252108800,
+          "text": "I've always been a fan of Tony Mills since the Shy days. This cd has a few really good catchy tunes, that'sabout it.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "X5sHL5kB-_PrFombU9aM",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Well worth the 19 Bucks!",
+          "helpfulness_up": 2,
+          "productId": "B00005KIZZ",
+          "helpfulness_ratio": 1.0,
+          "title": "L'Amour Toujours",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 966988800,
+          "text": "This is a great cd because it has a lot of catchy tunes. This cd will make you want to dance because the beats will get you hooked.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "B333LpkB-_PrFombxFWo",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "#1 Alblum in my collection",
+          "helpfulness_up": 1,
+          "productId": "B00000053E",
+          "helpfulness_ratio": 1.0,
+          "title": "Jars of Clay",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 12.39,
+          "time": 904867200,
+          "text": "Amazing lyrics!! Catchy tunes!! Jars of Clay really comes through with this record. It really has a great message. A MUST FOR YOUR COLLECTION!!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "zY8BL5kB-_PrFombIaoE",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "Sheri",
+          "summary": "Pure Gold",
+          "helpfulness_up": 1,
+          "productId": "B0001WPSMM",
+          "helpfulness_ratio": 1.0,
+          "title": "Gold: Greatest Hits, 30th Anniversary Edition",
+          "userId": "A2OC7T7CHLQCGC",
+          "score": 5.0,
+          "price": null,
+          "time": 1359763200,
+          "text": "Amazing vocals and catchy tunes, this album is solid gold. How could anyone not love this group? A fantastic addition to any pop library.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "zIH6LpkB-_PrFombNeVy",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "S. McKee",
+          "summary": "Decent solo album",
+          "helpfulness_up": 1,
+          "productId": "B00005Y2FX",
+          "helpfulness_ratio": 1.0,
+          "title": "Cruiser",
+          "userId": "A2NXTRFE0HWRZL",
+          "score": 3.0,
+          "price": null,
+          "time": 1252108800,
+          "text": "I've always been a fan of Tony Mills since the Shy days. This cd has a few really good catchy tunes, that'sabout it.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "LYH6LpkB-_PrFombBYe7",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "Valerie",
+          "summary": "My daughter loves it!",
+          "helpfulness_up": 1,
+          "productId": "B000N4SA8W",
+          "helpfulness_ratio": 1.0,
+          "title": "Hannah Montana: 2-Disc Special Edition Soundtrack",
+          "userId": "A1A7VIA7BN83OR",
+          "score": 4.0,
+          "price": 20.45,
+          "time": 1198972800,
+          "text": "My daughter (7), a big fan of Hannah Montana, loves this CD. As a parent, I like it too, for the positive lyrics and catchy tunes.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Fb8tL5kB-_PrFombt__8",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Great new band. Worth checking out.",
+          "helpfulness_up": 1,
+          "productId": "B000PLUTO6",
+          "helpfulness_ratio": 1.0,
+          "title": "Through the Fall",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 908668800,
+          "text": "Great music for studying, driving, or just hanging out. Catchy tunes and great lyrics. Reminds me of James Taylor or Marc Cohen.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "RcQyL5kB-_PrFombVMZ3",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "Sheri",
+          "summary": "Pure Gold",
+          "helpfulness_up": 1,
+          "productId": "B000AS1HDQ",
+          "helpfulness_ratio": 1.0,
+          "title": "Gold-Greatest Hits",
+          "userId": "A2OC7T7CHLQCGC",
+          "score": 5.0,
+          "price": null,
+          "time": 1359763200,
+          "text": "Amazing vocals and catchy tunes, this album is solid gold. How could anyone not love this group? A fantastic addition to any pop library.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ztE7L5kB-_PrFombkDgi",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "Michelle L. Propst",
+          "summary": "You will love it.",
+          "helpfulness_up": 1,
+          "productId": "B00000029K",
+          "helpfulness_ratio": 1.0,
+          "title": "Old Rusty Gate",
+          "userId": "ALQ3W8JKIGRM0",
+          "score": 5.0,
+          "price": null,
+          "time": 1000080000,
+          "text": "Awesome, very catchy tunes, great foot tappin' music. I wish we could hear more and more new stuff.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "XNE7L5kB-_PrFombkDvp",
+        "_score": 9.775599,
+        "_source": {
+          "profileName": "Michelle L. Propst",
+          "summary": "You will love it.",
+          "helpfulness_up": 1,
+          "productId": "B00000029L",
+          "helpfulness_ratio": 1.0,
+          "title": "Old Rusty Gate",
+          "userId": "ALQ3W8JKIGRM0",
+          "score": 5.0,
+          "price": null,
+          "time": 1000080000,
+          "text": "Awesome, very catchy tunes, great foot tappin' music. I wish we could hear more and more new stuff.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "fnPzLpkB-_PrFombg8hf",
+        "_score": 9.711138,
+        "_source": {
+          "profileName": "bathory6",
+          "summary": "Fun to dance to",
+          "helpfulness_up": 1,
+          "productId": "B000069RIP",
+          "helpfulness_ratio": 1.0,
+          "title": "Louisiana Party Coll: Cajun & Zydeco Cassics",
+          "userId": "A3HX6PT0TLJ1AO",
+          "score": 4.0,
+          "price": null,
+          "time": 1120176000,
+          "text": "This collection of music is so cool. It gives you a quick glimpse of alot of different artists. It has nice catchy tunes all through the cd.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "XJABL5kB-_PrFombYyCS",
+        "_score": 9.711138,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Diverse and Enjoyable",
+          "helpfulness_up": 1,
+          "productId": "B0000DEPIO",
+          "helpfulness_ratio": 1.0,
+          "title": "Tried & True Best of",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 972864000,
+          "text": "Very catchy tunes , great lyrics . Lots of oldies in this one . Nostalgic . If you're planning to buy one Suzanne vega CD , let it be this one .",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "HpgFL5kB-_PrFombV0X9",
+        "_score": 9.711138,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Diverse and Enjoyable",
+          "helpfulness_up": 1,
+          "productId": "B000BRHS6G",
+          "helpfulness_ratio": 1.0,
+          "title": "Tried & True-Best of",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 972864000,
+          "text": "Very catchy tunes , great lyrics . Lots of oldies in this one . Nostalgic . If you're planning to buy one Suzanne vega CD , let it be this one .",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "G6UOL5kB-_PrFomb7Hbw",
+        "_score": 9.711138,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Diverse and Enjoyable",
+          "helpfulness_up": 1,
+          "productId": "B00000FDB3",
+          "helpfulness_ratio": 1.0,
+          "title": "The Best of Suzanne Vega: Tried and True",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 972864000,
+          "text": "Very catchy tunes , great lyrics . Lots of oldies in this one . Nostalgic . If you're planning to buy one Suzanne vega CD , let it be this one .",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "YMYzL5kB-_PrFombscaI",
+        "_score": 9.711138,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Great Surprise!",
+          "helpfulness_up": 3,
+          "productId": "B00008MNYT",
+          "helpfulness_ratio": 1.0,
+          "title": "To Whom It May Concern",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1049932800,
+          "text": "I have been listening non-stop to Lisa Marie Presley's new CD. It is fantastic! Catchy tunes, sultry voice - great package.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "wNI8L5kB-_PrFombpLDP",
+        "_score": 9.711138,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Great Surprise!",
+          "helpfulness_up": 3,
+          "productId": "B00008PX8Y",
+          "helpfulness_ratio": 1.0,
+          "title": "To Whom It May Concern",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1049932800,
+          "text": "I have been listening non-stop to Lisa Marie Presley's new CD. It is fantastic! Catchy tunes, sultry voice - great package.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ZqMML5kB-_PrFomby8mU",
+        "_score": 9.674244,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Not as good as their others",
+          "helpfulness_up": 4,
+          "productId": "B000SFOY8Q",
+          "helpfulness_ratio": 0.8,
+          "title": "The Wiggles: Hoop-Dee-Doo! It's a Wiggly Party (2007)",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": 19.99,
+          "time": 1019952000,
+          "text": "We absolutely love the Wiggles, but were dissapointed with Hoop Dee Doo. What we love most about the Wiggles are their catchy tunes, fun dances and simplicity. This video featured less that catchy tunes, almost no dancing, at least none that was up to their usual standard, and over stimulating backgrounds and visuals that distracted us from The Wiggles. I understand they have a new choreographer, and I suggest they get the old one back. They had too many kids on stage, the kids couldn't dance and often times just stood there staring at the camera. We want the old Wiggles back!",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "35oGL5kB-_PrFombbDcA",
+        "_score": 9.674244,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Not as good as their others",
+          "helpfulness_up": 4,
+          "productId": "B00016XNSO",
+          "helpfulness_ratio": 0.8,
+          "title": "Hoop Dee Doo [VHS]",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": 17.99,
+          "time": 1019952000,
+          "text": "We absolutely love the Wiggles, but were dissapointed with Hoop Dee Doo. What we love most about the Wiggles are their catchy tunes, fun dances and simplicity. This video featured less that catchy tunes, almost no dancing, at least none that was up to their usual standard, and over stimulating backgrounds and visuals that distracted us from The Wiggles. I understand they have a new choreographer, and I suggest they get the old one back. They had too many kids on stage, the kids couldn't dance and often times just stood there staring at the camera. We want the old Wiggles back!",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "8dE7L5kB-_PrFombiSr8",
+        "_score": 9.674244,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Not as good as their others",
+          "helpfulness_up": 4,
+          "productId": "B00005YURN",
+          "helpfulness_ratio": 0.8,
+          "title": "The Wiggles - Hoop-Dee-Doo! It's a Wiggly Party [VHS] (2001)",
+          "userId": "unknown",
+          "score": 3.0,
+          "price": null,
+          "time": 1019952000,
+          "text": "We absolutely love the Wiggles, but were dissapointed with Hoop Dee Doo. What we love most about the Wiggles are their catchy tunes, fun dances and simplicity. This video featured less that catchy tunes, almost no dancing, at least none that was up to their usual standard, and over stimulating backgrounds and visuals that distracted us from The Wiggles. I understand they have a new choreographer, and I suggest they get the old one back. They had too many kids on stage, the kids couldn't dance and often times just stood there staring at the camera. We want the old Wiggles back!",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "JKMML5kB-_PrFombOydK",
+        "_score": 9.647523,
+        "_source": {
+          "profileName": "M. Coggin \"Clean Life\"",
+          "summary": "SUZY BOGGUSS",
+          "helpfulness_up": 1,
+          "productId": "B00009N1XI",
+          "helpfulness_ratio": 1.0,
+          "title": "Swing",
+          "userId": "A2FX2RPCHQ1P41",
+          "score": 5.0,
+          "price": null,
+          "time": 1170460800,
+          "text": "This is a big departure from her usual, really great, catchy tunes, though! The kind of music that will keep your feet tapping. Definitely worth the money!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "-ZsHL5kB-_PrFombZPsV",
+        "_score": 9.647523,
+        "_source": {
+          "profileName": "someone",
+          "summary": "this is a good album",
+          "helpfulness_up": 1,
+          "productId": "B000008A1K",
+          "helpfulness_ratio": 1.0,
+          "title": "Aquarium",
+          "userId": "A11ADS85NOVWSZ",
+          "score": 4.0,
+          "price": null,
+          "time": 945648000,
+          "text": "I really like this album because of the catchy tunes and strong beat. I like every song on this album and encourage you to buy it. GO AQUA!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ta4bL5kB-_PrFombXC6X",
+        "_score": 9.647523,
+        "_source": {
+          "profileName": "\"ejzeee\"",
+          "summary": "Invincible - Michael Jackson",
+          "helpfulness_up": 2,
+          "productId": "B00005Q4JH",
+          "helpfulness_ratio": 1.0,
+          "title": "Invincible",
+          "userId": "A23YQFZ8NTULPA",
+          "score": 4.0,
+          "price": 6.99,
+          "time": 1007337600,
+          "text": "Very good CD, worth buying. Well produced. Although not as many catchy tunes as his previous CDs, this CD has many strong tracks.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "CYX7LpkB-_PrFombvTZU",
+        "_score": 9.647523,
+        "_source": {
+          "profileName": "someone",
+          "summary": "this is a good album",
+          "helpfulness_up": 1,
+          "productId": "B00000JA9Q",
+          "helpfulness_ratio": 1.0,
+          "title": "Aquarium",
+          "userId": "A11ADS85NOVWSZ",
+          "score": 4.0,
+          "price": null,
+          "time": 945648000,
+          "text": "I really like this album because of the catchy tunes and strong beat. I like every song on this album and encourage you to buy it. GO AQUA!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "BI8AL5kB-_PrFombuRY3",
+        "_score": 9.647523,
+        "_source": {
+          "profileName": "Jenny V \"mother of teens and toddler\"",
+          "summary": "A Must Have for Children!",
+          "helpfulness_up": 4,
+          "productId": "B00000EWUU",
+          "helpfulness_ratio": 1.0,
+          "title": "Hide Em in Your Heart Vol. 1",
+          "userId": "A3RILNGFUK3IID",
+          "score": 5.0,
+          "price": null,
+          "time": 1185753600,
+          "text": "This is wonderful original music (not adult 'praise' music copied) for children. You can't get the catchy tunes out of your head and the scriptures stay as well!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "nIP6LpkB-_PrFomb83jI",
+        "_score": 9.647523,
+        "_source": {
+          "profileName": "Jenny V \"mother of teens and toddler\"",
+          "summary": "A Must Have for Children!",
+          "helpfulness_up": 4,
+          "productId": "B00020JQYE",
+          "helpfulness_ratio": 1.0,
+          "title": "Hide 'em in Your Heart Vol. 1",
+          "userId": "A3RILNGFUK3IID",
+          "score": 5.0,
+          "price": 13.73,
+          "time": 1185753600,
+          "text": "This is wonderful original music (not adult 'praise' music copied) for children. You can't get the catchy tunes out of your head and the scriptures stay as well!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "8JICL5kB-_PrFombRA5l",
+        "_score": 9.647523,
+        "_source": {
+          "profileName": "someone",
+          "summary": "this is a good album",
+          "helpfulness_up": 1,
+          "productId": "B000005KD0",
+          "helpfulness_ratio": 1.0,
+          "title": "Aquarium",
+          "userId": "A11ADS85NOVWSZ",
+          "score": 4.0,
+          "price": null,
+          "time": 945648000,
+          "text": "I really like this album because of the catchy tunes and strong beat. I like every song on this album and encourage you to buy it. GO AQUA!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "hI3_LpkB-_PrFomb-ky2",
+        "_score": 9.647523,
+        "_source": {
+          "profileName": "\"katgsell\"",
+          "summary": "Kid's music that parents will love",
+          "helpfulness_up": 4,
+          "productId": "B00009V3L2",
+          "helpfulness_ratio": 0.8,
+          "title": "Good Ideas",
+          "userId": "A2OWQ1OG4OCPF",
+          "score": 5.0,
+          "price": 13.89,
+          "time": 1059523200,
+          "text": "The CD is great! The music is upbeat and lots of fun for kids and something parents will actually enjoy listening to over &amp; over. Catchy tunes and smart lyrics.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "RMQxL5kB-_PrFomb0g1D",
+        "_score": 9.647523,
+        "_source": {
+          "profileName": "\"ejzeee\"",
+          "summary": "Invincible - Michael Jackson",
+          "helpfulness_up": 2,
+          "productId": "B00005TSQZ",
+          "helpfulness_ratio": 1.0,
+          "title": "Invincible",
+          "userId": "A23YQFZ8NTULPA",
+          "score": 4.0,
+          "price": null,
+          "time": 1007337600,
+          "text": "Very good CD, worth buying. Well produced. Although not as many catchy tunes as his previous CDs, this CD has many strong tracks.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "nacSL5kB-_PrFombTrM_",
+        "_score": 9.584736,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "A Must Have",
+          "helpfulness_up": 1,
+          "productId": "B000L9YNTO",
+          "helpfulness_ratio": 1.0,
+          "title": "I'm With Stupid",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 937267200,
+          "text": "&quot;I'm with Stupid&quot; is simply great. Catchy tunes, wonderful voice, not a single poor song on the album. One of the best records I bought recently.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Jnf1LpkB-_PrFombHEy-",
+        "_score": 9.584736,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Classy piano",
+          "helpfulness_up": 6,
+          "productId": "B000006BDG",
+          "helpfulness_ratio": 1.0,
+          "title": "Rediscoveries 1",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 1084233600,
+          "text": "This is piano music of the highest order - catchy tunes and flawless performance. I couldn't buy this CD from Amazon so I bought it directly from Shellwood.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Xq0aL5kB-_PrFombs5nM",
+        "_score": 9.584736,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Gotta have Frente!",
+          "helpfulness_up": 2,
+          "productId": "B000004AVF",
+          "helpfulness_ratio": 1.0,
+          "title": "Labour of Love",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 922406400,
+          "text": "This is definately a good investment. The catchy tunes and lyrics make it enjoyable to listen to over and over. Beware...It's addictive! I can't stop listening to it! A must have!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "kq0aL5kB-_PrFombs5nM",
+        "_score": 9.584736,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Gotta have Frente!",
+          "helpfulness_up": 2,
+          "productId": "B000004AVG",
+          "helpfulness_ratio": 1.0,
+          "title": "Labour of Love",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 922406400,
+          "text": "This is definately a good investment. The catchy tunes and lyrics make it enjoyable to listen to over and over. Beware...It's addictive! I can't stop listening to it! A must have!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "Xnv2LpkB-_PrFomb0DLC",
+        "_score": 9.584736,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "A Must Have",
+          "helpfulness_up": 1,
+          "productId": "B00008G1JO",
+          "helpfulness_ratio": 1.0,
+          "title": "I'm With Stupid",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 937267200,
+          "text": "&quot;I'm with Stupid&quot; is simply great. Catchy tunes, wonderful voice, not a single poor song on the album. One of the best records I bought recently.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "LHv2LpkB-_PrFomb0TO3",
+        "_score": 9.584736,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "A Must Have",
+          "helpfulness_up": 1,
+          "productId": "B00008G1JN",
+          "helpfulness_ratio": 1.0,
+          "title": "I'm With Stupid",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 937267200,
+          "text": "&quot;I'm with Stupid&quot; is simply great. Catchy tunes, wonderful voice, not a single poor song on the album. One of the best records I bought recently.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "gYH5LpkB-_PrFombzBOF",
+        "_score": 9.584736,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "After you get over Lovefool, this is a lovely CD",
+          "helpfulness_up": 1,
+          "productId": "B000001EP2",
+          "helpfulness_ratio": 1.0,
+          "title": "First Band on the Moon",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 898041600,
+          "text": "If you only want the song &quot;Lovefool&quot;, skip it because the rest of the album is quite different. However, it is a qreat album with catchy tunes and very enjoyable",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "j4H5LpkB-_PrFombzRXL",
+        "_score": 9.584736,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "After you get over Lovefool, this is a lovely CD",
+          "helpfulness_up": 1,
+          "productId": "B000001EP1",
+          "helpfulness_ratio": 1.0,
+          "title": "First Band on the Moon",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 898041600,
+          "text": "If you only want the song &quot;Lovefool&quot;, skip it because the rest of the album is quite different. However, it is a qreat album with catchy tunes and very enjoyable",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "MYv_LpkB-_PrFombW--n",
+        "_score": 9.584736,
+        "_source": {
+          "profileName": "Bryan B",
+          "summary": "Short-lived fun",
+          "helpfulness_up": 1,
+          "productId": "B0000UH74C",
+          "helpfulness_ratio": 1.0,
+          "title": "Stereo & God (Dig)",
+          "userId": "A2VDE77T96XYKD",
+          "score": 4.0,
+          "price": null,
+          "time": 1338249600,
+          "text": "Decent album with some catchy tunes. Theres a bit of Pixies with some Dandy Warhol in there. Sadly it's pretty short but it does leave you wanting more.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "JJYEL5kB-_PrFombNANQ",
+        "_score": 9.584736,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "A Must Have",
+          "helpfulness_up": 1,
+          "productId": "B000003TBW",
+          "helpfulness_ratio": 1.0,
+          "title": "I'm With Stupid",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 9.64,
+          "time": 937267200,
+          "text": "&quot;I'm with Stupid&quot; is simply great. Catchy tunes, wonderful voice, not a single poor song on the album. One of the best records I bought recently.",
+          "helpfulness_down": 0
+        }
+      }
+    ]
+  }
+}
