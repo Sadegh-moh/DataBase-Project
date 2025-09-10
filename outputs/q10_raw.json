@@ -1,0 +1,69 @@
+{
+  "took": 1848,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 587,
+      "relation": "eq"
+    },
+    "max_score": null,
+    "hits": []
+  },
+  "aggregations": {
+    "sample": {
+      "doc_count": 587,
+      "phrases": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 317239,
+        "buckets": [
+          {
+            "key": "_ album",
+            "doc_count": 352
+          },
+          {
+            "key": "album _",
+            "doc_count": 331
+          },
+          {
+            "key": "one _",
+            "doc_count": 280
+          },
+          {
+            "key": "_ emotional",
+            "doc_count": 261
+          },
+          {
+            "key": "_ i",
+            "doc_count": 260
+          },
+          {
+            "key": "_ album _",
+            "doc_count": 259
+          },
+          {
+            "key": "_ one",
+            "doc_count": 255
+          },
+          {
+            "key": "_ you",
+            "doc_count": 253
+          },
+          {
+            "key": "_ _ album",
+            "doc_count": 237
+          },
+          {
+            "key": "_ all",
+            "doc_count": 236
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "source": { "index": "amazon-music-reviews", "size": 5000 },
+  "dest":   { "index": "amazon-music-reviews-s20" },
+  "script": {
+    "lang": "painless",
+    "source": "int h=0; if (ctx._source.containsKey('userId') && ctx._source.userId!=null) { h = ctx._source.userId.toString().hashCode(); } else if (ctx._source.containsKey('productId') && ctx._source.productId!=null) { h = ctx._source.productId.toString().hashCode(); } int m = h % 5; if (m < 0) { m = -m; } if (m != 0) { ctx.op = 'noop'; }"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "took": 148,
+  "took": 160,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -12,7 +12,7 @@
     "hits": [
       {
         "_index": "amazon-music-reviews",
-        "_id": "FJgFL5kB-_PrFombhJhm",
+        "_id": "UuImNJkBLDnO6wEz5JH7",
         "_score": 17.345715,
         "_source": {
           "profileName": "jerseyred",
@@ -30,26 +30,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "NnPzLpkB-_PrFombMFN0",
-        "_score": 16.945086,
-        "_source": {
-          "profileName": "unknown",
-          "summary": "Inspiring",
-          "helpfulness_up": 3,
-          "productId": "B00002066I",
-          "helpfulness_ratio": 0.75,
-          "title": "ah",
-          "userId": "unknown",
-          "score": 5.0,
-          "price": 15.99,
-          "time": 939772800,
-          "text": "I hope a lot of people hear this cd. We need more strong and positive vibes like this. Great vocals, fresh tunes, cross-cultural happiness. Her blues is from the gut. The pop sounds are catchy and mature.",
-          "helpfulness_down": 1
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "0JECL5kB-_PrFombGpWk",
+        "_id": "DtsjNJkBLDnO6wEznI_g",
         "_score": 16.945086,
         "_source": {
           "profileName": "unknown",
@@ -68,7 +49,26 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "NIf8LpkB-_PrFomb2zEA",
+        "_id": "dL0SNJkBLDnO6wEzfkxx",
+        "_score": 16.945086,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Inspiring",
+          "helpfulness_up": 3,
+          "productId": "B00002066I",
+          "helpfulness_ratio": 0.75,
+          "title": "ah",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": 15.99,
+          "time": 939772800,
+          "text": "I hope a lot of people hear this cd. We need more strong and positive vibes like this. Great vocals, fresh tunes, cross-cultural happiness. Her blues is from the gut. The pop sounds are catchy and mature.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ctEcNJkBLDnO6wEzyyrl",
         "_score": 16.26425,
         "_source": {
           "profileName": "Andres Loyola Barberis",
@@ -87,7 +87,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "Nof8LpkB-_PrFomb2zIA",
+        "_id": "dNEcNJkBLDnO6wEzyyvl",
         "_score": 16.26425,
         "_source": {
           "profileName": "Andres Loyola Barberis",
@@ -106,7 +106,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "NY4AL5kB-_PrFombqeke",
+        "_id": "c9ghNJkBLDnO6wEzpeJy",
         "_score": 16.066643,
         "_source": {
           "profileName": "Finnegan'smom",
@@ -124,7 +124,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "644AL5kB-_PrFombqem-",
+        "_id": "KdghNJkBLDnO6wEzpuNy",
         "_score": 16.066643,
         "_source": {
           "profileName": "Finnegan'smom",
@@ -142,26 +142,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "wKoWL5kB-_PrFombSQlo",
-        "_score": 15.822214,
-        "_source": {
-          "profileName": "unknown",
-          "summary": "inspiring",
-          "helpfulness_up": 7,
-          "productId": "B00000DM0B",
-          "helpfulness_ratio": 1.0,
-          "title": "Twenty-Five",
-          "userId": "unknown",
-          "score": 5.0,
-          "price": null,
-          "time": 944524800,
-          "text": "sweet honey in the rock does it again with an uplifting , thought-provoking, inspiring, beautiful collection of music. i found the use of percussion on &quot;we are the ones&quot; and &quot;run&quot; to complement the beautiful vocals very nicely. these two and others such as &quot;sound bite from beijing&quot; and &quot;greed&quot; are refreshingly thought-provoking in a positive way compared to much &quot;popular&quot; music i have listened to. their version of bob marley's &quot;redemption song&quot; is also very impressive",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "T3b0LpkB-_PrFombzZlK",
+        "_id": "jcAUNJkBLDnO6wEzK5L4",
         "_score": 15.822214,
         "_source": {
           "profileName": "unknown",
@@ -180,7 +161,26 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "08czL5kB-_PrFomb0BNt",
+        "_id": "_vQvNJkBLDnO6wEzbQLZ",
+        "_score": 15.822214,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "inspiring",
+          "helpfulness_up": 7,
+          "productId": "B00000DM0B",
+          "helpfulness_ratio": 1.0,
+          "title": "Twenty-Five",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 944524800,
+          "text": "sweet honey in the rock does it again with an uplifting , thought-provoking, inspiring, beautiful collection of music. i found the use of percussion on &quot;we are the ones&quot; and &quot;run&quot; to complement the beautiful vocals very nicely. these two and others such as &quot;sound bite from beijing&quot; and &quot;greed&quot; are refreshingly thought-provoking in a positive way compared to much &quot;popular&quot; music i have listened to. their version of bob marley's &quot;redemption song&quot; is also very impressive",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ERE-NJkBLDnO6wEzIQ2c",
         "_score": 15.672971,
         "_source": {
           "profileName": "Catalina",
@@ -198,45 +198,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "f6ILL5kB-_PrFombgwAB",
-        "_score": 15.491227,
-        "_source": {
-          "profileName": "Dr. W. G. Covington, Jr.",
-          "summary": "Inspiring",
-          "helpfulness_up": 2,
-          "productId": "B000L0PPFO",
-          "helpfulness_ratio": 1.0,
-          "title": "More Than Wonderful",
-          "userId": "A1BMKEJ61X57EU",
-          "score": 5.0,
-          "price": null,
-          "time": 1113091200,
-          "text": "Sandi Patty has the gift of conveying a song's message in a truly inspiring way. To me some of the songs in this collection stand out more than others. For example, I listen to \"Upon This Rock\" and \"In His Love\" repeatedly.Since this CD was recorded live, there are stories and humorous excerpts. You can pick up on the audience's positive response to her live appearance. Sandy Patti sings with her whole being. Vocally she has an extremely wide volume range going from nearly a whisper to \"belting it out\" which you can hear on \"Upon This Rock.\" Overall this is an inspiring CD. It's full of good music.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "ErgmL5kB-_PrFombTV0D",
-        "_score": 15.491227,
-        "_source": {
-          "profileName": "Dr. W. G. Covington, Jr.",
-          "summary": "Inspiring",
-          "helpfulness_up": 2,
-          "productId": "B00000282W",
-          "helpfulness_ratio": 1.0,
-          "title": "More Than Wonderful",
-          "userId": "A1BMKEJ61X57EU",
-          "score": 5.0,
-          "price": null,
-          "time": 1113091200,
-          "text": "Sandi Patty has the gift of conveying a song's message in a truly inspiring way. To me some of the songs in this collection stand out more than others. For example, I listen to \"Upon This Rock\" and \"In His Love\" repeatedly.Since this CD was recorded live, there are stories and humorous excerpts. You can pick up on the audience's positive response to her live appearance. Sandy Patti sings with her whole being. Vocally she has an extremely wide volume range going from nearly a whisper to \"belting it out\" which you can hear on \"Upon This Rock.\" Overall this is an inspiring CD. It's full of good music.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "zoD5LpkB-_PrFombVyvd",
+        "_id": "DMoZNJkBLDnO6wEzZiUo",
         "_score": 15.491227,
         "_source": {
           "profileName": "Dr. W. G. Covington, Jr.",
@@ -255,7 +217,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "mJgFL5kB-_PrFombNxbS",
+        "_id": "1uImNJkBLDnO6wEzsg9P",
         "_score": 15.491227,
         "_source": {
           "profileName": "Dr. W. G. Covington, Jr.",
@@ -274,7 +236,45 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "i5sGL5kB-_PrFomb6SMZ",
+        "_id": "UAI2NJkBLDnO6wEzz1b5",
+        "_score": 15.491227,
+        "_source": {
+          "profileName": "Dr. W. G. Covington, Jr.",
+          "summary": "Inspiring",
+          "helpfulness_up": 2,
+          "productId": "B00000282W",
+          "helpfulness_ratio": 1.0,
+          "title": "More Than Wonderful",
+          "userId": "A1BMKEJ61X57EU",
+          "score": 5.0,
+          "price": null,
+          "time": 1113091200,
+          "text": "Sandi Patty has the gift of conveying a song's message in a truly inspiring way. To me some of the songs in this collection stand out more than others. For example, I listen to \"Upon This Rock\" and \"In His Love\" repeatedly.Since this CD was recorded live, there are stories and humorous excerpts. You can pick up on the audience's positive response to her live appearance. Sandy Patti sings with her whole being. Vocally she has an extremely wide volume range going from nearly a whisper to \"belting it out\" which you can hear on \"Upon This Rock.\" Overall this is an inspiring CD. It's full of good music.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "vesrNJkBLDnO6wEz2_m_",
+        "_score": 15.491227,
+        "_source": {
+          "profileName": "Dr. W. G. Covington, Jr.",
+          "summary": "Inspiring",
+          "helpfulness_up": 2,
+          "productId": "B000L0PPFO",
+          "helpfulness_ratio": 1.0,
+          "title": "More Than Wonderful",
+          "userId": "A1BMKEJ61X57EU",
+          "score": 5.0,
+          "price": null,
+          "time": 1113091200,
+          "text": "Sandi Patty has the gift of conveying a song's message in a truly inspiring way. To me some of the songs in this collection stand out more than others. For example, I listen to \"Upon This Rock\" and \"In His Love\" repeatedly.Since this CD was recorded live, there are stories and humorous excerpts. You can pick up on the audience's positive response to her live appearance. Sandy Patti sings with her whole being. Vocally she has an extremely wide volume range going from nearly a whisper to \"belting it out\" which you can hear on \"Upon This Rock.\" Overall this is an inspiring CD. It's full of good music.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "yeUoNJkBLDnO6wEzSxwi",
         "_score": 15.340605,
         "_source": {
           "profileName": "unknown",
@@ -293,7 +293,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "a4H6LpkB-_PrFombHqE1",
+        "_id": "qcsaNJkBLDnO6wEzLZoU",
         "_score": 15.340605,
         "_source": {
           "profileName": "unknown",
@@ -312,26 +312,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "Qoz_LpkB-_PrFombo64R",
-        "_score": 15.340605,
-        "_source": {
-          "profileName": "unknown",
-          "summary": "Soul Inspiring!",
-          "helpfulness_up": 4,
-          "productId": "B000005JN2",
-          "helpfulness_ratio": 0.8,
-          "title": "Cruel Crazy Beautiful World",
-          "userId": "unknown",
-          "score": 5.0,
-          "price": null,
-          "time": 921369600,
-          "text": "This is my favorite Johnny Clegg and Savuka album. The music and lyrics are soul inspiring and the rythyms will capture you immediately. When I play this album for people not familiar with Johnny Clegg, I always receive positive feedback. This CD ranks in my top-ten list!",
-          "helpfulness_down": 1
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "3KELL5kB-_PrFombZcDJ",
+        "_id": "GusrNJkBLDnO6wEzx7pA",
         "_score": 15.340605,
         "_source": {
           "profileName": "unknown",
@@ -350,7 +331,26 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "hZsHL5kB-_PrFombL66F",
+        "_id": "gNYgNJkBLDnO6wEzd6fv",
+        "_score": 15.340605,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "Soul Inspiring!",
+          "helpfulness_up": 4,
+          "productId": "B000005JN2",
+          "helpfulness_ratio": 0.8,
+          "title": "Cruel Crazy Beautiful World",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 921369600,
+          "text": "This is my favorite Johnny Clegg and Savuka album. The music and lyrics are soul inspiring and the rythyms will capture you immediately. When I play this album for people not familiar with Johnny Clegg, I always receive positive feedback. This CD ranks in my top-ten list!",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "w-UoNJkBLDnO6wEznqfJ",
         "_score": 15.224049,
         "_source": {
           "profileName": "Holly Succheralli",
@@ -368,7 +368,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "6LAeL5kB-_PrFombGwlO",
+        "_id": "JvoyNJkBLDnO6wEzfQP7",
         "_score": 15.002881,
         "_source": {
           "profileName": "Nym Puppy",
@@ -386,7 +386,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "WqoWL5kB-_PrFomb3clV",
+        "_id": "mPQvNJkBLDnO6wEz1sIu",
         "_score": 14.932478,
         "_source": {
           "profileName": "unknown",
@@ -404,7 +404,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "3qEKL5kB-_PrFombZ2LP",
+        "_id": "HOsrNJkBLDnO6wEzqFyB",
         "_score": 14.666035,
         "_source": {
           "profileName": "Keith Mikell",
@@ -423,7 +423,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "crooL5kB-_PrFombN9Oj",
+        "_id": "sAQ3NJkBLDnO6wEz_swt",
         "_score": 14.541244,
         "_source": {
           "profileName": "Michael Timothy \"Author Healing Reflections f...",
@@ -441,7 +441,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "uMYzL5kB-_PrFombZFSs",
+        "_id": "9hA9NJkBLDnO6wEzxE3w",
         "_score": 14.306812,
         "_source": {
           "profileName": "Robert Seger \"Christian Dad\"",
@@ -459,7 +459,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "c7clL5kB-_PrFombo5KK",
+        "_id": "sQE2NJkBLDnO6wEzX4vT",
         "_score": 13.890617,
         "_source": {
           "profileName": "Pat in WI",
@@ -477,7 +477,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "4LclL5kB-_PrFombpZUu",
+        "_id": "HgE2NJkBLDnO6wEzYY8O",
         "_score": 13.890617,
         "_source": {
           "profileName": "Pat in WI",
@@ -495,7 +495,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "MYL6LpkB-_PrFombrpsl",
+        "_id": "b8waNJkBLDnO6wEznZRi",
         "_score": 13.8027115,
         "_source": {
           "profileName": "Spindle",
@@ -514,7 +514,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "AHv2LpkB-_PrFomb4WG5",
+        "_id": "PsUWNJkBLDnO6wEz0Vr4",
         "_score": 13.705051,
         "_source": {
           "profileName": "Samara Lima Menezes \"Fernando\"",
@@ -533,7 +533,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "CLooL5kB-_PrFombJKV2",
+        "_id": "RgQ3NJkBLDnO6wEzzJ5M",
         "_score": 13.61031,
         "_source": {
           "profileName": "S. Beeck",
@@ -552,7 +552,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "43r2LpkB-_PrFombUAFo",
+        "_id": "IcMVNJkBLDnO6wEz7PvC",
         "_score": 13.607924,
         "_source": {
           "profileName": "S. Mills",
@@ -570,7 +570,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "OcIvL5kB-_PrFomby0Ke",
+        "_id": "dww7NJkBLDnO6wEz2DuM",
         "_score": 13.607924,
         "_source": {
           "profileName": "S. Mills",
@@ -588,83 +588,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "MrMiL5kB-_PrFombPoNZ",
-        "_score": 13.532415,
-        "_source": {
-          "profileName": "Rodrigo Medina",
-          "summary": "inspiring songs",
-          "helpfulness_up": 1,
-          "productId": "B00005R1Q6",
-          "helpfulness_ratio": 1.0,
-          "title": "This Way [Vinyl]",
-          "userId": "A1CGF9EUDEUQJA",
-          "score": 4.0,
-          "price": null,
-          "time": 1006646400,
-          "text": "Jewel is a great artist because she is so sensetive and always express her feelings through songs. Listening to any Jewel CD is always an interesting experience, because you have the impression that in each song you know her better. &quot;This way&quot; is CD with a positive message, pop songs and folk music, which is the best she does. The first single &quot;standing still&quot; is great and surely is being pushed by the excellent video, in which jewel tries to find the club she'll be playing in a small town. I also liked &quot;Do you want to play?&quot;, a pop song with the potential to become an upcoming single. The live tracks are good, and very intimate. If you bought jewel previous CDs, this is one that you must have in your collection.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "U7MiL5kB-_PrFombP4VH",
-        "_score": 13.532415,
-        "_source": {
-          "profileName": "Rodrigo Medina",
-          "summary": "inspiring songs",
-          "helpfulness_up": 1,
-          "productId": "B00005R1Q7",
-          "helpfulness_ratio": 1.0,
-          "title": "This Way",
-          "userId": "A1CGF9EUDEUQJA",
-          "score": 4.0,
-          "price": null,
-          "time": 1006646400,
-          "text": "Jewel is a great artist because she is so sensetive and always express her feelings through songs. Listening to any Jewel CD is always an interesting experience, because you have the impression that in each song you know her better. &quot;This way&quot; is CD with a positive message, pop songs and folk music, which is the best she does. The first single &quot;standing still&quot; is great and surely is being pushed by the excellent video, in which jewel tries to find the club she'll be playing in a small town. I also liked &quot;Do you want to play?&quot;, a pop song with the potential to become an upcoming single. The live tracks are good, and very intimate. If you bought jewel previous CDs, this is one that you must have in your collection.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "CZsHL5kB-_PrFombXu9L",
-        "_score": 13.532415,
-        "_source": {
-          "profileName": "Rodrigo Medina",
-          "summary": "inspiring songs",
-          "helpfulness_up": 1,
-          "productId": "B00005QDVS",
-          "helpfulness_ratio": 1.0,
-          "title": "This Way",
-          "userId": "A1CGF9EUDEUQJA",
-          "score": 4.0,
-          "price": null,
-          "time": 1006646400,
-          "text": "Jewel is a great artist because she is so sensetive and always express her feelings through songs. Listening to any Jewel CD is always an interesting experience, because you have the impression that in each song you know her better. &quot;This way&quot; is CD with a positive message, pop songs and folk music, which is the best she does. The first single &quot;standing still&quot; is great and surely is being pushed by the excellent video, in which jewel tries to find the club she'll be playing in a small town. I also liked &quot;Do you want to play?&quot;, a pop song with the potential to become an upcoming single. The live tracks are good, and very intimate. If you bought jewel previous CDs, this is one that you must have in your collection.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "qpMCL5kB-_PrFomb_fW2",
-        "_score": 13.532415,
-        "_source": {
-          "profileName": "Rodrigo Medina",
-          "summary": "inspiring songs",
-          "helpfulness_up": 1,
-          "productId": "B00005U2JW",
-          "helpfulness_ratio": 1.0,
-          "title": "This Way",
-          "userId": "A1CGF9EUDEUQJA",
-          "score": 4.0,
-          "price": null,
-          "time": 1006646400,
-          "text": "Jewel is a great artist because she is so sensetive and always express her feelings through songs. Listening to any Jewel CD is always an interesting experience, because you have the impression that in each song you know her better. &quot;This way&quot; is CD with a positive message, pop songs and folk music, which is the best she does. The first single &quot;standing still&quot; is great and surely is being pushed by the excellent video, in which jewel tries to find the club she'll be playing in a small town. I also liked &quot;Do you want to play?&quot;, a pop song with the potential to become an upcoming single. The live tracks are good, and very intimate. If you bought jewel previous CDs, this is one that you must have in your collection.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "HI8BL5kB-_PrFombGpcL",
+        "_id": "WtkiNJkBLDnO6wEzKpCG",
         "_score": 13.532415,
         "_source": {
           "profileName": "Rodrigo Medina",
@@ -683,7 +607,83 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "cL0rL5kB-_PrFombtZgL",
+        "_id": "cP00NJkBLDnO6wEzInw1",
+        "_score": 13.532415,
+        "_source": {
+          "profileName": "Rodrigo Medina",
+          "summary": "inspiring songs",
+          "helpfulness_up": 1,
+          "productId": "B00005R1Q6",
+          "helpfulness_ratio": 1.0,
+          "title": "This Way [Vinyl]",
+          "userId": "A1CGF9EUDEUQJA",
+          "score": 4.0,
+          "price": null,
+          "time": 1006646400,
+          "text": "Jewel is a great artist because she is so sensetive and always express her feelings through songs. Listening to any Jewel CD is always an interesting experience, because you have the impression that in each song you know her better. &quot;This way&quot; is CD with a positive message, pop songs and folk music, which is the best she does. The first single &quot;standing still&quot; is great and surely is being pushed by the excellent video, in which jewel tries to find the club she'll be playing in a small town. I also liked &quot;Do you want to play?&quot;, a pop song with the potential to become an upcoming single. The live tracks are good, and very intimate. If you bought jewel previous CDs, this is one that you must have in your collection.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "kf00NJkBLDnO6wEzIn7M",
+        "_score": 13.532415,
+        "_source": {
+          "profileName": "Rodrigo Medina",
+          "summary": "inspiring songs",
+          "helpfulness_up": 1,
+          "productId": "B00005R1Q7",
+          "helpfulness_ratio": 1.0,
+          "title": "This Way",
+          "userId": "A1CGF9EUDEUQJA",
+          "score": 4.0,
+          "price": null,
+          "time": 1006646400,
+          "text": "Jewel is a great artist because she is so sensetive and always express her feelings through songs. Listening to any Jewel CD is always an interesting experience, because you have the impression that in each song you know her better. &quot;This way&quot; is CD with a positive message, pop songs and folk music, which is the best she does. The first single &quot;standing still&quot; is great and surely is being pushed by the excellent video, in which jewel tries to find the club she'll be playing in a small town. I also liked &quot;Do you want to play?&quot;, a pop song with the potential to become an upcoming single. The live tracks are good, and very intimate. If you bought jewel previous CDs, this is one that you must have in your collection.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "R-UoNJkBLDnO6wEztugR",
+        "_score": 13.532415,
+        "_source": {
+          "profileName": "Rodrigo Medina",
+          "summary": "inspiring songs",
+          "helpfulness_up": 1,
+          "productId": "B00005QDVS",
+          "helpfulness_ratio": 1.0,
+          "title": "This Way",
+          "userId": "A1CGF9EUDEUQJA",
+          "score": 4.0,
+          "price": null,
+          "time": 1006646400,
+          "text": "Jewel is a great artist because she is so sensetive and always express her feelings through songs. Listening to any Jewel CD is always an interesting experience, because you have the impression that in each song you know her better. &quot;This way&quot; is CD with a positive message, pop songs and folk music, which is the best she does. The first single &quot;standing still&quot; is great and surely is being pushed by the excellent video, in which jewel tries to find the club she'll be playing in a small town. I also liked &quot;Do you want to play?&quot;, a pop song with the potential to become an upcoming single. The live tracks are good, and very intimate. If you bought jewel previous CDs, this is one that you must have in your collection.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "6N0kNJkBLDnO6wEz7O6a",
+        "_score": 13.532415,
+        "_source": {
+          "profileName": "Rodrigo Medina",
+          "summary": "inspiring songs",
+          "helpfulness_up": 1,
+          "productId": "B00005U2JW",
+          "helpfulness_ratio": 1.0,
+          "title": "This Way",
+          "userId": "A1CGF9EUDEUQJA",
+          "score": 4.0,
+          "price": null,
+          "time": 1006646400,
+          "text": "Jewel is a great artist because she is so sensetive and always express her feelings through songs. Listening to any Jewel CD is always an interesting experience, because you have the impression that in each song you know her better. &quot;This way&quot; is CD with a positive message, pop songs and folk music, which is the best she does. The first single &quot;standing still&quot; is great and surely is being pushed by the excellent video, in which jewel tries to find the club she'll be playing in a small town. I also liked &quot;Do you want to play?&quot;, a pop song with the potential to become an upcoming single. The live tracks are good, and very intimate. If you bought jewel previous CDs, this is one that you must have in your collection.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "rgc5NJkBLDnO6wEzapFC",
         "_score": 13.448214,
         "_source": {
           "profileName": "unknown",
@@ -702,26 +702,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "aqoWL5kB-_PrFombTRP7",
-        "_score": 13.371401,
-        "_source": {
-          "profileName": "Maxim",
-          "summary": "Awe-Inspiring",
-          "helpfulness_up": 1,
-          "productId": "B0000031PF",
-          "helpfulness_ratio": 1.0,
-          "title": "Koln Concert",
-          "userId": "A2Z600CXLG91Q1",
-          "score": 5.0,
-          "price": null,
-          "time": 1209945600,
-          "text": "Here's a suggestion. To fully appreciate this CD, don't slot it into your car's CD player unless you have a really good sound system and you can blast it with your windows closed. Alternatively, pick a quiet period of day, undisturbed by extraneous noises. It also helps to raise the volume. That way you can get the full effect of this extraordinary effort.Non-music worshipers often wonder if you'd buy a CD just for one song. Well, this CD you could buy just for one note. One note on any of the four songs. It's that good. A good example is between 1:30 and 2:00 on part 1.It doesn't get better than this, folks. Now I see why this CD garners so many positive comments. I don't know much about musical instruments to break this down. But if you are a jazz lover, you must have this CD.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "AHj1LpkB-_PrFombr7qp",
+        "_id": "PsIVNJkBLDnO6wEzObNZ",
         "_score": 13.371401,
         "_source": {
           "profileName": "Maxim",
@@ -740,26 +721,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "0HTzLpkB-_PrFombwWhb",
-        "_score": 13.371401,
-        "_source": {
-          "profileName": "Maxim",
-          "summary": "Awe-Inspiring",
-          "helpfulness_up": 1,
-          "productId": "B00000ERO9",
-          "helpfulness_ratio": 1.0,
-          "title": "Koln Concert",
-          "userId": "A2Z600CXLG91Q1",
-          "score": 5.0,
-          "price": null,
-          "time": 1209945600,
-          "text": "Here's a suggestion. To fully appreciate this CD, don't slot it into your car's CD player unless you have a really good sound system and you can blast it with your windows closed. Alternatively, pick a quiet period of day, undisturbed by extraneous noises. It also helps to raise the volume. That way you can get the full effect of this extraordinary effort.Non-music worshipers often wonder if you'd buy a CD just for one song. Well, this CD you could buy just for one note. One note on any of the four songs. It's that good. A good example is between 1:30 and 2:00 on part 1.It doesn't get better than this, folks. Now I see why this CD garners so many positive comments. I don't know much about musical instruments to break this down. But if you are a jazz lover, you must have this CD.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "goj9LpkB-_PrFombyvjK",
+        "_id": "wNIdNJkBLDnO6wEz_vE_",
         "_score": 13.371401,
         "_source": {
           "profileName": "Maxim",
@@ -778,7 +740,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "wJYEL5kB-_PrFombPiDn",
+        "_id": "_uAmNJkBLDnO6wEzAhnu",
         "_score": 13.371401,
         "_source": {
           "profileName": "Maxim",
@@ -797,26 +759,45 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "SLUjL5kB-_PrFomb6QVq",
-        "_score": 13.079842,
+        "_id": "Dr4SNJkBLDnO6wEz-mId",
+        "_score": 13.371401,
         "_source": {
-          "profileName": "\"srbrooker\"",
-          "summary": "Absolutely inspiring",
-          "helpfulness_up": 3,
-          "productId": "B00000EKKC",
+          "profileName": "Maxim",
+          "summary": "Awe-Inspiring",
+          "helpfulness_up": 1,
+          "productId": "B00000ERO9",
           "helpfulness_ratio": 1.0,
-          "title": "Proximity Effect",
-          "userId": "AYG7VCQR732T8",
+          "title": "Koln Concert",
+          "userId": "A2Z600CXLG91Q1",
           "score": 5.0,
           "price": null,
-          "time": 991872000,
-          "text": "...Appartantly it did get released in Australia, but it was hard to find in New Zealand, where I'm from...There is not a bad track from start to finish (I have the 13 track version, with no bonus tracks). The album kicks off with the singalongable \"hyperspace\", and if this song doesn't make you feel good then I'd say you need councilling. Next comes \"amatuer\", a very positive song that might even make the more sentimental listener cry with it's soaring chorus \"I know I'm just an amatuer, but I gotta try\". Other highlights include \"Mother's Day\" an absolutely brillant and chilling song about the world's hatred of rapists. \"80 Windows\" is a beautiful account of a lonely man in a lonely world of his own creation. The album closes with two brilliant, emotional songs. Slow down has one of the catchiest verses that I've heard in a long time, and Robot, well, you have to listen to it to believe it. Nuff said, this is an awesome album from a little known band, let's hope they get the success they deserve.",
+          "time": 1209945600,
+          "text": "Here's a suggestion. To fully appreciate this CD, don't slot it into your car's CD player unless you have a really good sound system and you can blast it with your windows closed. Alternatively, pick a quiet period of day, undisturbed by extraneous noises. It also helps to raise the volume. That way you can get the full effect of this extraordinary effort.Non-music worshipers often wonder if you'd buy a CD just for one song. Well, this CD you could buy just for one note. One note on any of the four songs. It's that good. A good example is between 1:30 and 2:00 on part 1.It doesn't get better than this, folks. Now I see why this CD garners so many positive comments. I don't know much about musical instruments to break this down. But if you are a jazz lover, you must have this CD.",
           "helpfulness_down": 0
         }
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "C3r2LpkB-_PrFombdlra",
+        "_id": "qPQvNJkBLDnO6wEzcAzG",
+        "_score": 13.371401,
+        "_source": {
+          "profileName": "Maxim",
+          "summary": "Awe-Inspiring",
+          "helpfulness_up": 1,
+          "productId": "B0000031PF",
+          "helpfulness_ratio": 1.0,
+          "title": "Koln Concert",
+          "userId": "A2Z600CXLG91Q1",
+          "score": 5.0,
+          "price": null,
+          "time": 1209945600,
+          "text": "Here's a suggestion. To fully appreciate this CD, don't slot it into your car's CD player unless you have a really good sound system and you can blast it with your windows closed. Alternatively, pick a quiet period of day, undisturbed by extraneous noises. It also helps to raise the volume. That way you can get the full effect of this extraordinary effort.Non-music worshipers often wonder if you'd buy a CD just for one song. Well, this CD you could buy just for one note. One note on any of the four songs. It's that good. A good example is between 1:30 and 2:00 on part 1.It doesn't get better than this, folks. Now I see why this CD garners so many positive comments. I don't know much about musical instruments to break this down. But if you are a jazz lover, you must have this CD.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "ScQWNJkBLDnO6wEzRlPz",
         "_score": 13.079842,
         "_source": {
           "profileName": "\"srbrooker\"",
@@ -835,7 +816,26 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "f5oGL5kB-_PrFombsrEl",
+        "_id": "hv40NJkBLDnO6wEz5v5c",
+        "_score": 13.079842,
+        "_source": {
+          "profileName": "\"srbrooker\"",
+          "summary": "Absolutely inspiring",
+          "helpfulness_up": 3,
+          "productId": "B00000EKKC",
+          "helpfulness_ratio": 1.0,
+          "title": "Proximity Effect",
+          "userId": "AYG7VCQR732T8",
+          "score": 5.0,
+          "price": null,
+          "time": 991872000,
+          "text": "...Appartantly it did get released in Australia, but it was hard to find in New Zealand, where I'm from...There is not a bad track from start to finish (I have the 13 track version, with no bonus tracks). The album kicks off with the singalongable \"hyperspace\", and if this song doesn't make you feel good then I'd say you need councilling. Next comes \"amatuer\", a very positive song that might even make the more sentimental listener cry with it's soaring chorus \"I know I'm just an amatuer, but I gotta try\". Other highlights include \"Mother's Day\" an absolutely brillant and chilling song about the world's hatred of rapists. \"80 Windows\" is a beautiful account of a lonely man in a lonely world of his own creation. The album closes with two brilliant, emotional songs. Slow down has one of the catchiest verses that I've heard in a long time, and Robot, well, you have to listen to it to believe it. Nuff said, this is an awesome album from a little known band, let's hope they get the success they deserve.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "veQoNJkBLDnO6wEzHKoG",
         "_score": 12.859107,
         "_source": {
           "profileName": "DOYIN deedoyin@hotmail.com",
@@ -854,7 +854,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "g5oGL5kB-_PrFombsrEl",
+        "_id": "weQoNJkBLDnO6wEzHKoG",
         "_score": 12.859107,
         "_source": {
           "profileName": "unknown",
@@ -872,7 +872,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "RsMxL5kB-_PrFombRTqf",
+        "_id": "hA08NJkBLDnO6wEzbjMC",
         "_score": 12.859107,
         "_source": {
           "profileName": "DOYIN deedoyin@hotmail.com",
@@ -891,7 +891,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "SsMxL5kB-_PrFombRjpP",
+        "_id": "iA08NJkBLDnO6wEzbjOj",
         "_score": 12.859107,
         "_source": {
           "profileName": "unknown",
@@ -909,7 +909,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "RYn9LpkB-_PrFomb4AJq",
+        "_id": "g9IeNJkBLDnO6wEzAfs2",
         "_score": 12.648852,
         "_source": {
           "profileName": "maya long",
@@ -928,7 +928,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "-4D5LpkB-_PrFombkJpd",
+        "_id": "OcoZNJkBLDnO6wEzq5Tr",
         "_score": 12.5947075,
         "_source": {
           "profileName": "Karen Loo.",
@@ -947,7 +947,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "RKAJL5kB-_PrFombXCof",
+        "_id": "guoqNJkBLDnO6wEz9CMq",
         "_score": 12.517869,
         "_source": {
           "profileName": "lynnchampion@excite.com",
@@ -966,7 +966,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "aKAJL5kB-_PrFombXCof",
+        "_id": "puoqNJkBLDnO6wEz9CMq",
         "_score": 12.517869,
         "_source": {
           "profileName": "lynnchampion@excite.com",
@@ -985,25 +985,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "Qq8cL5kB-_PrFombxQvV",
-        "_score": 11.8600445,
-        "_source": {
-          "profileName": "nelly@oz.net",
-          "summary": "Very touching &amp; inspiring song...",
-          "helpfulness_up": 0,
-          "productId": "B00000IM03",
-          "title": "Please Remember Me",
-          "userId": "A1LERN1ZPQ3KM2",
-          "score": 5.0,
-          "price": 9.97,
-          "time": 926467200,
-          "text": "The song &quot;Please Remember me&quot; is beautifully written and composed. Tim's way of wrapping his sweet voice around melodies hits the heart and soul. Whenever I'm feeling uncertain or down in my marriage and hear this song it makes me take into consideration all that is good and positive in my relationship and look at things in a new light. It makes me realize how easy it is to take love for granted. I can hear this song and fall in love with my husband all over again.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "EJEBL5kB-_PrFomb1gZX",
+        "_id": "TtojNJkBLDnO6wEzOv-2",
         "_score": 11.8600445,
         "_source": {
           "profileName": "nelly@oz.net",
@@ -1021,45 +1003,25 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "iLooL5kB-_PrFombL8Pk",
-        "_score": 11.81266,
+        "_id": "gPkyNJkBLDnO6wEzAATQ",
+        "_score": 11.8600445,
         "_source": {
-          "profileName": "unknown",
-          "summary": "THE MOST INSPIRING! GOOD ADVICE",
-          "helpfulness_up": 1,
-          "productId": "B000006OAZ",
-          "helpfulness_ratio": 1.0,
-          "title": "Never Say Never [Vinyl]",
-          "userId": "unknown",
+          "profileName": "nelly@oz.net",
+          "summary": "Very touching &amp; inspiring song...",
+          "helpfulness_up": 0,
+          "productId": "B00000IM03",
+          "title": "Please Remember Me",
+          "userId": "A1LERN1ZPQ3KM2",
           "score": 5.0,
-          "price": null,
-          "time": 933033600,
-          "text": "I want to take this time to tell Brandy what an all around person she is. Not only is she inspiring but her music is as well. The feelings that are expressed on the album&quot;Never Say Never&quot;, are real life situations that most of them I can relate to. My favorite songs on the album are &quot;Truthfully, Put That on Everything, Almost Doesn't Count, and last but mot least, Have You Ever&quot;. These songs are really touchy. And they really do make you think. This is just about the only album that I can play songs back to back. Brandy you are my idle, my mentor. You inspire me the most. You guide in a positive direction. Keep up the good work girl.",
+          "price": 9.97,
+          "time": 926467200,
+          "text": "The song &quot;Please Remember me&quot; is beautifully written and composed. Tim's way of wrapping his sweet voice around melodies hits the heart and soul. Whenever I'm feeling uncertain or down in my marriage and hear this song it makes me take into consideration all that is good and positive in my relationship and look at things in a new light. It makes me realize how easy it is to take love for granted. I can hear this song and fall in love with my husband all over again.",
           "helpfulness_down": 0
         }
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "O7ooL5kB-_PrFombNMyr",
-        "_score": 11.81266,
-        "_source": {
-          "profileName": "unknown",
-          "summary": "THE MOST INSPIRING! GOOD ADVICE",
-          "helpfulness_up": 1,
-          "productId": "B000006OB1",
-          "helpfulness_ratio": 1.0,
-          "title": "Never Say Never",
-          "userId": "unknown",
-          "score": 5.0,
-          "price": null,
-          "time": 933033600,
-          "text": "I want to take this time to tell Brandy what an all around person she is. Not only is she inspiring but her music is as well. The feelings that are expressed on the album&quot;Never Say Never&quot;, are real life situations that most of them I can relate to. My favorite songs on the album are &quot;Truthfully, Put That on Everything, Almost Doesn't Count, and last but mot least, Have You Ever&quot;. These songs are really touchy. And they really do make you think. This is just about the only album that I can play songs back to back. Brandy you are my idle, my mentor. You inspire me the most. You guide in a positive direction. Keep up the good work girl.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "saQNL5kB-_PrFomb3JP3",
+        "_id": "7-4sNJkBLDnO6wEz6Iyw",
         "_score": 11.81266,
         "_source": {
           "profileName": "unknown",
@@ -1078,7 +1040,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "SXz3LpkB-_PrFombHxbY",
+        "_id": "h8YXNJkBLDnO6wEzNw-q",
         "_score": 11.81266,
         "_source": {
           "profileName": "unknown",
@@ -1097,7 +1059,45 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "f6cRL5kB-_PrFombymDf",
+        "_id": "xgQ3NJkBLDnO6wEz-bxr",
+        "_score": 11.81266,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "THE MOST INSPIRING! GOOD ADVICE",
+          "helpfulness_up": 1,
+          "productId": "B000006OAZ",
+          "helpfulness_ratio": 1.0,
+          "title": "Never Say Never [Vinyl]",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 933033600,
+          "text": "I want to take this time to tell Brandy what an all around person she is. Not only is she inspiring but her music is as well. The feelings that are expressed on the album&quot;Never Say Never&quot;, are real life situations that most of them I can relate to. My favorite songs on the album are &quot;Truthfully, Put That on Everything, Almost Doesn't Count, and last but mot least, Have You Ever&quot;. These songs are really touchy. And they really do make you think. This is just about the only album that I can play songs back to back. Brandy you are my idle, my mentor. You inspire me the most. You guide in a positive direction. Keep up the good work girl.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "eQQ3NJkBLDnO6wEz_MVj",
+        "_score": 11.81266,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "THE MOST INSPIRING! GOOD ADVICE",
+          "helpfulness_up": 1,
+          "productId": "B000006OB1",
+          "helpfulness_ratio": 1.0,
+          "title": "Never Say Never",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 933033600,
+          "text": "I want to take this time to tell Brandy what an all around person she is. Not only is she inspiring but her music is as well. The feelings that are expressed on the album&quot;Never Say Never&quot;, are real life situations that most of them I can relate to. My favorite songs on the album are &quot;Truthfully, Put That on Everything, Almost Doesn't Count, and last but mot least, Have You Ever&quot;. These songs are really touchy. And they really do make you think. This is just about the only album that I can play songs back to back. Brandy you are my idle, my mentor. You inspire me the most. You guide in a positive direction. Keep up the good work girl.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "vfEuNJkBLDnO6wEzIlmM",
         "_score": 11.7533655,
         "_source": {
           "profileName": "Andre S. Grindle \"Andre' Grindle\"",
@@ -1115,7 +1115,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "LawYL5kB-_PrFomb1S-8",
+        "_id": "a_YwNJkBLDnO6wEzeSjj",
         "_score": 11.7533655,
         "_source": {
           "profileName": "Andre S. Grindle \"Andre' Grindle\"",
@@ -1133,7 +1133,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "EqwYL5kB-_PrFomb1zDR",
+        "_id": "UPYwNJkBLDnO6wEzeimo",
         "_score": 11.7533655,
         "_source": {
           "profileName": "Andre S. Grindle \"Andre' Grindle\"",
@@ -1151,7 +1151,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "VLQjL5kB-_PrFombXzZe",
+        "_id": "kv40NJkBLDnO6wEzfi9c",
         "_score": 11.533777,
         "_source": {
           "profileName": "Charles R Gigante",
@@ -1169,43 +1169,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "uqMML5kB-_PrFombMxGl",
-        "_score": 11.146386,
-        "_source": {
-          "profileName": "unknown",
-          "summary": "This is an inspiring cd single!",
-          "helpfulness_up": 0,
-          "productId": "B000BRHURS",
-          "title": "Lonely One",
-          "userId": "unknown",
-          "score": 5.0,
-          "price": null,
-          "time": 986601600,
-          "text": "&quot;The Lonely One&quot; is an excellent cd single which is not just pleasurable but a gift as well. The song and music video are both excellent tools in helping a lonely person realize that they are not alone and that they too can be successful in learning how to cope with the problem and lead a productive life. The song is about a young person who is all alone, lacking the necessary friends and relationships which are crucially vital in helping young people thrive and prosper. When a person is battling loneliness, they may feel all alone and think that they are the only person in the world with the problem. However, the repetitive lyrics, &quot;You don't have to be the lonely one&quot; send a positive message informing us that although we may FEEL alone, we are NOT alone, that there are other people, in fact, many people who are dealing with the problem and share the same feelings. The lyrics are telling us that we do not, in fact, have to be the lonely one. That there is something we can do about it. That we don't have to let it control us, that it is able to be coped with successfully. That makes us stronger and thus more confident. It helps us realize that in time, we will find the friends or relationships we are looking for and realistically, they could very well have the same feelings of loneliness. That's also what the lyrics mean, that we don't have to be lonely because there are other people out in this world who are also looking for the right person and have the same feelings. Realizing this, gives us comfort. I would HIGHLY recommend this cd single because it is not only an excellent dance song, but is a weapon as well.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "YLUkL5kB-_PrFombIlUL",
-        "_score": 11.146386,
-        "_source": {
-          "profileName": "unknown",
-          "summary": "This is an inspiring cd single!",
-          "helpfulness_up": 0,
-          "productId": "B0000504CS",
-          "title": "Lonely One",
-          "userId": "unknown",
-          "score": 5.0,
-          "price": null,
-          "time": 986601600,
-          "text": "&quot;The Lonely One&quot; is an excellent cd single which is not just pleasurable but a gift as well. The song and music video are both excellent tools in helping a lonely person realize that they are not alone and that they too can be successful in learning how to cope with the problem and lead a productive life. The song is about a young person who is all alone, lacking the necessary friends and relationships which are crucially vital in helping young people thrive and prosper. When a person is battling loneliness, they may feel all alone and think that they are the only person in the world with the problem. However, the repetitive lyrics, &quot;You don't have to be the lonely one&quot; send a positive message informing us that although we may FEEL alone, we are NOT alone, that there are other people, in fact, many people who are dealing with the problem and share the same feelings. The lyrics are telling us that we do not, in fact, have to be the lonely one. That there is something we can do about it. That we don't have to let it control us, that it is able to be coped with successfully. That makes us stronger and thus more confident. It helps us realize that in time, we will find the friends or relationships we are looking for and realistically, they could very well have the same feelings of loneliness. That's also what the lyrics mean, that we don't have to be lonely because there are other people out in this world who are also looking for the right person and have the same feelings. Realizing this, gives us comfort. I would HIGHLY recommend this cd single because it is not only an excellent dance song, but is a weapon as well.",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "yZABL5kB-_PrFombxtnJ",
+        "_id": "B9ojNJkBLDnO6wEzJ9Nl",
         "_score": 11.146386,
         "_source": {
           "profileName": "unknown",
@@ -1223,7 +1187,43 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "Y4v_LpkB-_PrFombOLem",
+        "_id": "nv81NJkBLDnO6wEziU55",
+        "_score": 11.146386,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "This is an inspiring cd single!",
+          "helpfulness_up": 0,
+          "productId": "B0000504CS",
+          "title": "Lonely One",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 986601600,
+          "text": "&quot;The Lonely One&quot; is an excellent cd single which is not just pleasurable but a gift as well. The song and music video are both excellent tools in helping a lonely person realize that they are not alone and that they too can be successful in learning how to cope with the problem and lead a productive life. The song is about a young person who is all alone, lacking the necessary friends and relationships which are crucially vital in helping young people thrive and prosper. When a person is battling loneliness, they may feel all alone and think that they are the only person in the world with the problem. However, the repetitive lyrics, &quot;You don't have to be the lonely one&quot; send a positive message informing us that although we may FEEL alone, we are NOT alone, that there are other people, in fact, many people who are dealing with the problem and share the same feelings. The lyrics are telling us that we do not, in fact, have to be the lonely one. That there is something we can do about it. That we don't have to let it control us, that it is able to be coped with successfully. That makes us stronger and thus more confident. It helps us realize that in time, we will find the friends or relationships we are looking for and realistically, they could very well have the same feelings of loneliness. That's also what the lyrics mean, that we don't have to be lonely because there are other people out in this world who are also looking for the right person and have the same feelings. Realizing this, gives us comfort. I would HIGHLY recommend this cd single because it is not only an excellent dance song, but is a weapon as well.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "-O0sNJkBLDnO6wEzNQqY",
+        "_score": 11.146386,
+        "_source": {
+          "profileName": "unknown",
+          "summary": "This is an inspiring cd single!",
+          "helpfulness_up": 0,
+          "productId": "B000BRHURS",
+          "title": "Lonely One",
+          "userId": "unknown",
+          "score": 5.0,
+          "price": null,
+          "time": 986601600,
+          "text": "&quot;The Lonely One&quot; is an excellent cd single which is not just pleasurable but a gift as well. The song and music video are both excellent tools in helping a lonely person realize that they are not alone and that they too can be successful in learning how to cope with the problem and lead a productive life. The song is about a young person who is all alone, lacking the necessary friends and relationships which are crucially vital in helping young people thrive and prosper. When a person is battling loneliness, they may feel all alone and think that they are the only person in the world with the problem. However, the repetitive lyrics, &quot;You don't have to be the lonely one&quot; send a positive message informing us that although we may FEEL alone, we are NOT alone, that there are other people, in fact, many people who are dealing with the problem and share the same feelings. The lyrics are telling us that we do not, in fact, have to be the lonely one. That there is something we can do about it. That we don't have to let it control us, that it is able to be coped with successfully. That makes us stronger and thus more confident. It helps us realize that in time, we will find the friends or relationships we are looking for and realistically, they could very well have the same feelings of loneliness. That's also what the lyrics mean, that we don't have to be lonely because there are other people out in this world who are also looking for the right person and have the same feelings. Realizing this, gives us comfort. I would HIGHLY recommend this cd single because it is not only an excellent dance song, but is a weapon as well.",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "odUgNJkBLDnO6wEzGbBp",
         "_score": 11.084838,
         "_source": {
           "profileName": "raised12th",
@@ -1242,7 +1242,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "MtQ-L5kB-_PrFombnZWw",
+        "_id": "cB5FNJkBLDnO6wEzBY7R",
         "_score": 11.084838,
         "_source": {
           "profileName": "raised12th",
@@ -1261,7 +1261,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "J3j1LpkB-_PrFomb0v3j",
+        "_id": "ZcIVNJkBLDnO6wEzYvaG",
         "_score": 10.9304905,
         "_source": {
           "profileName": "M. White",
@@ -1279,7 +1279,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "W3j1LpkB-_PrFomb0v3j",
+        "_id": "mcIVNJkBLDnO6wEzYvaG",
         "_score": 10.9304905,
         "_source": {
           "profileName": "M. White",
@@ -1297,7 +1297,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "oXz3LpkB-_PrFombVaJX",
+        "_id": "38YXNJkBLDnO6wEzZptX",
         "_score": 10.813116,
         "_source": {
           "profileName": "Noname Porter-McShirley \"Artist & Author\"",
@@ -1315,7 +1315,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "L3f1LpkB-_PrFombX_Tt",
+        "_id": "bcEUNJkBLDnO6wEzve1r",
         "_score": 10.809839,
         "_source": {
           "profileName": "Siva Balan \"Cosmic Consciousness\"",
@@ -1334,121 +1334,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "SL0rL5kB-_PrFombESiZ",
-        "_score": 10.389578,
-        "_source": {
-          "profileName": "gknight",
-          "summary": "Inspiring sound",
-          "helpfulness_up": 7,
-          "productId": "B000BRHZEG",
-          "helpfulness_ratio": 1.0,
-          "title": "Crush",
-          "userId": "A2HO1FB4AQFFLE",
-          "score": 5.0,
-          "price": null,
-          "time": 965433600,
-          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "C60ZL5kB-_PrFomb-Qkr",
-        "_score": 10.389578,
-        "_source": {
-          "profileName": "gknight",
-          "summary": "Inspiring sound",
-          "helpfulness_up": 7,
-          "productId": "B00004YL0Y",
-          "helpfulness_ratio": 1.0,
-          "title": "Crush",
-          "userId": "A2HO1FB4AQFFLE",
-          "score": 5.0,
-          "price": 29.04,
-          "time": 965433600,
-          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "rXb0LpkB-_PrFomb27t_",
-        "_score": 10.389578,
-        "_source": {
-          "profileName": "gknight",
-          "summary": "Inspiring sound",
-          "helpfulness_up": 7,
-          "productId": "B000H5TYB4",
-          "helpfulness_ratio": 1.0,
-          "title": "Crush",
-          "userId": "A2HO1FB4AQFFLE",
-          "score": 5.0,
-          "price": 30.15,
-          "time": 965433600,
-          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "fI4AL5kB-_PrFombcIXQ",
-        "_score": 10.389578,
-        "_source": {
-          "profileName": "gknight",
-          "summary": "Inspiring sound",
-          "helpfulness_up": 7,
-          "productId": "B00004TGAV",
-          "helpfulness_ratio": 1.0,
-          "title": "Crush",
-          "userId": "A2HO1FB4AQFFLE",
-          "score": 5.0,
-          "price": null,
-          "time": 965433600,
-          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "6on-LpkB-_PrFombF2F8",
-        "_score": 10.389578,
-        "_source": {
-          "profileName": "gknight",
-          "summary": "Inspiring sound",
-          "helpfulness_up": 7,
-          "productId": "B000054BG7",
-          "helpfulness_ratio": 1.0,
-          "title": "Crush",
-          "userId": "A2HO1FB4AQFFLE",
-          "score": 5.0,
-          "price": null,
-          "time": 965433600,
-          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "fqwZL5kB-_PrFombiLpE",
-        "_score": 10.389578,
-        "_source": {
-          "profileName": "gknight",
-          "summary": "Inspiring sound",
-          "helpfulness_up": 7,
-          "productId": "B0000QX0T2",
-          "helpfulness_ratio": 1.0,
-          "title": "Crush",
-          "userId": "A2HO1FB4AQFFLE",
-          "score": 5.0,
-          "price": null,
-          "time": 965433600,
-          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
-          "helpfulness_down": 0
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "7pICL5kB-_PrFombgLLr",
+        "_id": "LNwkNJkBLDnO6wEzRayZ",
         "_score": 10.389578,
         "_source": {
           "profileName": "gknight",
@@ -1467,13 +1353,13 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "YsIvL5kB-_PrFomby0Ge",
+        "_id": "utghNJkBLDnO6wEzdn5L",
         "_score": 10.389578,
         "_source": {
           "profileName": "gknight",
           "summary": "Inspiring sound",
           "helpfulness_up": 7,
-          "productId": "B00004TQX0",
+          "productId": "B00004TGAV",
           "helpfulness_ratio": 1.0,
           "title": "Crush",
           "userId": "A2HO1FB4AQFFLE",
@@ -1486,7 +1372,45 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "b8w4L5kB-_PrFombeqQF",
+        "_id": "KNMeNJkBLDnO6wEzJlsZ",
+        "_score": 10.389578,
+        "_source": {
+          "profileName": "gknight",
+          "summary": "Inspiring sound",
+          "helpfulness_up": 7,
+          "productId": "B000054BG7",
+          "helpfulness_ratio": 1.0,
+          "title": "Crush",
+          "userId": "A2HO1FB4AQFFLE",
+          "score": 5.0,
+          "price": null,
+          "time": 965433600,
+          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "hgc5NJkBLDnO6wEzHiF2",
+        "_score": 10.389578,
+        "_source": {
+          "profileName": "gknight",
+          "summary": "Inspiring sound",
+          "helpfulness_up": 7,
+          "productId": "B000BRHZEG",
+          "helpfulness_ratio": 1.0,
+          "title": "Crush",
+          "userId": "A2HO1FB4AQFFLE",
+          "score": 5.0,
+          "price": null,
+          "time": 965433600,
+          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "rRZBNJkBLDnO6wEzKp36",
         "_score": 10.389578,
         "_source": {
           "profileName": "gknight",
@@ -1505,64 +1429,83 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "_bclL5kB-_PrFombrqST",
-        "_score": 10.314926,
+        "_id": "68AUNJkBLDnO6wEzObSR",
+        "_score": 10.389578,
         "_source": {
-          "profileName": "Mark D. Cunningham",
-          "summary": "&quot;Soul&quot; Inspiring",
-          "helpfulness_up": 2,
-          "productId": "B000EMH95S",
-          "helpfulness_ratio": 0.6666666666666666,
-          "title": "Acoustic Soul",
-          "userId": "AFD5MYS8EN8KN",
+          "profileName": "gknight",
+          "summary": "Inspiring sound",
+          "helpfulness_up": 7,
+          "productId": "B000H5TYB4",
+          "helpfulness_ratio": 1.0,
+          "title": "Crush",
+          "userId": "A2HO1FB4AQFFLE",
           "score": 5.0,
-          "price": 30.46,
-          "time": 1020556800,
-          "text": "India.Arie's &quot;Acoustic Soul&quot; is incredibly beautiful music. This is what you would call &quot;grown folks' music&quot;! While I love every track on this CD (including the thought-provoking &quot;Video&quot; and the scintillating &quot;Brown Skin&quot; {not to mention it is one more reminder of why one should be proud of being black!}), I would like to bring noteworthy attention to the incredible gem &quot;Simple&quot; and the awesome and inspiring &quot;Wonderful,&quot; which is a tribute to Arie's hero Stevie Wonder. &quot;Simple&quot; is a spare and beautiful love song that musically and lyrically (in its &quot;simple&quot; arrangement) puts much of what passes on the radio as love songs to shame. Stevie Wonder must be flattered by &quot;Wonderful,&quot; a beautiful song about why our elders are so important to our growth as people and artists. Listening to this has made me want to write something (albeit non-musical) for my own hero, the great novelist Toni Morrison.India.Arie's &quot;strength, courage and wisdom&quot; is evident on every facet of this CD. It is the reason why music should be made and played! You will be hard pressed to find much in the record store this positive, this soulful and this dynamic. India.Arie may not have won any Grammys, but that is a poor reflection on the people who decide who is deserving of the gold plated phonographs. Those of us who own &quot;Acoustic Soul&quot; already know what the rest of the world should. When this CD dropped in stores, India.Arie was already a winner!India.Arie, you have a fan for life. I love what you do.",
-          "helpfulness_down": 1
+          "price": 30.15,
+          "time": 965433600,
+          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
+          "helpfulness_down": 0
         }
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "Aa4bL5kB-_PrFombiEw_",
-        "_score": 10.314926,
+        "_id": "vPYwNJkBLDnO6wEz07PK",
+        "_score": 10.389578,
         "_source": {
-          "profileName": "Mark D. Cunningham",
-          "summary": "&quot;Soul&quot; Inspiring",
-          "helpfulness_up": 2,
-          "productId": "B00005K9XA",
-          "helpfulness_ratio": 0.6666666666666666,
-          "title": "Acoustic Soul [Vinyl]",
-          "userId": "AFD5MYS8EN8KN",
-          "score": 5.0,
-          "price": null,
-          "time": 1020556800,
-          "text": "India.Arie's &quot;Acoustic Soul&quot; is incredibly beautiful music. This is what you would call &quot;grown folks' music&quot;! While I love every track on this CD (including the thought-provoking &quot;Video&quot; and the scintillating &quot;Brown Skin&quot; {not to mention it is one more reminder of why one should be proud of being black!}), I would like to bring noteworthy attention to the incredible gem &quot;Simple&quot; and the awesome and inspiring &quot;Wonderful,&quot; which is a tribute to Arie's hero Stevie Wonder. &quot;Simple&quot; is a spare and beautiful love song that musically and lyrically (in its &quot;simple&quot; arrangement) puts much of what passes on the radio as love songs to shame. Stevie Wonder must be flattered by &quot;Wonderful,&quot; a beautiful song about why our elders are so important to our growth as people and artists. Listening to this has made me want to write something (albeit non-musical) for my own hero, the great novelist Toni Morrison.India.Arie's &quot;strength, courage and wisdom&quot; is evident on every facet of this CD. It is the reason why music should be made and played! You will be hard pressed to find much in the record store this positive, this soulful and this dynamic. India.Arie may not have won any Grammys, but that is a poor reflection on the people who decide who is deserving of the gold plated phonographs. Those of us who own &quot;Acoustic Soul&quot; already know what the rest of the world should. When this CD dropped in stores, India.Arie was already a winner!India.Arie, you have a fan for life. I love what you do.",
-          "helpfulness_down": 1
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "wHf1LpkB-_PrFombQJ9X",
-        "_score": 10.314926,
-        "_source": {
-          "profileName": "Mark D. Cunningham",
-          "summary": "&quot;Soul&quot; Inspiring",
-          "helpfulness_up": 2,
-          "productId": "B00013YRQ4",
-          "helpfulness_ratio": 0.6666666666666666,
-          "title": "Untitled",
-          "userId": "AFD5MYS8EN8KN",
+          "profileName": "gknight",
+          "summary": "Inspiring sound",
+          "helpfulness_up": 7,
+          "productId": "B0000QX0T2",
+          "helpfulness_ratio": 1.0,
+          "title": "Crush",
+          "userId": "A2HO1FB4AQFFLE",
           "score": 5.0,
           "price": null,
-          "time": 1020556800,
-          "text": "India.Arie's &quot;Acoustic Soul&quot; is incredibly beautiful music. This is what you would call &quot;grown folks' music&quot;! While I love every track on this CD (including the thought-provoking &quot;Video&quot; and the scintillating &quot;Brown Skin&quot; {not to mention it is one more reminder of why one should be proud of being black!}), I would like to bring noteworthy attention to the incredible gem &quot;Simple&quot; and the awesome and inspiring &quot;Wonderful,&quot; which is a tribute to Arie's hero Stevie Wonder. &quot;Simple&quot; is a spare and beautiful love song that musically and lyrically (in its &quot;simple&quot; arrangement) puts much of what passes on the radio as love songs to shame. Stevie Wonder must be flattered by &quot;Wonderful,&quot; a beautiful song about why our elders are so important to our growth as people and artists. Listening to this has made me want to write something (albeit non-musical) for my own hero, the great novelist Toni Morrison.India.Arie's &quot;strength, courage and wisdom&quot; is evident on every facet of this CD. It is the reason why music should be made and played! You will be hard pressed to find much in the record store this positive, this soulful and this dynamic. India.Arie may not have won any Grammys, but that is a poor reflection on the people who decide who is deserving of the gold plated phonographs. Those of us who own &quot;Acoustic Soul&quot; already know what the rest of the world should. When this CD dropped in stores, India.Arie was already a winner!India.Arie, you have a fan for life. I love what you do.",
-          "helpfulness_down": 1
+          "time": 965433600,
+          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
+          "helpfulness_down": 0
         }
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "unn2LpkB-_PrFombM82L",
+        "_id": "SfcwNJkBLDnO6wEz8gLN",
+        "_score": 10.389578,
+        "_source": {
+          "profileName": "gknight",
+          "summary": "Inspiring sound",
+          "helpfulness_up": 7,
+          "productId": "B00004YL0Y",
+          "helpfulness_ratio": 1.0,
+          "title": "Crush",
+          "userId": "A2HO1FB4AQFFLE",
+          "score": 5.0,
+          "price": 29.04,
+          "time": 965433600,
+          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "oAw7NJkBLDnO6wEz2DqM",
+        "_score": 10.389578,
+        "_source": {
+          "profileName": "gknight",
+          "summary": "Inspiring sound",
+          "helpfulness_up": 7,
+          "productId": "B00004TQX0",
+          "helpfulness_ratio": 1.0,
+          "title": "Crush",
+          "userId": "A2HO1FB4AQFFLE",
+          "score": 5.0,
+          "price": null,
+          "time": 965433600,
+          "text": "I was searching desperately for that sound, that 80's upbeat sound that I've heard on the radio a few times but never knew who created it. When I heard &quot;It's my Life&quot; on the radio, and heard it was by Bon Jovi, I finally heard that sound, a song I can relate to. I'm almost constantly looking for inspiration in my life, and the lyrics of that song helped fill a pleasant void.Then I listened to the rest of the CD. Amazing, simply amazing. I thought 'It's my life' was great, now here are 8 other songs that are just as good, or better! After listening to this album, I quickly ran up to best buy and bought their crossroads cd. I am now addicted to Bon Jovi music, and Crush started this addiction. Here's my little breakdown of each song (I've placed Bon Jovi songs into three categories: Passionate-'livin' on a prayer' and 'you give love a bad name' type songs; Fun-'Bad medicine' and 'Wanted dead or alive' type songs and Ballad-'Always' and 'Bed of Roses' type songs):1 It's my life-(passionate) This is exactly what I've been thinking for the past year, and this song helped channel my thoughts to music. Very upbeat and passionate, advancement to the &quot;livin' on a prayer&quot; tune in theme and sound. When Jon sings &quot;It's my life, it's now or never, I aint gonna live forever&quot; if you're not yelling it out loud with him, perhaps you should re-examine your current life situation. Rated 10/102 Say it aint so-(fun) This song is quite different form the rest of Bon Jovi music, and I didn't like it initially, but it is growing on me, and reminds me of current rock with a touch of the beatles. Rated 9/103 Thank you for loving me-(ballad) Ah, their first new ballad on the CD. This really is great stuff right here. The vocals and music, like any other of their ballads, are seamless and very emotional. Like many others have said, this is a perfect marriage tune right here. Rated: 10/104 Two Story Town-(fun) Lyrics are fun, music is very catchy, and this is REAL music, unlike the &quot;music&quot; on the radios today. Inspiring message: Do not live your life in moderation. Rated: 9/105 Next 100 years-(passionate) The beginning of this song is almost too incredible, the song doesn't quite live up to the beginning, but it is a great song nonetheless. Vocal are awesome (It is Bon Jovi...) Rated: 10/106 Just Older-(passionate) Although I really can't relate to this song's message (I'm only 17...), the sound of this song, more than any other, has the old 80s sound to it. One of the heavier tunes on this relatively softer album, Just Older is both passionate and fun. Rated: 10/107 Mystery Train-(passsionate/ballad) Album's first low point, not a bad song at all (it's pretty good actually), it just doesn't live up to the rest of the amazing songs throughout the rest of the album. It's not as loving as a ballad, and not as exciting as a passionate song which renders it a little of an odd ball. Rated: 7/108 Save the World-(ballad) The opening vocals may be a little tedious, but the rest of the song is nothing less than heaven sent, it really is the best chorus Bon Jovi has ever written. Simply marvelous in every respect, if you're not in the lovey-dovey mood after this, nothing can save you. Rated: 10/109 Captain Crash &amp; the Beauty Queen from Mars-(fun) This song is pure fun, and there isn't a more upbeat and smile inducing song on this CD. Great guitar and drum work, vocals are very fun. Rated: 10/1010 She's a Mystery-(ballad?) Uh, every cd has them, even an amazing cd such as this has its low points, and this is one of them. The music is pretty boring, and this only makes the vocals sound even more out of place. Rated: 3/1011 I Got the Girl-(fun) And here's the only other low point of the cd. The chorus is very cheesy and reminds me of 'Lay your hands on me', but at least that song was decent, this is a proportional disaster. Oh well... Rated: 2/1012 One Wild Night-(fun) So does the cd end on a positive note? I say so. Bon Jovi ends with very catchy (and heavy) tune. The beginning and end of this song are pretty cheesy though and should be ignored... Rated: 8/10If you you're in search of really great music that truly has an inspiring message behind it, I beg you to purchase this album. It'll only cost [several dollars], but the joy and inspiration you draw from the music may be priceless (if you're anything like me). Good luck!",
+          "helpfulness_down": 0
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "-MMVNJkBLDnO6wEz18bA",
         "_score": 10.314926,
         "_source": {
           "profileName": "Mark D. Cunningham",
@@ -1581,7 +1524,26 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "NJoGL5kB-_PrFombZyrB",
+        "_id": "_sEUNJkBLDnO6wEzmJi7",
+        "_score": 10.314926,
+        "_source": {
+          "profileName": "Mark D. Cunningham",
+          "summary": "&quot;Soul&quot; Inspiring",
+          "helpfulness_up": 2,
+          "productId": "B00013YRQ4",
+          "helpfulness_ratio": 0.6666666666666666,
+          "title": "Untitled",
+          "userId": "AFD5MYS8EN8KN",
+          "score": 5.0,
+          "price": null,
+          "time": 1020556800,
+          "text": "India.Arie's &quot;Acoustic Soul&quot; is incredibly beautiful music. This is what you would call &quot;grown folks' music&quot;! While I love every track on this CD (including the thought-provoking &quot;Video&quot; and the scintillating &quot;Brown Skin&quot; {not to mention it is one more reminder of why one should be proud of being black!}), I would like to bring noteworthy attention to the incredible gem &quot;Simple&quot; and the awesome and inspiring &quot;Wonderful,&quot; which is a tribute to Arie's hero Stevie Wonder. &quot;Simple&quot; is a spare and beautiful love song that musically and lyrically (in its &quot;simple&quot; arrangement) puts much of what passes on the radio as love songs to shame. Stevie Wonder must be flattered by &quot;Wonderful,&quot; a beautiful song about why our elders are so important to our growth as people and artists. Listening to this has made me want to write something (albeit non-musical) for my own hero, the great novelist Toni Morrison.India.Arie's &quot;strength, courage and wisdom&quot; is evident on every facet of this CD. It is the reason why music should be made and played! You will be hard pressed to find much in the record store this positive, this soulful and this dynamic. India.Arie may not have won any Grammys, but that is a poor reflection on the people who decide who is deserving of the gold plated phonographs. Those of us who own &quot;Acoustic Soul&quot; already know what the rest of the world should. When this CD dropped in stores, India.Arie was already a winner!India.Arie, you have a fan for life. I love what you do.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "cuQnNJkBLDnO6wEzwSPw",
         "_score": 10.314926,
         "_source": {
           "profileName": "Mark D. Cunningham",
@@ -1600,7 +1562,45 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "htA6L5kB-_PrFomb7E-1",
+        "_id": "P_gxNJkBLDnO6wEzk0V7",
+        "_score": 10.314926,
+        "_source": {
+          "profileName": "Mark D. Cunningham",
+          "summary": "&quot;Soul&quot; Inspiring",
+          "helpfulness_up": 2,
+          "productId": "B00005K9XA",
+          "helpfulness_ratio": 0.6666666666666666,
+          "title": "Acoustic Soul [Vinyl]",
+          "userId": "AFD5MYS8EN8KN",
+          "score": 5.0,
+          "price": null,
+          "time": 1020556800,
+          "text": "India.Arie's &quot;Acoustic Soul&quot; is incredibly beautiful music. This is what you would call &quot;grown folks' music&quot;! While I love every track on this CD (including the thought-provoking &quot;Video&quot; and the scintillating &quot;Brown Skin&quot; {not to mention it is one more reminder of why one should be proud of being black!}), I would like to bring noteworthy attention to the incredible gem &quot;Simple&quot; and the awesome and inspiring &quot;Wonderful,&quot; which is a tribute to Arie's hero Stevie Wonder. &quot;Simple&quot; is a spare and beautiful love song that musically and lyrically (in its &quot;simple&quot; arrangement) puts much of what passes on the radio as love songs to shame. Stevie Wonder must be flattered by &quot;Wonderful,&quot; a beautiful song about why our elders are so important to our growth as people and artists. Listening to this has made me want to write something (albeit non-musical) for my own hero, the great novelist Toni Morrison.India.Arie's &quot;strength, courage and wisdom&quot; is evident on every facet of this CD. It is the reason why music should be made and played! You will be hard pressed to find much in the record store this positive, this soulful and this dynamic. India.Arie may not have won any Grammys, but that is a poor reflection on the people who decide who is deserving of the gold plated phonographs. Those of us who own &quot;Acoustic Soul&quot; already know what the rest of the world should. When this CD dropped in stores, India.Arie was already a winner!India.Arie, you have a fan for life. I love what you do.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "OwE2NJkBLDnO6wEzZZ74",
+        "_score": 10.314926,
+        "_source": {
+          "profileName": "Mark D. Cunningham",
+          "summary": "&quot;Soul&quot; Inspiring",
+          "helpfulness_up": 2,
+          "productId": "B000EMH95S",
+          "helpfulness_ratio": 0.6666666666666666,
+          "title": "Acoustic Soul",
+          "userId": "AFD5MYS8EN8KN",
+          "score": 5.0,
+          "price": 30.46,
+          "time": 1020556800,
+          "text": "India.Arie's &quot;Acoustic Soul&quot; is incredibly beautiful music. This is what you would call &quot;grown folks' music&quot;! While I love every track on this CD (including the thought-provoking &quot;Video&quot; and the scintillating &quot;Brown Skin&quot; {not to mention it is one more reminder of why one should be proud of being black!}), I would like to bring noteworthy attention to the incredible gem &quot;Simple&quot; and the awesome and inspiring &quot;Wonderful,&quot; which is a tribute to Arie's hero Stevie Wonder. &quot;Simple&quot; is a spare and beautiful love song that musically and lyrically (in its &quot;simple&quot; arrangement) puts much of what passes on the radio as love songs to shame. Stevie Wonder must be flattered by &quot;Wonderful,&quot; a beautiful song about why our elders are so important to our growth as people and artists. Listening to this has made me want to write something (albeit non-musical) for my own hero, the great novelist Toni Morrison.India.Arie's &quot;strength, courage and wisdom&quot; is evident on every facet of this CD. It is the reason why music should be made and played! You will be hard pressed to find much in the record store this positive, this soulful and this dynamic. India.Arie may not have won any Grammys, but that is a poor reflection on the people who decide who is deserving of the gold plated phonographs. Those of us who own &quot;Acoustic Soul&quot; already know what the rest of the world should. When this CD dropped in stores, India.Arie was already a winner!India.Arie, you have a fan for life. I love what you do.",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "xBpDNJkBLDnO6wEzB0hB",
         "_score": 10.314926,
         "_source": {
           "profileName": "Mark D. Cunningham",
@@ -1619,7 +1619,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "MbcmL5kB-_PrFombCuiE",
+        "_id": "bwE2NJkBLDnO6wEzfuH3",
         "_score": 10.109139,
         "_source": {
           "profileName": "unknown",
@@ -1638,7 +1638,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "BMs3L5kB-_PrFombDRS5",
+        "_id": "QhVANJkBLDnO6wEzlw12",
         "_score": 9.960356,
         "_source": {
           "profileName": "unknown",
@@ -1656,26 +1656,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "2K4bL5kB-_PrFomb1WHe",
-        "_score": 9.860974,
-        "_source": {
-          "profileName": "D. Mallett \"aleilia\"",
-          "summary": "Inspiring, Authentic! Uplifting! Original!",
-          "helpfulness_up": 2,
-          "productId": "B0001VOHH0",
-          "helpfulness_ratio": 0.6666666666666666,
-          "title": "Happy People / U Saved Me",
-          "userId": "A1R2XT6ZB646EL",
-          "score": 5.0,
-          "price": 16.74,
-          "time": 1093392000,
-          "text": "Well here we go again....Robert S. Kelly has taken us on a journey that I hope never ends! I love his latest cd. I've always believed that the man has a gift for writing and he's proven that with this latest album. What can I say, other than, you have to just listen to disc 2 U/Saved Me. The first track \"3-way call\" with Kelly Price and Kim Burrell, will touch your heart and spirit in ways that you couldn't even imagine if you tried. My eyes are still red from that one. In all of the songs, he wrote Truth! some may question whether it's Robert's truth, but I say to that, never the less it IS the Truth, the same truth that has stood the test of time! so I can relate to that, as I believe so many others will. Oh, I can't forget, \"Prayer Changes\"! that title speaks for itself, it's funny, I've been going through some challenging things lately, and believe me that one, came just in time! Robert will never know in totality the lives he has changed and made a positive impact in, via his music!I would be remiss if I didn't leave a quote from another favorite of mine on the U/Saved Me disc, and it's from the track entitled, \"The Diary of Me\", quote: \"My Past is Not What My Future Holds\"! yall that's some heart-wrenching, impacting, life changing Facts right there! Robert, continue to be used by the Almighty, it's a Gift and I thank God daily for the privilege of allowing you to share it with us all, thereby, leaving us so blessed! This one definitely takes me to places I so enjoy visiting!I would recommend this album to everyone who's a Robert S. Kelly (R.Kelly) fan and those who aren't, you soon will be!Peace All!Donna E. Mallett",
-          "helpfulness_down": 1
-        }
-      },
-      {
-        "_index": "amazon-music-reviews",
-        "_id": "_pkGL5kB-_PrFombLaZE",
+        "_id": "POMnNJkBLDnO6wEzk6B8",
         "_score": 9.860974,
         "_source": {
           "profileName": "D. Mallett \"aleilia\"",
@@ -1694,7 +1675,26 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "-M04L5kB-_PrFomb9mR1",
+        "_id": "FvgxNJkBLDnO6wEznFuo",
+        "_score": 9.860974,
+        "_source": {
+          "profileName": "D. Mallett \"aleilia\"",
+          "summary": "Inspiring, Authentic! Uplifting! Original!",
+          "helpfulness_up": 2,
+          "productId": "B0001VOHH0",
+          "helpfulness_ratio": 0.6666666666666666,
+          "title": "Happy People / U Saved Me",
+          "userId": "A1R2XT6ZB646EL",
+          "score": 5.0,
+          "price": 16.74,
+          "time": 1093392000,
+          "text": "Well here we go again....Robert S. Kelly has taken us on a journey that I hope never ends! I love his latest cd. I've always believed that the man has a gift for writing and he's proven that with this latest album. What can I say, other than, you have to just listen to disc 2 U/Saved Me. The first track \"3-way call\" with Kelly Price and Kim Burrell, will touch your heart and spirit in ways that you couldn't even imagine if you tried. My eyes are still red from that one. In all of the songs, he wrote Truth! some may question whether it's Robert's truth, but I say to that, never the less it IS the Truth, the same truth that has stood the test of time! so I can relate to that, as I believe so many others will. Oh, I can't forget, \"Prayer Changes\"! that title speaks for itself, it's funny, I've been going through some challenging things lately, and believe me that one, came just in time! Robert will never know in totality the lives he has changed and made a positive impact in, via his music!I would be remiss if I didn't leave a quote from another favorite of mine on the U/Saved Me disc, and it's from the track entitled, \"The Diary of Me\", quote: \"My Past is Not What My Future Holds\"! yall that's some heart-wrenching, impacting, life changing Facts right there! Robert, continue to be used by the Almighty, it's a Gift and I thank God daily for the privilege of allowing you to share it with us all, thereby, leaving us so blessed! This one definitely takes me to places I so enjoy visiting!I would recommend this album to everyone who's a Robert S. Kelly (R.Kelly) fan and those who aren't, you soon will be!Peace All!Donna E. Mallett",
+          "helpfulness_down": 1
+        }
+      },
+      {
+        "_index": "amazon-music-reviews",
+        "_id": "NhdBNJkBLDnO6wEzi16v",
         "_score": 9.860974,
         "_source": {
           "profileName": "D. Mallett \"aleilia\"",
@@ -1713,7 +1713,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "SLQjL5kB-_PrFombNg0F",
+        "_id": "hv40NJkBLDnO6wEzcAZm",
         "_score": 9.742168,
         "_source": {
           "profileName": "A. Douglas \"ReallyTiny\"",
@@ -1732,7 +1732,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "HnPzLpkB-_PrFombP2c3",
+        "_id": "XL0SNJkBLDnO6wEzjGAS",
         "_score": 9.321692,
         "_source": {
           "profileName": "Pirouette",
@@ -1751,7 +1751,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "wLooL5kB-_PrFombCJTi",
+        "_id": "_gQ3NJkBLDnO6wEzxo1G",
         "_score": 8.427856,
         "_source": {
           "profileName": "K. Loftis \"www.KimLoftis.com: Spiritual Fulfi...",
@@ -1770,7 +1770,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "R9E7L5kB-_PrFombii2x",
+        "_id": "hRtDNJkBLDnO6wEzVybZ",
         "_score": 8.295864,
         "_source": {
           "profileName": "John",
@@ -1788,7 +1788,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "kdE7L5kB-_PrFombii2x",
+        "_id": "zxtDNJkBLDnO6wEzVybZ",
         "_score": 8.295864,
         "_source": {
           "profileName": "John",
@@ -1806,7 +1806,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "nXPzLpkB-_PrFombkuue",
+        "_id": "270SNJkBLDnO6wEzyOQr",
         "_score": 7.9279513,
         "_source": {
           "profileName": "Stephen C. Bird",
@@ -1824,7 +1824,7 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "hXPzLpkB-_PrFombkuye",
+        "_id": "w70SNJkBLDnO6wEzyOUr",
         "_score": 7.9279513,
         "_source": {
           "profileName": "Stephen C. Bird",
@@ -1842,14 +1842,14 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "GHr2LpkB-_PrFombq9Kf",
+        "_id": "COImNJkBLDnO6wEzvjPG",
         "_score": 5.159539,
         "_source": {
           "profileName": "Anthony&#34;Tuc-9&#34;Tucker \"envys'favorite ...",
           "summary": "Absolutely GREAT,mature music with the MOST\"touching\",heart-rending as well as the most inspiring,esteem building songs EVER!!",
           "helpfulness_up": 0,
-          "productId": "B00005YDJD",
-          "title": "Mariah Carey's Greatest Hits",
+          "productId": "B00005T7IU",
+          "title": "Greatest Hits",
           "userId": "A1W3ZAKFIDGM13",
           "score": 5.0,
           "price": null,
@@ -1860,14 +1860,14 @@
       },
       {
         "_index": "amazon-music-reviews",
-        "_id": "ypgFL5kB-_PrFombVDky",
+        "_id": "VsQWNJkBLDnO6wEzoMt_",
         "_score": 5.159539,
         "_source": {
           "profileName": "Anthony&#34;Tuc-9&#34;Tucker \"envys'favorite ...",
           "summary": "Absolutely GREAT,mature music with the MOST\"touching\",heart-rending as well as the most inspiring,esteem building songs EVER!!",
           "helpfulness_up": 0,
-          "productId": "B00005T7IU",
-          "title": "Greatest Hits",
+          "productId": "B00005YDJD",
+          "title": "Mariah Carey's Greatest Hits",
           "userId": "A1W3ZAKFIDGM13",
           "score": 5.0,
           "price": null,

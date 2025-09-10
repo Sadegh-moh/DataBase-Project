@@ -1,0 +1,8 @@
+{
+  "source": { "index": "amazon-music-reviews", "size": 5000 },
+  "dest":   { "index": "amazon-music-reviews-s10" },
+  "script": {
+    "lang": "painless",
+    "source": "boolean keep=false; if (ctx._source.containsKey('userId') && ctx._source.userId!=null) { int h = ctx._source.userId.toString().hashCode(); keep = ((h & 0x7fffffff) % 10) == 0; } else if (ctx._source.containsKey('productId') && ctx._source.productId!=null) { int h = ctx._source.productId.toString().hashCode(); keep = ((h & 0x7fffffff) % 10) == 0; } if (!keep) { ctx.op = 'noop'; }"
+  }
+}

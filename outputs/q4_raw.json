@@ -1,5 +1,5 @@
 {
-  "took": 24,
+  "took": 58,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -20,47 +20,47 @@
       "doc_count": 2000,
       "top_terms": {
         "doc_count_error_upper_bound": 0,
-        "sum_other_doc_count": 152924,
+        "sum_other_doc_count": 25485,
         "buckets": [
           {
+            "key": "disappointed",
+            "doc_count": 2000
+          },
+          {
             "key": "i",
-            "doc_count": 1578
-          },
-          {
-            "key": "album",
-            "doc_count": 1278
-          },
-          {
-            "key": "metallica",
-            "doc_count": 1246
-          },
-          {
-            "key": "like",
-            "doc_count": 1122
-          },
-          {
-            "key": "all",
-            "doc_count": 1027
-          },
-          {
-            "key": "have",
-            "doc_count": 1023
+            "doc_count": 1202
           },
           {
             "key": "you",
-            "doc_count": 1002
+            "doc_count": 866
           },
           {
-            "key": "just",
-            "doc_count": 890
+            "key": "cd",
+            "doc_count": 783
           },
           {
-            "key": "out",
-            "doc_count": 806
+            "key": "album",
+            "doc_count": 460
+          },
+          {
+            "key": "very",
+            "doc_count": 403
+          },
+          {
+            "key": "won't",
+            "doc_count": 370
+          },
+          {
+            "key": "have",
+            "doc_count": 328
           },
           {
             "key": "one",
-            "doc_count": 804
+            "doc_count": 324
+          },
+          {
+            "key": "songs",
+            "doc_count": 295
           }
         ]
       }

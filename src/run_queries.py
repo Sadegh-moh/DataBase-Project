@@ -122,9 +122,10 @@ def q10(index, size):
         "must":   [{"match": {"text": "emotional"}}],
         "filter": [{"term":  {"score": 5.0}}]
       }
-    },
+    }
+    ,
     "aggs": _sampler("phrases", {
-      "terms": { "field": "text.shingles", "size": 10, "shard_size": 200, "min_doc_count": 10 }
+      "terms": { "field": "text.shingles", "size": 10, "shard_size": 100, "min_doc_count": 5 }
     })
   }
 

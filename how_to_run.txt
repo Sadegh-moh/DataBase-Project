@@ -59,7 +59,7 @@ for the queries:
 
 $qs = 'q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11'
 foreach ($q in $qs) {
-  python .\src\bench_pro.py --duration 20 --concurrency 16 `
+  python .\src\bench.py --duration 20 --concurrency 4 8 12 16 20 24 32 40 48 `
     --query-file ".\queries\$q.json" `
     --host http://127.0.0.1:9200 --index amazon-music-reviews `
     --out-json ".\outputs\${q}_bench.json" --out-csv ".\outputs\${q}_bench.csv"
@@ -67,21 +67,48 @@ foreach ($q in $qs) {
 
 6) “Optimization” pass and compare
 
+Create the JSON file (exact double quotes, no smart quotes):
+@"
+{
+  "index": {
+    "refresh_interval": "60s",
+    "number_of_replicas": 0
+  }
+}
+"@ | Set-Content -Encoding ascii .\optimize_settings.json
+
+
 6A) Tune index settings (no schema change)
 # Switch to ingest-friendly settings (less refresh, no replicas)
-curl.exe -X PUT "http://127.0.0.1:9200/amazon-music-reviews/_settings" `
+curl.exe -s -X PUT "http://127.0.0.1:9200/amazon-music-reviews/_settings" `
   -H "Content-Type: application/json" `
-  -d "{""index"":{""refresh_interval"":""60s"",""number_of_replicas"":0}}"
+  --data-binary "@optimize_settings.json"
 
 Now search-optimized (after ingest), revert refresh:
-curl.exe -X PUT "http://127.0.0.1:9200/amazon-music-reviews/_settings" `
+@"
+{
+  "index": {
+    "refresh_interval": "1s"
+  }
+}
+"@ | Set-Content -Encoding ascii .\set_refresh_1s.json
+
+
+Then :
+
+curl.exe -s -X PUT "http://127.0.0.1:9200/amazon-music-reviews/_settings" `
   -H "Content-Type: application/json" `
-  -d "{""index"":{""refresh_interval"":""1s""}}"
+  --data-binary "@set_refresh_1s.json"
 
 
 6B) Re-run the benchmark (same matrix)
-python .\src\bench.py --duration 20 --concurrency 4 8 12 16 20 24 32 40 48 `
-  --out .\bench_opt.json
+$qs = 'q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11'
+foreach ($q in $qs) {
+  python .\src\bench.py --duration 20 --concurrency 4 8 12 16 20 24 32 40 48 `
+    --query-file ".\queries\$q.json" `
+    --host http://127.0.0.1:9200 --index amazon-music-reviews `
+    --out-json ".\outputs\${q}_bench_optimized.json" --out-csv ".\outputs\${q}_bench_optimized.csv"
+}
 
 6C) Compare results
 Open the two JSONs and compare throughput_rps, latency_ms_avg, latency_ms_p95 per concurrency.
